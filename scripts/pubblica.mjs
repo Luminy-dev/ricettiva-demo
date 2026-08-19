@@ -37,15 +37,15 @@ const esegui = (comando, args, { silenzioso = false } = {}) =>
 
 const leggi = (comando, args) => (esegui(comando, args, { silenzioso: true }).stdout || '').trim()
 
-const stop = (messaggio, suggerimento) => {
-  console.error(`\n  ✗ ${messaggio}`)
+const stop = (testo, suggerimento) => {
+  console.error(`\n  ✗ ${testo}`)
   if (suggerimento) console.error(`    ${suggerimento}\n`)
   process.exit(1)
 }
 
 // ── 1. siamo in una repo, con un origin? ────────────────────
 if (leggi('git', ['rev-parse', '--is-inside-work-tree']) !== 'true')
-  stop('Qui non c\'è nessuna repo git.', 'git init -b main && git remote add origin <indirizzo>')
+  stop("Qui non c'è nessuna repo git.", 'git init -b main && git remote add origin <indirizzo>')
 
 const origin = leggi('git', ['remote', 'get-url', 'origin'])
 if (!origin) stop('Manca il remote origin.', 'git remote add origin https://github.com/<utente>/<repo>.git')
@@ -60,20 +60,30 @@ if (!veloce) {
 // ── 3. c'è davvero qualcosa da pubblicare? ──────────────────
 esegui('git', ['add', '-A'], { silenzioso: true })
 const modifiche = leggi('git', ['status', '--porcelain'])
-if (!modifiche) {
+
+// Non bastano i file cambiati: può esserci un commit già fatto e mai
+// spinto — è il caso della primissima volta, e di ogni push fallito.
+const conUpstream = leggi('git', ['rev-parse', '--abbrev-ref', '--symbolic-full-name', '@{u}']) !== ''
+const arretrati = Number(leggi('git', ['rev-list', '--count', conUpstream ? '@{u}..HEAD' : 'HEAD'])) || 0
+
+if (!modifiche && arretrati === 0) {
   console.log('\n  · Niente di nuovo da pubblicare: GitHub è già allineato.\n')
   process.exit(0)
 }
 
-const quante = modifiche.split('\n').length
-console.log(`\n  ${quante} file ${quante === 1 ? 'cambiato' : 'cambiati'}:\n`)
-console.log(modifiche.split('\n').slice(0, 12).map((r) => `    ${r}`).join('\n'))
-if (quante > 12) console.log(`    … e altri ${quante - 12}`)
+if (modifiche) {
+  const righe = modifiche.split('\n')
+  console.log(`\n  ${righe.length} file ${righe.length === 1 ? 'cambiato' : 'cambiati'}:\n`)
+  console.log(righe.slice(0, 12).map((r) => `    ${r}`).join('\n'))
+  if (righe.length > 12) console.log(`    … e altri ${righe.length - 12}`)
 
-// ── 4. salva e spingi ───────────────────────────────────────
-console.log(`\n  Salvo: "${messaggio}"\n`)
-if (esegui('git', ['commit', '-m', messaggio]).status !== 0) stop('Il commit non è andato a buon fine.')
+  console.log(`\n  Salvo: "${messaggio}"\n`)
+  if (esegui('git', ['commit', '-m', messaggio]).status !== 0) stop('Il commit non è andato a buon fine.')
+} else {
+  console.log(`\n  Nessun file cambiato, ma ${arretrati} commit ancora da spingere.`)
+}
 
+// ── 4. spingi ───────────────────────────────────────────────
 console.log(`\n  Spingo su ${origin} (${RAMO})…\n`)
 if (esegui('git', ['push', '-u', 'origin', RAMO]).status !== 0)
   stop(
