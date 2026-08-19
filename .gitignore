@@ -1,0 +1,9 @@
+node_modules
+dist
+export
+.env
+.env.local
+.DS_Store
+_to_delete
+.vercel
+*.log

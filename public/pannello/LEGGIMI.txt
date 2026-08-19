@@ -1,0 +1,20 @@
+Schermate del pannello per la pagina /come-funziona.
+
+Metti qui i file con questi nomi (png o jpg vanno bene, li converto io):
+
+  accesso        la schermata di login
+  panoramica     la prima pagina dopo l'accesso, con la percentuale
+  testi          la scheda "Testi del sito"
+  unita          una scheda camera aperta
+  foto           la scheda "Foto" con la galleria
+  prenotazioni   la scheda "Prenotazioni"
+  richieste      l'elenco delle richieste ricevute
+
+Poi lancia:   npm run foto -- pannello
+
+Le converte in WebP e le ridimensiona a 1600px. Finché un file manca,
+al suo posto la pagina mostra un segnaposto che dice quale.
+
+Consiglio per le catture: finestra del browser a 1440px di larghezza,
+zoom al 100%, e usa la struttura demo invece di un cliente vero —
+nelle schermate si leggono nomi, email e numeri di telefono.

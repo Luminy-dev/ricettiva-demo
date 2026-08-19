@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "staykit-demo": {
+      "command": "node",
+      "args": ["C:\\Users\\Utente\\Desktop\\Progetto Axas\\Portale Demo\\mcp\\server.mjs"],
+      "env": {
+        "DEMO_BASE_URL": "https://demo.tuodominio.it"
+      }
+    }
+  }
+}

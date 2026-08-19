@@ -1,0 +1,7 @@
+# Portale delle demo StayKit.
+#
+# Ogni pagina mostra i contenuti di una struttura reale su un dominio
+# che non è il suo. Indicizzarle vorrebbe dire far concorrenza al
+# cliente con una copia del suo stesso sito.
+User-agent: *
+Disallow: /

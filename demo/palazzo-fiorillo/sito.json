@@ -1,0 +1,961 @@
+{
+  "slug": "palazzo-fiorillo",
+  "preset": "bnb",
+  "theme": "glass",
+  "themeOverrides": {},
+  "languages": [
+    "it",
+    "en",
+    "de",
+    "fr"
+  ],
+  "defaultLang": "it",
+  "brand": {
+    "name": "Palazzo Fiorillo",
+    "tagline": {
+      "it": "Bed & Breakfast nel centro storico di Salerno",
+      "en": "Bed & Breakfast in the old town of Salerno",
+      "de": "Bed & Breakfast in der Altstadt von Salerno",
+      "fr": "Bed & Breakfast dans le centre historique de Salerne"
+    },
+    "logo": "",
+    "logoText": "Palazzo Fiorillo"
+  },
+  "contact": {
+    "phone": "+39 089 000 0000",
+    "phoneRaw": "+390890000000",
+    "email": "info@palazzofiorillo.it",
+    "whatsapp": "+393330000000",
+    "whatsappMessage": {
+      "it": "Ciao! Vorrei informazioni sulla disponibilità.",
+      "en": "Hello! I would like to check availability.",
+      "de": "Hallo! Ich hätte gerne Informationen zur Verfügbarkeit.",
+      "fr": "Bonjour ! Je souhaite connaître vos disponibilités."
+    },
+    "address": {
+      "street": "Via dei Mercanti 48",
+      "city": "Salerno",
+      "zip": "84121",
+      "province": "SA",
+      "country": "Italia"
+    },
+    "coords": {
+      "lat": 40.6789,
+      "lng": 14.7554
+    },
+    "checkinTime": "14:00 – 20:00",
+    "checkoutTime": "entro le 10:30"
+  },
+  "legal": {
+    "company": "Palazzo Fiorillo di Anna Fiorillo",
+    "vat": "IT00000000000",
+    "cin": "IT065116B4DEMO00001",
+    "cir": "",
+    "privacyUrl": "",
+    "credits": {
+      "label": "Axas",
+      "url": ""
+    },
+    "privacy": {
+      "controller": "Anna Fiorillo — Palazzo Fiorillo",
+      "address": {},
+      "email": "privacy@palazzofiorillo.it",
+      "pec": "",
+      "dpo": "",
+      "retentionMonths": 24,
+      "analyticsName": "Plausible Analytics",
+      "externalUrl": "",
+      "updatedAt": "2026-08-01"
+    }
+  },
+  "social": {
+    "instagram": "https://instagram.com/palazzofiorillo",
+    "facebook": "https://facebook.com/palazzofiorillo",
+    "tripadvisor": "https://tripadvisor.it/palazzofiorillo",
+    "google": ""
+  },
+  "hero": {
+    "eyebrow": {
+      "it": "Salerno · centro storico, su Via dei Mercanti",
+      "en": "Salerno · old town, on Via dei Mercanti",
+      "de": "Salerno · Altstadt, an der Via dei Mercanti",
+      "fr": "Salerne · centre historique, Via dei Mercanti"
+    },
+    "title": {
+      "it": "Dormire dentro\nil centro storico",
+      "en": "Sleep in the heart\nof the old town",
+      "de": "Schlafen mitten\nin der Altstadt",
+      "fr": "Dormir au cœur\ndu centre historique"
+    },
+    "subtitle": {
+      "it": "Quattro camere in un palazzo del Settecento su Via dei Mercanti. Il Duomo a due minuti, il lungomare a cinque, e i traghetti per Amalfi e Positano che partono a dieci minuti a piedi.",
+      "en": "Four rooms in an eighteenth-century palazzo on Via dei Mercanti. The cathedral two minutes away, the seafront five, and the ferries to Amalfi and Positano a ten-minute walk.",
+      "de": "Vier Zimmer in einem Palazzo aus dem 18. Jahrhundert an der Via dei Mercanti. Der Dom zwei Minuten entfernt, die Strandpromenade fünf, die Fähren nach Amalfi und Positano zehn Gehminuten.",
+      "fr": "Quatre chambres dans un palais du XVIIIᵉ siècle sur la Via dei Mercanti. La cathédrale à deux minutes, le front de mer à cinq, et les ferries pour Amalfi et Positano à dix minutes à pied."
+    },
+    "image": "/demo/palazzo-fiorillo/hero.svg",
+    "video": "",
+    "badges": [
+      {
+        "icon": "map",
+        "label": {
+          "it": "Nel centro storico",
+          "en": "In the old town",
+          "de": "In der Altstadt",
+          "fr": "Dans le centre historique"
+        }
+      },
+      {
+        "icon": "coffee",
+        "label": {
+          "it": "Colazione inclusa",
+          "en": "Breakfast included",
+          "de": "Frühstück inklusive",
+          "fr": "Petit-déjeuner inclus"
+        }
+      },
+      {
+        "icon": "wave",
+        "label": {
+          "it": "Traghetti per la Costiera",
+          "en": "Ferries to the Amalfi Coast",
+          "de": "Fähren zur Amalfiküste",
+          "fr": "Ferries pour la côte amalfitaine"
+        }
+      }
+    ]
+  },
+  "story": {
+    "title": {
+      "it": "Un palazzo di famiglia, aperto agli ospiti",
+      "en": "A family palazzo, open to guests",
+      "de": "Ein Familienpalast, offen für Gäste",
+      "fr": "Un palais de famille, ouvert aux hôtes"
+    },
+    "paragraphs": {
+      "it": [
+        "Il palazzo è del 1780 e sta su Via dei Mercanti da sempre. L’abbiamo sistemato senza snaturarlo: gli infissi sono nuovi e l’aria condizionata funziona, ma i pavimenti in cotto e le volte affrescate del primo piano sono quelli originali.",
+        "Ci abitiamo al secondo piano. Questo cambia tutto: se serve sapere dove si mangia la pizza vera, a che ora parte il traghetto per Amalfi o quale strada evitare in agosto, basta chiedere a colazione.",
+        "Non abbiamo un parcheggio nostro — nel centro storico non ce l’ha nessuno — ma teniamo una convenzione col garage di Piazza Cavour, a quattro minuti a piedi."
+      ],
+      "en": [
+        "The palazzo dates from 1780 and has always stood on Via dei Mercanti. We restored it without changing its nature: new windows and working air conditioning, but the terracotta floors and the frescoed vaults on the first floor are the original ones.",
+        "We live on the second floor. That changes everything: if you want to know where to eat proper pizza, when the ferry to Amalfi leaves or which street to avoid in August, just ask at breakfast.",
+        "We have no car park of our own — nobody in the old town does — but we have an arrangement with the garage in Piazza Cavour, a four-minute walk away."
+      ],
+      "de": [
+        "Der Palazzo stammt von 1780 und steht seit jeher an der Via dei Mercanti. Wir haben ihn behutsam renoviert: neue Fenster und funktionierende Klimaanlage, aber die Terrakottaböden und die Freskengewölbe im ersten Stock sind original.",
+        "Wir wohnen im zweiten Stock. Das macht den Unterschied: Wo es echte Pizza gibt, wann die Fähre nach Amalfi ablegt, welche Straße man im August meidet — fragen Sie beim Frühstück.",
+        "Einen eigenen Parkplatz haben wir nicht — den hat in der Altstadt niemand — aber eine Vereinbarung mit der Garage an der Piazza Cavour, vier Gehminuten entfernt."
+      ],
+      "fr": [
+        "Le palais date de 1780 et se dresse depuis toujours sur la Via dei Mercanti. Nous l’avons restauré sans le dénaturer : fenêtres neuves et climatisation efficace, mais les sols en terre cuite et les voûtes à fresques du premier étage sont d’origine.",
+        "Nous habitons au deuxième étage. Cela change tout : où manger une vraie pizza, à quelle heure part le ferry pour Amalfi, quelle rue éviter en août — demandez au petit-déjeuner.",
+        "Nous n’avons pas de parking — personne n’en a dans le centre historique — mais un accord avec le garage de la Piazza Cavour, à quatre minutes à pied."
+      ]
+    },
+    "image": "/demo/palazzo-fiorillo/story.svg",
+    "highlights": [
+      {
+        "k": {
+          "it": "Camere",
+          "en": "Rooms",
+          "de": "Zimmer",
+          "fr": "Chambres"
+        },
+        "v": "4"
+      },
+      {
+        "k": {
+          "it": "Dal Duomo",
+          "en": "From the cathedral",
+          "de": "Zum Dom",
+          "fr": "De la cathédrale"
+        },
+        "v": "120 m"
+      },
+      {
+        "k": {
+          "it": "Colazione",
+          "en": "Breakfast",
+          "de": "Frühstück",
+          "fr": "Petit-déjeuner"
+        },
+        "v": {
+          "it": "fatta in casa",
+          "en": "homemade",
+          "de": "hausgemacht",
+          "fr": "maison"
+        }
+      }
+    ]
+  },
+  "units": [
+    {
+      "id": "minerva",
+      "name": {
+        "it": "Minerva",
+        "en": "Minerva",
+        "de": "Minerva",
+        "fr": "Minerva"
+      },
+      "blurb": {
+        "it": "La camera d’angolo del primo piano, sotto la volta affrescata. Due finestre sui tetti del centro storico e la luce del mattino che entra da est.",
+        "en": "The corner room on the first floor, under the frescoed vault. Two windows onto the rooftops of the old town and morning light from the east.",
+        "de": "Das Eckzimmer im ersten Stock, unter dem Freskengewölbe. Zwei Fenster über die Dächer der Altstadt und Morgenlicht aus Osten.",
+        "fr": "La chambre d’angle du premier étage, sous la voûte à fresques. Deux fenêtres sur les toits du centre historique et la lumière du matin à l’est."
+      },
+      "guests": 2,
+      "bedrooms": 1,
+      "beds": {
+        "it": "1 letto matrimoniale",
+        "en": "1 double bed",
+        "de": "1 Doppelbett",
+        "fr": "1 lit double"
+      },
+      "bathroom": 1,
+      "size": 22,
+      "view": {
+        "it": "Vista sui tetti del centro",
+        "en": "View over the old town roofs",
+        "de": "Blick über die Altstadtdächer",
+        "fr": "Vue sur les toits du centre"
+      },
+      "kitchen": {
+        "it": "Bollitore, macchina del caffè e frigo in camera",
+        "en": "Kettle, coffee machine and fridge in the room",
+        "de": "Wasserkocher, Kaffeemaschine und Kühlschrank im Zimmer",
+        "fr": "Bouilloire, machine à café et frigo dans la chambre"
+      },
+      "floor": {
+        "it": "Primo piano",
+        "en": "First floor",
+        "de": "Erster Stock",
+        "fr": "Premier étage"
+      },
+      "amenities": [
+        "wifi",
+        "ac",
+        "privateBathroom",
+        "tv",
+        "safe",
+        "hairdryer",
+        "soundproof",
+        "desk"
+      ],
+      "priceFrom": 95,
+      "minStay": 2,
+      "cover": "/demo/palazzo-fiorillo/room-1.svg",
+      "gallery": [
+        "/demo/palazzo-fiorillo/room-1.svg",
+        "/demo/palazzo-fiorillo/room-1b.svg",
+        "/demo/palazzo-fiorillo/bath.svg"
+      ],
+      "active": true
+    },
+    {
+      "id": "arechi",
+      "name": {
+        "it": "Arechi",
+        "en": "Arechi",
+        "de": "Arechi",
+        "fr": "Arechi"
+      },
+      "blurb": {
+        "it": "La più grande: matrimoniale più divano letto, affacciata sulla corte interna. Silenziosa anche il sabato sera, che su Via dei Mercanti non è poco.",
+        "en": "The largest one: double bed plus sofa bed, facing the inner courtyard. Quiet even on a Saturday night, which on Via dei Mercanti is saying something.",
+        "de": "Das größte Zimmer: Doppelbett plus Schlafsofa, zum Innenhof gelegen. Auch am Samstagabend ruhig — an der Via dei Mercanti keine Selbstverständlichkeit.",
+        "fr": "La plus grande : lit double et canapé-lit, donnant sur la cour intérieure. Calme même le samedi soir, ce qui, Via dei Mercanti, n’est pas rien."
+      },
+      "guests": 3,
+      "bedrooms": 1,
+      "beds": {
+        "it": "1 matrimoniale + 1 divano letto",
+        "en": "1 double + 1 sofa bed",
+        "de": "1 Doppelbett + 1 Schlafsofa",
+        "fr": "1 lit double + 1 canapé-lit"
+      },
+      "bathroom": 1,
+      "size": 28,
+      "view": {
+        "it": "Vista corte interna",
+        "en": "Inner courtyard view",
+        "de": "Blick auf den Innenhof",
+        "fr": "Vue cour intérieure"
+      },
+      "kitchen": {
+        "it": "Angolo cottura con piastra a induzione e frigo",
+        "en": "Kitchenette with induction hob and fridge",
+        "de": "Küchenzeile mit Induktionskochfeld und Kühlschrank",
+        "fr": "Kitchenette avec plaque à induction et réfrigérateur"
+      },
+      "floor": {
+        "it": "Primo piano, senza ascensore",
+        "en": "First floor, no lift",
+        "de": "Erster Stock, kein Aufzug",
+        "fr": "Premier étage, sans ascenseur"
+      },
+      "amenities": [
+        "wifi",
+        "ac",
+        "privateBathroom",
+        "tv",
+        "crib",
+        "familyFriendly",
+        "soundproof",
+        "wardrobe"
+      ],
+      "priceFrom": 115,
+      "minStay": 2,
+      "cover": "/demo/palazzo-fiorillo/room-2.svg",
+      "gallery": [
+        "/demo/palazzo-fiorillo/room-2.svg",
+        "/demo/palazzo-fiorillo/room-2b.svg",
+        "/demo/palazzo-fiorillo/bath.svg"
+      ],
+      "active": true
+    },
+    {
+      "id": "plebiscito",
+      "name": {
+        "it": "Plebiscito",
+        "en": "Plebiscito",
+        "de": "Plebiscito",
+        "fr": "Plebiscito"
+      },
+      "blurb": {
+        "it": "Piccola e fresca anche ad agosto: due metri di muro e il soffitto alto quattro. La scelta giusta se il letto serve solo per dormirci.",
+        "en": "Small and cool even in August: two-metre walls and a four-metre ceiling. The right choice if the bed is just for sleeping.",
+        "de": "Klein und auch im August kühl: zwei Meter dicke Mauern, vier Meter Deckenhöhe. Die richtige Wahl, wenn das Bett nur zum Schlafen da ist.",
+        "fr": "Petite et fraîche même en août : deux mètres de murs et quatre de hauteur sous plafond. Le bon choix si le lit ne sert qu’à dormir."
+      },
+      "guests": 2,
+      "bedrooms": 1,
+      "beds": {
+        "it": "2 letti singoli",
+        "en": "2 single beds",
+        "de": "2 Einzelbetten",
+        "fr": "2 lits simples"
+      },
+      "bathroom": 1,
+      "size": 18,
+      "view": {
+        "it": "Vista vicolo",
+        "en": "Alley view",
+        "de": "Blick in die Gasse",
+        "fr": "Vue ruelle"
+      },
+      "kitchen": {
+        "it": "Bollitore e frigo in camera",
+        "en": "Kettle and fridge in the room",
+        "de": "Wasserkocher und Kühlschrank im Zimmer",
+        "fr": "Bouilloire et réfrigérateur dans la chambre"
+      },
+      "floor": {
+        "it": "Piano terra",
+        "en": "Ground floor",
+        "de": "Erdgeschoss",
+        "fr": "Rez-de-chaussée"
+      },
+      "amenities": [
+        "wifi",
+        "ac",
+        "privateBathroom",
+        "nonSmoking",
+        "hotWater"
+      ],
+      "priceFrom": 75,
+      "minStay": 2,
+      "cover": "/demo/palazzo-fiorillo/room-3.svg",
+      "gallery": [
+        "/demo/palazzo-fiorillo/room-3.svg",
+        "/demo/palazzo-fiorillo/bath.svg"
+      ],
+      "active": true
+    },
+    {
+      "id": "trieste",
+      "name": {
+        "it": "Trieste",
+        "en": "Trieste",
+        "de": "Trieste",
+        "fr": "Trieste"
+      },
+      "blurb": {
+        "it": "Sotto il tetto, con terrazzino privato e uno spicchio di golfo fra due campanili. È la camera che si prenota per prima, da marzo.",
+        "en": "Under the roof, with a private terrace and a slice of the gulf between two bell towers. It is the first room to get booked, from March onwards.",
+        "de": "Unter dem Dach, mit kleiner Privatterrasse und einem Stück Golf zwischen zwei Glockentürmen. Das Zimmer, das ab März zuerst gebucht wird.",
+        "fr": "Sous les toits, avec petite terrasse privée et un morceau de golfe entre deux clochers. C’est la chambre réservée en premier, dès mars."
+      },
+      "guests": 2,
+      "bedrooms": 1,
+      "beds": {
+        "it": "1 letto matrimoniale",
+        "en": "1 double bed",
+        "de": "1 Doppelbett",
+        "fr": "1 lit double"
+      },
+      "bathroom": 1,
+      "size": 24,
+      "view": {
+        "it": "Scorcio sul golfo",
+        "en": "Glimpse of the gulf",
+        "de": "Blick auf den Golf",
+        "fr": "Aperçu sur le golfe"
+      },
+      "kitchen": {
+        "it": "Angolo cottura completo e lavastoviglie",
+        "en": "Full kitchenette with dishwasher",
+        "de": "Komplette Küchenzeile mit Geschirrspüler",
+        "fr": "Kitchenette complète avec lave-vaisselle"
+      },
+      "floor": {
+        "it": "Secondo piano",
+        "en": "Second floor",
+        "de": "Zweiter Stock",
+        "fr": "Deuxième étage"
+      },
+      "amenities": [
+        "wifi",
+        "ac",
+        "privateBathroom",
+        "seaView",
+        "terrace",
+        "tv",
+        "soundproof",
+        "safe"
+      ],
+      "priceFrom": 135,
+      "minStay": 3,
+      "cover": "/demo/palazzo-fiorillo/room-4.svg",
+      "gallery": [
+        "/demo/palazzo-fiorillo/room-4.svg",
+        "/demo/palazzo-fiorillo/terrace.svg",
+        "/demo/palazzo-fiorillo/bath.svg"
+      ],
+      "active": true
+    }
+  ],
+  "amenities": [
+    "breakfast",
+    "wifi",
+    "ac",
+    "heating",
+    "terrace",
+    "commonRoom",
+    "cleaning",
+    "linen",
+    "towels",
+    "tv",
+    "nonSmoking",
+    "tourDesk",
+    "luggageStorage",
+    "lateCheckin",
+    "selfCheckin",
+    "familyFriendly",
+    "petsAllowed"
+  ],
+  "amenitiesCustom": [
+    {
+      "icon": "car",
+      "label": {
+        "it": "Garage convenzionato a 4 minuti",
+        "en": "Partner garage 4 minutes away",
+        "de": "Partnergarage 4 Minuten entfernt",
+        "fr": "Garage partenaire à 4 minutes"
+      }
+    },
+    {
+      "icon": "wave",
+      "label": {
+        "it": "Biglietti dei traghetti prenotati da noi",
+        "en": "We book your ferry tickets",
+        "de": "Fährtickets buchen wir für Sie",
+        "fr": "Nous réservons vos billets de ferry"
+      }
+    },
+    {
+      "icon": "luggage",
+      "label": {
+        "it": "Bagagli in custodia anche dopo il check-out",
+        "en": "Luggage kept safe after check-out too",
+        "de": "Gepäckaufbewahrung auch nach dem Check-out",
+        "fr": "Bagages gardés même après le départ"
+      }
+    }
+  ],
+  "breakfast": {
+    "title": {
+      "it": "Si comincia con una colazione vera",
+      "en": "The day starts with a proper breakfast",
+      "de": "Der Tag beginnt mit einem richtigen Frühstück",
+      "fr": "La journée commence par un vrai petit-déjeuner"
+    },
+    "text": {
+      "it": "Sfogliatelle del forno qui sotto, torte fatte in casa, frutta di stagione, mozzarella di bufala il fine settimana. Servita nella sala delle volte dalle 8:00 alle 10:30, e se hai un’intolleranza dillo la sera prima: si organizza.",
+      "en": "Sfogliatelle from the bakery downstairs, homemade cakes, seasonal fruit, buffalo mozzarella at weekends. Served in the vaulted room from 8:00 to 10:30 — tell us the night before about any intolerance and we will sort it.",
+      "de": "Sfogliatelle vom Bäcker unten, hausgemachte Kuchen, Obst der Saison, am Wochenende Büffelmozzarella. Serviert im Gewölbesaal von 8:00 bis 10:30 — Unverträglichkeiten bitte am Vorabend melden.",
+      "fr": "Sfogliatelle de la boulangerie en bas, gâteaux maison, fruits de saison, mozzarella di bufala le week-end. Servi dans la salle voûtée de 8h à 10h30 — signalez toute intolérance la veille, on s’organise."
+    },
+    "hours": "08:00 – 10:30",
+    "image": "/demo/palazzo-fiorillo/breakfast.svg",
+    "items": [
+      {
+        "it": "Torte e crostate fatte in casa",
+        "en": "Homemade cakes and tarts",
+        "de": "Hausgemachte Kuchen und Tartes",
+        "fr": "Gâteaux et tartes maison"
+      },
+      {
+        "it": "Sfogliatelle e cornetti dal forno sotto casa",
+        "en": "Sfogliatelle and pastries from the bakery downstairs",
+        "de": "Sfogliatelle und Gebäck vom Bäcker im Haus",
+        "fr": "Sfogliatelle et viennoiseries de la boulangerie en bas"
+      },
+      {
+        "it": "Frutta di stagione e spremute",
+        "en": "Seasonal fruit and fresh juice",
+        "de": "Saisonobst und frische Säfte",
+        "fr": "Fruits de saison et jus pressés"
+      },
+      {
+        "it": "Opzioni senza glutine su richiesta",
+        "en": "Gluten-free options on request",
+        "de": "Glutenfreie Optionen auf Anfrage",
+        "fr": "Options sans gluten sur demande"
+      }
+    ]
+  },
+  "checkin": {
+    "title": {
+      "it": "Arrivare è semplice",
+      "en": "Arriving is simple",
+      "de": "Die Anreise ist einfach",
+      "fr": "Arriver est simple"
+    },
+    "text": {
+      "it": "Check-in dalle 14:00 alle 20:00. Via dei Mercanti è pedonale: si scarica in Largo Plebiscito e si fanno gli ultimi cinquanta metri a piedi. Se arrivi più tardi avvisaci — lasciamo le chiavi nella cassetta e ti mandiamo il codice.",
+      "en": "Check-in from 14:00 to 20:00. Via dei Mercanti is pedestrian: unload in Largo Plebiscito and walk the last fifty metres. Arriving later? Let us know — we leave the keys in the lockbox and send you the code.",
+      "de": "Check-in von 14:00 bis 20:00 Uhr. Die Via dei Mercanti ist Fußgängerzone: Ausladen am Largo Plebiscito, die letzten fünfzig Meter zu Fuß. Bei späterer Ankunft sagen Sie Bescheid — wir hinterlegen die Schlüssel im Tresor und senden den Code.",
+      "fr": "Arrivée de 14h à 20h. La Via dei Mercanti est piétonne : on décharge Largo Plebiscito et on fait les cinquante derniers mètres à pied. Plus tard ? Prévenez-nous — nous laissons les clés dans la boîte et vous envoyons le code."
+    },
+    "steps": [
+      {
+        "it": "Scrivici il giorno prima con l’orario stimato",
+        "en": "Message us the day before with your estimated time",
+        "de": "Schreiben Sie uns am Vortag Ihre voraussichtliche Ankunftszeit",
+        "fr": "Écrivez-nous la veille avec votre heure d’arrivée estimée"
+      },
+      {
+        "it": "Lascia l’auto nel garage di Piazza Cavour: tariffa convenzionata",
+        "en": "Leave the car in the Piazza Cavour garage: partner rate",
+        "de": "Stellen Sie das Auto in der Garage an der Piazza Cavour ab: Partnertarif",
+        "fr": "Laissez la voiture au garage de la Piazza Cavour : tarif partenaire"
+      },
+      {
+        "it": "Ti accogliamo di persona e ti diamo le chiavi",
+        "en": "We welcome you in person and hand over the keys",
+        "de": "Wir empfangen Sie persönlich und übergeben die Schlüssel",
+        "fr": "Nous vous accueillons en personne et remettons les clés"
+      }
+    ],
+    "image": "/demo/palazzo-fiorillo/checkin.svg"
+  },
+  "gallery": [
+    {
+      "src": "/demo/palazzo-fiorillo/gal-1.svg",
+      "alt": {
+        "it": "La terrazza della camera Trieste",
+        "en": "The terrace of the Trieste room"
+      }
+    },
+    {
+      "src": "/demo/palazzo-fiorillo/gal-2.svg",
+      "alt": {
+        "it": "La colazione nella sala delle volte",
+        "en": "Breakfast in the vaulted room"
+      }
+    },
+    {
+      "src": "/demo/palazzo-fiorillo/gal-3.svg",
+      "alt": {
+        "it": "Scorcio sul golfo fra i campanili",
+        "en": "A glimpse of the gulf between the bell towers"
+      }
+    },
+    {
+      "src": "/demo/palazzo-fiorillo/gal-4.svg",
+      "alt": {
+        "it": "La corte interna del palazzo",
+        "en": "The inner courtyard of the palazzo"
+      }
+    },
+    {
+      "src": "/demo/palazzo-fiorillo/gal-5.svg",
+      "alt": {
+        "it": "La volta affrescata del primo piano",
+        "en": "The frescoed vault on the first floor"
+      }
+    },
+    {
+      "src": "/demo/palazzo-fiorillo/gal-6.svg",
+      "alt": {
+        "it": "Via dei Mercanti all’ora dello struscio",
+        "en": "Via dei Mercanti at the evening stroll"
+      }
+    }
+  ],
+  "reviews": {
+    "rating": 9.3,
+    "count": 214,
+    "source": "Booking.com",
+    "items": [
+      {
+        "author": "Chiara e Marco",
+        "country": "IT",
+        "rating": 10,
+        "date": "2026-07",
+        "text": {
+          "it": "Posizione imbattibile: si esce dal portone e si è già in mezzo alla città vecchia. Anna ci ha prenotato il traghetto per Amalfi e ci ha detto a che ora andare per non trovare la fila.",
+          "en": "Unbeatable location: you step out of the door and you are already in the middle of the old town. Anna booked our ferry to Amalfi and told us when to go to avoid the queue."
+        }
+      },
+      {
+        "author": "Familie Weber",
+        "country": "DE",
+        "rating": 9,
+        "date": "2026-06",
+        "text": {
+          "it": "Camera Arechi silenziosissima nonostante il centro. Colazione ottima, sfogliatelle ancora calde. Unica accortezza: non c’è ascensore, ma lo scrivono chiaramente.",
+          "en": "The Arechi room was completely silent despite being in the centre. Excellent breakfast, sfogliatelle still warm. One thing: there is no lift, but they say so clearly.",
+          "de": "Zimmer Arechi trotz Altstadtlage vollkommen ruhig. Ausgezeichnetes Frühstück, die Sfogliatelle noch warm. Nur: kein Aufzug — steht aber deutlich dabei."
+        }
+      },
+      {
+        "author": "Sophie",
+        "country": "FR",
+        "rating": 10,
+        "date": "2026-05",
+        "text": {
+          "it": "La terrazzina della Trieste al tramonto è esattamente come nelle foto. Ottimo rapporto qualità-prezzo per stare dentro il centro storico.",
+          "en": "The little terrace of the Trieste room at sunset is exactly like the photos. Excellent value for staying right inside the old town.",
+          "fr": "La petite terrasse de la chambre Trieste au coucher du soleil est exactement comme sur les photos. Excellent rapport qualité-prix pour loger dans le centre historique."
+        }
+      }
+    ]
+  },
+  "offers": [
+    {
+      "id": "lunga-permanenza",
+      "title": {
+        "it": "Sette notti, una in regalo",
+        "en": "Seven nights, one on us",
+        "de": "Sieben Nächte, eine geschenkt",
+        "fr": "Sept nuits, une offerte"
+      },
+      "text": {
+        "it": "Prenotando direttamente sette notti consecutive, la settima non si paga. Valido da settembre a giugno, escluse le festività.",
+        "en": "Book seven consecutive nights direct and the seventh is free. Valid from September to June, holidays excluded.",
+        "de": "Bei Direktbuchung von sieben aufeinanderfolgenden Nächten ist die siebte gratis. Gültig von September bis Juni, außer an Feiertagen.",
+        "fr": "En réservant directement sept nuits consécutives, la septième est offerte. Valable de septembre à juin, hors jours fériés."
+      },
+      "badge": {
+        "it": "−14%",
+        "en": "−14%",
+        "de": "−14%",
+        "fr": "−14%"
+      },
+      "active": true
+    },
+    {
+      "id": "costiera",
+      "title": {
+        "it": "Traghetto per la Costiera incluso",
+        "en": "Ferry to the Amalfi Coast included",
+        "de": "Fähre zur Amalfiküste inklusive",
+        "fr": "Ferry pour la côte amalfitaine inclus"
+      },
+      "text": {
+        "it": "Da tre notti in su, andata e ritorno per Amalfi o Positano per due persone. I biglietti li prendiamo noi il giorno prima.",
+        "en": "From three nights up, a return trip to Amalfi or Positano for two. We buy the tickets the day before.",
+        "de": "Ab drei Nächten Hin- und Rückfahrt nach Amalfi oder Positano für zwei Personen. Die Tickets besorgen wir am Vortag.",
+        "fr": "À partir de trois nuits, aller-retour pour Amalfi ou Positano pour deux personnes. Nous prenons les billets la veille."
+      },
+      "badge": {
+        "it": "Da 3 notti",
+        "en": "From 3 nights",
+        "de": "Ab 3 Nächten",
+        "fr": "Dès 3 nuits"
+      },
+      "active": true
+    },
+    {
+      "id": "fuori-stagione",
+      "title": {
+        "it": "Novembre e febbraio: seconda notte a metà",
+        "en": "November and February: half price on the second night",
+        "de": "November und Februar: zweite Nacht zum halben Preis",
+        "fr": "Novembre et février : deuxième nuit à moitié prix"
+      },
+      "text": {
+        "it": "Nei mesi più tranquilli la seconda notte costa la metà. La città è la stessa e i ristoranti hanno posto.",
+        "en": "In the quietest months the second night is half price. Same city, and the restaurants have tables.",
+        "de": "In den ruhigsten Monaten kostet die zweite Nacht die Hälfte. Dieselbe Stadt, und in den Restaurants ist Platz.",
+        "fr": "Dans les mois les plus calmes, la deuxième nuit est à moitié prix. La même ville, et de la place dans les restaurants."
+      },
+      "badge": {
+        "it": "Bassa stagione",
+        "en": "Low season",
+        "de": "Nebensaison",
+        "fr": "Basse saison"
+      },
+      "active": true
+    }
+  ],
+  "blog": {
+    "title": {
+      "it": "Cosa fare a Salerno e dintorni",
+      "en": "What to do in Salerno and nearby",
+      "de": "Was man in Salerno und Umgebung unternehmen kann",
+      "fr": "Que faire à Salerne et alentour"
+    },
+    "intro": {
+      "it": "I posti che consigliamo agli ospiti, provati di persona.",
+      "en": "The places we recommend to our guests, tried out ourselves.",
+      "de": "Die Orte, die wir unseren Gästen empfehlen — selbst getestet.",
+      "fr": "Les adresses que nous conseillons à nos hôtes, testées nous-mêmes."
+    }
+  },
+  "posts": [
+    {
+      "id": "costiera-in-giornata",
+      "tag": {
+        "it": "Gite",
+        "en": "Day trips",
+        "de": "Ausflüge",
+        "fr": "Excursions"
+      },
+      "title": {
+        "it": "La Costiera in giornata, senza impazzire",
+        "en": "The Amalfi Coast in a day, without the stress",
+        "de": "Die Amalfiküste an einem Tag, ohne Stress",
+        "fr": "La côte amalfitaine en une journée, sans stress"
+      },
+      "excerpt": {
+        "it": "Il traghetto parte a dieci minuti da qui e in mezz’ora sei ad Amalfi. In auto ci metteresti il doppio.",
+        "en": "The ferry leaves ten minutes from here and reaches Amalfi in half an hour. By car it takes twice as long."
+      },
+      "body": {
+        "it": [
+          "Il molo Manfredi è a dieci minuti a piedi da casa. Il traghetto per Amalfi parte più volte al giorno da aprile a ottobre e ci mette una mezz’ora: in auto, con il traffico della statale, ce ne vogliono almeno sessanta minuti e poi c’è il problema del parcheggio.",
+          "Il consiglio vero è prendere la prima corsa del mattino, verso le nove. Ad Amalfi ci arrivi che i pullman dei gruppi non sono ancora scesi, e il Duomo lo vedi con calma.",
+          "Se avete tempo per una sola tappa scegliete Atrani, che è a dieci minuti a piedi da Amalfi e ha un decimo delle persone. Se ne avete due, il traghetto prosegue per Positano.",
+          "I biglietti si comprano al molo, ma nei fine settimana di agosto conviene prenotarli: ce ne occupiamo noi, basta dirlo la sera prima."
+        ],
+        "en": [
+          "Molo Manfredi is a ten-minute walk from the house. Ferries to Amalfi run several times a day from April to October and take about half an hour: by car, with traffic on the coast road, it is at least sixty minutes — and then there is parking.",
+          "The real tip is to take the first morning departure, around nine. You arrive in Amalfi before the coaches have unloaded, and you can see the cathedral in peace.",
+          "If you only have one stop, choose Atrani: ten minutes on foot from Amalfi and a tenth of the people. If you have two, the ferry continues to Positano.",
+          "Tickets are sold at the pier, but on August weekends it is worth booking: we can do it for you, just tell us the night before."
+        ]
+      },
+      "cover": "/demo/palazzo-fiorillo/gal-3.svg",
+      "active": true
+    },
+    {
+      "id": "dove-mangiare",
+      "tag": {
+        "it": "Mangiare",
+        "en": "Eating",
+        "de": "Essen",
+        "fr": "Manger"
+      },
+      "title": {
+        "it": "Dove mangiamo noi, quando non cuciniamo",
+        "en": "Where we eat, when we are not cooking",
+        "de": "Wo wir essen, wenn wir nicht kochen",
+        "fr": "Où nous mangeons, quand nous ne cuisinons pas"
+      },
+      "excerpt": {
+        "it": "Tre indirizzi nel centro storico, tutti a piedi. Nessuno dei tre ha il menù tradotto in cinque lingue.",
+        "en": "Three addresses in the old town, all walkable. None of them has a menu translated into five languages."
+      },
+      "body": {
+        "it": [
+          "La regola che diamo a tutti: allontanatevi di due strade dal lungomare. I ristoranti con la vetrina piena di foto dei piatti vivono di passaggio e si vede.",
+          "Per la pizza c’è un posto su Via dei Mercanti che fa la napoletana come si deve, forno a legna e impasto lungo. Non prende prenotazioni: si va alle otto o si aspetta.",
+          "Per il pesce conviene scendere verso il porto. Il posto che consigliamo cambia il menù ogni giorno in base al pescato, e se chiedete cosa c’è di buono ve lo dicono davvero.",
+          "La trattoria dove andiamo la domenica non ha insegna, sei tavoli e la cucina di una signora che fa una genovese da ricordare. Vi scriviamo l’indirizzo a colazione: da soli non la trovereste."
+        ],
+        "en": [
+          "The rule we give everyone: walk two streets away from the seafront. Restaurants with photos of the dishes in the window live off passing trade, and it shows.",
+          "For pizza there is a place on Via dei Mercanti that does proper Neapolitan: wood oven, long-proofed dough. No bookings — you go at eight or you wait.",
+          "For fish, head down towards the port. The place we recommend changes its menu daily depending on the catch, and if you ask what is good they will actually tell you.",
+          "The trattoria where we eat on Sundays has no sign, six tables and a lady in the kitchen who makes a genovese worth remembering. We will write down the address at breakfast: you would never find it on your own."
+        ]
+      },
+      "cover": "/demo/palazzo-fiorillo/breakfast.svg",
+      "active": true
+    }
+  ],
+  "location": {
+    "intro": {
+      "it": "Siamo su Via dei Mercanti, la strada pedonale che attraversa tutta la città vecchia. Da qui non serve l’auto: il Duomo, il lungomare e il molo dei traghetti si fanno a piedi in meno di un quarto d’ora.",
+      "en": "We are on Via dei Mercanti, the pedestrian street that runs through the whole old town. You will not need the car: the cathedral, the seafront and the ferry pier are all under fifteen minutes on foot.",
+      "de": "Wir liegen an der Via dei Mercanti, der Fußgängerstraße quer durch die Altstadt. Ein Auto brauchen Sie nicht: Dom, Strandpromenade und Fähranleger sind in weniger als einer Viertelstunde zu Fuß erreichbar.",
+      "fr": "Nous sommes sur la Via dei Mercanti, la rue piétonne qui traverse toute la vieille ville. Pas besoin de voiture : la cathédrale, le front de mer et l’embarcadère des ferries sont à moins d’un quart d’heure à pied."
+    },
+    "pois": [
+      {
+        "icon": "map",
+        "name": {
+          "it": "Duomo di San Matteo",
+          "en": "San Matteo Cathedral",
+          "de": "Dom San Matteo",
+          "fr": "Cathédrale San Matteo"
+        },
+        "distance": "120 m"
+      },
+      {
+        "icon": "tree",
+        "name": {
+          "it": "Giardino della Minerva",
+          "en": "Giardino della Minerva",
+          "de": "Giardino della Minerva",
+          "fr": "Giardino della Minerva"
+        },
+        "distance": "350 m"
+      },
+      {
+        "icon": "wave",
+        "name": {
+          "it": "Lungomare Trieste",
+          "en": "Lungomare Trieste seafront",
+          "de": "Strandpromenade Trieste",
+          "fr": "Front de mer Trieste"
+        },
+        "distance": "450 m"
+      },
+      {
+        "icon": "wave",
+        "name": {
+          "it": "Molo Manfredi · traghetti per Amalfi e Positano",
+          "en": "Molo Manfredi · ferries to Amalfi and Positano",
+          "de": "Molo Manfredi · Fähren nach Amalfi und Positano",
+          "fr": "Molo Manfredi · ferries pour Amalfi et Positano"
+        },
+        "distance": "900 m"
+      },
+      {
+        "icon": "car",
+        "name": {
+          "it": "Stazione di Salerno",
+          "en": "Salerno railway station",
+          "de": "Bahnhof Salerno",
+          "fr": "Gare de Salerne"
+        },
+        "distance": "1,3 km"
+      },
+      {
+        "icon": "map",
+        "name": {
+          "it": "Castello di Arechi",
+          "en": "Arechi Castle",
+          "de": "Kastell Arechi",
+          "fr": "Château d’Arechi"
+        },
+        "distance": "4 km"
+      },
+      {
+        "icon": "tree",
+        "name": {
+          "it": "Scavi di Pompei (in treno)",
+          "en": "Pompeii ruins (by train)",
+          "de": "Ausgrabungen von Pompeji (mit dem Zug)",
+          "fr": "Site de Pompéi (en train)"
+        },
+        "distance": "30 min"
+      }
+    ]
+  },
+  "booking": {
+    "mode": "internal",
+    "provider": null,
+    "embed": {
+      "type": "html",
+      "html": "",
+      "url": "",
+      "scriptSrc": "",
+      "mountId": "booking-widget",
+      "height": 640,
+      "headExtra": ""
+    },
+    "link": {
+      "url": "",
+      "channel": "booking",
+      "label": ""
+    },
+    "fallback": "internal",
+    "showDirectHint": true
+  },
+  "seo": {
+    "title": {
+      "it": "Palazzo Fiorillo · B&B nel centro storico di Salerno",
+      "en": "Palazzo Fiorillo · B&B in the old town of Salerno",
+      "de": "Palazzo Fiorillo · B&B in der Altstadt von Salerno",
+      "fr": "Palazzo Fiorillo · B&B dans le centre historique de Salerne"
+    },
+    "description": {
+      "it": "Bed & breakfast con quattro camere in un palazzo del Settecento su Via dei Mercanti, a Salerno. Colazione fatta in casa, Duomo a 120 metri, traghetti per la Costiera Amalfitana a dieci minuti a piedi.",
+      "en": "Bed & breakfast with four rooms in an eighteenth-century palazzo on Via dei Mercanti, Salerno. Homemade breakfast, cathedral 120 m away, ferries to the Amalfi Coast a ten-minute walk."
+    },
+    "ogImage": "/demo/palazzo-fiorillo/hero.svg"
+  },
+  "plan": {
+    "booking_engine": true,
+    "direct_requests": true,
+    "multilanguage": true,
+    "media_upload": true,
+    "theme_switching": true,
+    "color_customization": true,
+    "gallery": true,
+    "reviews": true,
+    "map": true,
+    "offers": true,
+    "blog": true,
+    "seo_advanced": true,
+    "analytics": true,
+    "whatsapp": true,
+    "extra_pages": false,
+    "guest_area": false
+  },
+  "settings": {
+    "section.rooms": true,
+    "section.amenities": true,
+    "section.story": true,
+    "section.gallery": true,
+    "section.reviews": true,
+    "section.map": true,
+    "section.offers": true,
+    "section.breakfast": true,
+    "section.checkin": true,
+    "section.blog": true,
+    "nav.blog": true,
+    "booking.hero_bar": true,
+    "booking.sticky_bar": true,
+    "booking.show_prices": true,
+    "hero.video": false,
+    "contact.whatsapp_button": true,
+    "nav.gallery": false
+  },
+  "analytics": {
+    "src": "",
+    "attrs": {}
+  },
+  "vetrina": {
+    "luogo": "Salerno · centro storico",
+    "nota": "Struttura inventata: è la demo di riferimento, con tutti i moduli accesi. Non ha una pagina Booking, quindi la barra delle date apre il modulo di richiesta.",
+    "creata": "2026-08-13",
+    "fonte": ""
+  }
+}

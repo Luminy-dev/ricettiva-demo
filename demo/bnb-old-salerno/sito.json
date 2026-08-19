@@ -1,0 +1,941 @@
+{
+  "slug": "bnb-old-salerno",
+  "preset": "bnb",
+  "theme": "heritage",
+  "themeOverrides": {},
+  "languages": [
+    "it",
+    "en",
+    "es",
+    "fr"
+  ],
+  "defaultLang": "it",
+  "brand": {
+    "name": "B&B Old Salerno",
+    "logoText": "Old Salerno",
+    "logo": "",
+    "tagline": {
+      "en": "Bed & Breakfast in the old town of Salerno",
+      "es": "Bed & Breakfast en el centro histórico de Salerno",
+      "fr": "Bed & Breakfast dans le centre historique de Salerne",
+      "it": "Bed & Breakfast nel centro storico di Salerno"
+    }
+  },
+  "contact": {
+    "address": {
+      "city": "Salerno",
+      "country": "Italia",
+      "province": "SA",
+      "street": "Piazza Cerenza 14",
+      "zip": "84123"
+    },
+    "coords": {},
+    "checkinTime": "14:00 – 21:00",
+    "checkoutTime": "08:00 – 10:00",
+    "email": "info@bboldsalerno.it",
+    "phone": "+39 389 485 1553",
+    "phoneRaw": "+393894851553",
+    "whatsapp": "+39 389 485 1553",
+    "whatsappMessage": {
+      "en": "Hello! I would like to check availability at B&B Old Salerno.",
+      "es": "¡Hola! Quisiera información sobre la disponibilidad en B&B Old Salerno.",
+      "fr": "Bonjour ! Je souhaite connaître vos disponibilités au B&B Old Salerno.",
+      "it": "Ciao! Vorrei informazioni sulla disponibilità al B&B Old Salerno."
+    }
+  },
+  "legal": {
+    "company": "",
+    "vat": "",
+    "cin": "IT065116B4WAVAT2QK",
+    "cir": "15065116EXT1154",
+    "credits": {
+      "label": "Axas",
+      "url": ""
+    },
+    "privacy": {
+      "analyticsName": "Plausible Analytics",
+      "controller": "B&B Old Salerno",
+      "email": "privacy@bboldsalerno.it",
+      "retentionMonths": 24,
+      "updatedAt": "2026-08-14"
+    }
+  },
+  "social": {},
+  "hero": {
+    "eyebrow": {
+      "en": "Salerno · old town, Piazza Cerenza",
+      "es": "Salerno · centro histórico, Piazza Cerenza",
+      "fr": "Salerne · centre historique, Piazza Cerenza",
+      "it": "Salerno · centro storico, Piazza Cerenza"
+    },
+    "title": {
+      "en": "In the heart\nof the old town",
+      "es": "En el corazón\ndel centro histórico",
+      "fr": "Au cœur\ndu centre historique",
+      "it": "Nel cuore\ndel centro storico"
+    },
+    "subtitle": {
+      "en": "Three rooms on Piazza Cerenza, steps from the Provincial Archaeological Museum and the cathedral. The whole centre is walkable, Santa Teresa beach is ten minutes away and the ferry port for the Amalfi Coast is close by.",
+      "es": "Tres habitaciones en Piazza Cerenza, a dos pasos del Museo Arqueológico Provincial y de la Catedral. Todo el centro se recorre a pie, la playa de Santa Teresa está a diez minutos y el puerto de los ferris para la Costa Amalfitana queda muy cerca.",
+      "fr": "Trois chambres sur la Piazza Cerenza, à deux pas du Musée archéologique provincial et de la cathédrale. Tout le centre se parcourt à pied, la plage de Santa Teresa est à dix minutes et le port des ferries pour la côte amalfitaine est tout proche.",
+      "it": "Tre camere in Piazza Cerenza, a due passi dal Museo Archeologico Provinciale e dal Duomo. Il centro si gira tutto a piedi, la spiaggia di Santa Teresa è a dieci minuti e il porto dei traghetti per la Costiera è vicinissimo."
+    },
+    "image": "/demo/bnb-old-salerno/foto-02.jpg",
+    "video": "",
+    "badges": [
+      {
+        "icon": "map",
+        "label": {
+          "en": "In the old town",
+          "es": "En el centro histórico",
+          "fr": "Dans le centre historique",
+          "it": "Nel centro storico"
+        }
+      },
+      {
+        "icon": "coffee",
+        "label": {
+          "en": "Breakfast included",
+          "es": "Desayuno incluido",
+          "fr": "Petit-déjeuner inclus",
+          "it": "Colazione inclusa"
+        }
+      },
+      {
+        "icon": "wave",
+        "label": {
+          "en": "Near the port and the beach",
+          "es": "Cerca del puerto y de la playa",
+          "fr": "Près du port et de la plage",
+          "it": "Vicino al porto e alla spiaggia"
+        }
+      }
+    ]
+  },
+  "story": {
+    "title": {
+      "en": "Stone, wood and terracotta, inside the old town",
+      "es": "Piedra, madera y barro cocido, en el centro histórico",
+      "fr": "Pierre, bois et terre cuite, dans le centre historique",
+      "it": "Pietra, legno e cotto, dentro il centro storico"
+    },
+    "paragraphs": {
+      "en": [
+        "The B&B occupies a building in Salerno's old town, on Piazza Cerenza. Inside, the exposed stone walls, wooden ceilings and terracotta floors have been kept: the rooms were furnished around them, with wrought-iron beds, worked headboards and pale furniture.",
+        "There are three rooms in all. Few, and it shows: in their reviews guests almost always mention the same two things, how helpful the hosts are and the breakfast with fresh pastries every morning.",
+        "The location does the rest. The Provincial Archaeological Museum is fifty metres away, the cathedral a two-minute walk, the station just over a kilometre, and the port with the ferries to the Amalfi Coast is close by."
+      ],
+      "es": [
+        "El B&B ocupa un edificio del centro histórico de Salerno, en Piazza Cerenza. Dentro se han conservado los muros de piedra vista, los techos de madera y los suelos de barro cocido: las habitaciones se amueblaron en torno a ellos, con camas de hierro forjado, cabeceros trabajados y muebles claros.",
+        "Son tres habitaciones en total. Pocas, y se nota: en las reseñas los huéspedes mencionan casi siempre las mismas dos cosas, la amabilidad de quien recibe y el desayuno con bollería fresca cada mañana.",
+        "La ubicación hace el resto. El Museo Arqueológico Provincial está a cincuenta metros, la Catedral a dos minutos a pie, la estación a poco más de un kilómetro y el puerto de los ferris para la Costa Amalfitana queda cerca."
+      ],
+      "fr": [
+        "Le B&B occupe un bâtiment du centre historique de Salerne, sur la Piazza Cerenza. À l'intérieur, les murs en pierre apparente, les plafonds en bois et les sols en terre cuite ont été conservés : les chambres ont été meublées autour d'eux, avec lits en fer forgé, têtes de lit travaillées et mobilier clair.",
+        "Trois chambres en tout. Peu, et cela se sent : dans les avis, les hôtes citent presque toujours les deux mêmes choses, la disponibilité de l'accueil et le petit-déjeuner avec des viennoiseries fraîches chaque matin.",
+        "L'emplacement fait le reste. Le Musée archéologique provincial est à cinquante mètres, la cathédrale à deux minutes à pied, la gare à un peu plus d'un kilomètre, et le port des ferries pour la côte amalfitaine est tout proche."
+      ],
+      "it": [
+        "Il B&B occupa un edificio del centro storico di Salerno, in Piazza Cerenza. All'interno sono rimasti i muri in pietra a vista, i soffitti in legno e i pavimenti in cotto: le camere sono state arredate intorno a questi, con letti in ferro battuto, testiere lavorate e mobili chiari.",
+        "Sono tre camere in tutto. Poche, e si sente: nelle recensioni gli ospiti citano quasi sempre le stesse due cose, la disponibilità di chi accoglie e la colazione con le brioche fresche ogni mattina.",
+        "La posizione fa il resto. Il Museo Archeologico Provinciale è a cinquanta metri, il Duomo a due minuti a piedi, la stazione a poco più di un chilometro e il porto da cui partono i traghetti per la Costiera Amalfitana è a breve distanza."
+      ]
+    },
+    "image": "/demo/bnb-old-salerno/foto-23.jpg",
+    "highlights": [
+      {
+        "k": {
+          "en": "Rooms",
+          "es": "Habitaciones",
+          "fr": "Chambres",
+          "it": "Camere"
+        },
+        "v": "3"
+      },
+      {
+        "k": {
+          "en": "From the cathedral",
+          "es": "De la Catedral",
+          "fr": "De la cathédrale",
+          "it": "Dal Duomo"
+        },
+        "v": "190 m"
+      },
+      {
+        "k": {
+          "en": "Booking score",
+          "es": "Nota Booking",
+          "fr": "Note Booking",
+          "it": "Voto Booking"
+        },
+        "v": "8,1"
+      }
+    ]
+  },
+  "units": [
+    {
+      "active": true,
+      "amenities": [
+        "wifi",
+        "ac",
+        "heating",
+        "privateBathroom",
+        "tv",
+        "soundproof",
+        "desk",
+        "wardrobe",
+        "nonSmoking"
+      ],
+      "bathroom": 1,
+      "bedrooms": 1,
+      "beds": {
+        "en": "1 double bed",
+        "es": "1 cama de matrimonio",
+        "fr": "1 lit double",
+        "it": "1 letto matrimoniale"
+      },
+      "blurb": {
+        "en": "Sixteen square metres facing the inner courtyard, with soundproof windows: in the old town that is the difference between hearing the city and sleeping through it. Worked wrought-iron bed and terracotta floor.",
+        "es": "Dieciséis metros cuadrados con vistas al patio interior y ventanas insonorizadas: en el centro histórico esa es la diferencia entre oír la ciudad y dormir tranquilo. Cama de hierro forjado y suelo de barro cocido.",
+        "fr": "Seize mètres carrés donnant sur la cour intérieure, avec fenêtres insonorisées : dans le centre historique, c'est la différence entre entendre la ville et y dormir. Lit en fer forgé travaillé et sol en terre cuite.",
+        "it": "Sedici metri quadri affacciati sul cortile interno, con finestre insonorizzate: nel centro storico è la differenza fra sentire la città e dormirci dentro. Letto in ferro battuto lavorato e pavimento in cotto."
+      },
+      "cover": "/demo/bnb-old-salerno/foto-01.jpg",
+      "gallery": [
+        "/demo/bnb-old-salerno/foto-01.jpg",
+        "/demo/bnb-old-salerno/foto-05.jpg",
+        "/demo/bnb-old-salerno/foto-06.jpg",
+        "/demo/bnb-old-salerno/foto-08.jpg",
+        "/demo/bnb-old-salerno/foto-10.jpg"
+      ],
+      "guests": 2,
+      "id": "matrimoniale-standard",
+      "name": {
+        "en": "Standard Double Room",
+        "es": "Habitación Doble Estándar",
+        "fr": "Chambre Double Standard",
+        "it": "Camera Matrimoniale Standard"
+      },
+      "size": 16,
+      "view": {
+        "en": "Inner courtyard view",
+        "es": "Vistas al patio interior",
+        "fr": "Vue cour intérieure",
+        "it": "Vista cortile interno"
+      }
+    },
+    {
+      "active": true,
+      "amenities": [
+        "wifi",
+        "ac",
+        "heating",
+        "privateBathroom",
+        "tv",
+        "soundproof",
+        "desk",
+        "wardrobe",
+        "nonSmoking"
+      ],
+      "bathroom": 1,
+      "bedrooms": 1,
+      "beds": {
+        "en": "1 double bed",
+        "es": "1 cama de matrimonio",
+        "fr": "1 lit double",
+        "it": "1 letto matrimoniale"
+      },
+      "blurb": {
+        "en": "Twenty square metres with a tea and coffee set in the room, a desk and a TV. The same quiet as the Standard, with a few more metres to move around.",
+        "es": "Veinte metros cuadrados con set de té y café en la habitación, escritorio y TV. La misma tranquilidad que la Estándar, con algunos metros más.",
+        "fr": "Vingt mètres carrés avec plateau thé et café dans la chambre, bureau et TV. Le même calme que la Standard, avec quelques mètres de plus.",
+        "it": "Venti metri quadri con set per tè e caffè in camera, scrivania e TV. La stessa quiete della Standard, con qualche metro in più per muoversi."
+      },
+      "cover": "/demo/bnb-old-salerno/foto-17.jpg",
+      "gallery": [
+        "/demo/bnb-old-salerno/foto-17.jpg",
+        "/demo/bnb-old-salerno/foto-03.jpg",
+        "/demo/bnb-old-salerno/foto-18.jpg",
+        "/demo/bnb-old-salerno/foto-20.jpg"
+      ],
+      "guests": 2,
+      "id": "matrimoniale",
+      "kitchen": {
+        "en": "Kettle and tea/coffee set in the room",
+        "es": "Hervidor y set de té y café en la habitación",
+        "fr": "Bouilloire et plateau thé/café dans la chambre",
+        "it": "Bollitore e set per tè e caffè in camera"
+      },
+      "name": {
+        "en": "Double Room",
+        "es": "Habitación Doble",
+        "fr": "Chambre Double",
+        "it": "Camera Matrimoniale"
+      },
+      "size": 20
+    },
+    {
+      "active": true,
+      "amenities": [
+        "wifi",
+        "ac",
+        "heating",
+        "privateBathroom",
+        "tv",
+        "soundproof",
+        "wardrobe",
+        "familyFriendly",
+        "nonSmoking"
+      ],
+      "bathroom": 1,
+      "bedrooms": 1,
+      "beds": {
+        "en": "1 double bed + 1 single bed",
+        "es": "1 cama de matrimonio + 1 cama individual",
+        "fr": "1 lit double + 1 lit simple",
+        "it": "1 letto matrimoniale + 1 letto singolo"
+      },
+      "blurb": {
+        "en": "The largest one: twenty square metres for three, with the exposed stone wall behind the bed. Up to two children, and under fives stay free in the existing bed.",
+        "es": "La más amplia: veinte metros cuadrados para tres personas, con el muro de piedra vista detrás de la cama. Hasta dos niños, y los menores de cinco años no pagan en la cama existente.",
+        "fr": "La plus grande : vingt mètres carrés pour trois, avec le mur en pierre apparente derrière le lit. Jusqu'à deux enfants, et les moins de cinq ans ne paient pas dans le lit existant.",
+        "it": "La più capiente: venti metri quadri per tre persone, con il muro in pietra a vista alle spalle del letto. Fino a due bambini, e sotto i cinque anni non si paga il letto esistente."
+      },
+      "cover": "/demo/bnb-old-salerno/foto-13.jpg",
+      "gallery": [
+        "/demo/bnb-old-salerno/foto-13.jpg",
+        "/demo/bnb-old-salerno/foto-02.jpg",
+        "/demo/bnb-old-salerno/foto-14.jpg",
+        "/demo/bnb-old-salerno/foto-16.jpg"
+      ],
+      "guests": 3,
+      "id": "tripla-comfort",
+      "name": {
+        "en": "Comfort Triple Room",
+        "es": "Habitación Triple Comfort",
+        "fr": "Chambre Triple Confort",
+        "it": "Camera Tripla Comfort"
+      },
+      "size": 20,
+      "view": {
+        "en": "Inner courtyard view",
+        "es": "Vistas al patio interior",
+        "fr": "Vue cour intérieure",
+        "it": "Vista cortile interno"
+      }
+    }
+  ],
+  "amenities": [
+    "breakfast",
+    "wifi",
+    "ac",
+    "heating",
+    "cleaning",
+    "linen",
+    "towels",
+    "tv",
+    "nonSmoking",
+    "petsAllowed",
+    "familyFriendly",
+    "commonRoom"
+  ],
+  "amenitiesCustom": [
+    {
+      "icon": "map",
+      "label": {
+        "en": "Lift in the building",
+        "es": "Ascensor en el edificio",
+        "fr": "Ascenseur dans l'immeuble",
+        "it": "Ascensore in struttura"
+      }
+    },
+    {
+      "icon": "coffee",
+      "label": {
+        "en": "Breakfast can be served in your room",
+        "es": "Desayuno también servido en la habitación",
+        "fr": "Petit-déjeuner servi aussi en chambre",
+        "it": "Colazione servita anche in camera"
+      }
+    },
+    {
+      "icon": "car",
+      "label": {
+        "en": "Partner public car park on request (€25/day)",
+        "es": "Aparcamiento público concertado bajo reserva (25 €/día)",
+        "fr": "Parking public partenaire sur réservation (25 €/jour)",
+        "it": "Parcheggio pubblico convenzionato su prenotazione (25 €/giorno)"
+      }
+    },
+    {
+      "icon": "car",
+      "label": {
+        "en": "Paid airport shuttle and car rental",
+        "es": "Traslado al aeropuerto y alquiler de coches de pago",
+        "fr": "Navette aéroport et location de voiture payantes",
+        "it": "Navetta aeroportuale e autonoleggio a pagamento"
+      }
+    }
+  ],
+  "breakfast": {
+    "title": {
+      "en": "Italian breakfast, included",
+      "es": "Desayuno italiano, incluido",
+      "fr": "Petit-déjeuner italien, inclus",
+      "it": "Colazione italiana, inclusa"
+    },
+    "text": {
+      "en": "Breakfast is Italian and included in the rate. If you prefer, we bring it to your room. There is a gluten-free option for anyone with an intolerance — just tell us when you book.",
+      "es": "El desayuno es italiano y está incluido en el precio. Si lo prefieres, te lo llevamos a la habitación. Hay opción sin gluten para quien lo necesite: basta con indicarlo al reservar.",
+      "fr": "Le petit-déjeuner est italien et compris dans le tarif. Si vous préférez, nous vous l'apportons en chambre. Une option sans gluten est disponible : signalez-le à la réservation.",
+      "it": "La colazione è italiana ed è compresa nel prezzo. Se preferisci, te la portiamo in camera. Per chi ha intolleranze c'è l'opzione senza glutine: basta dirlo al momento della prenotazione."
+    },
+    "hours": "",
+    "image": "/demo/bnb-old-salerno/foto-07.jpg",
+    "items": [
+      {
+        "en": "Fresh pastries and croissants every morning",
+        "es": "Bollería y cruasanes frescos cada mañana",
+        "fr": "Viennoiseries et croissants frais chaque matin",
+        "it": "Brioche e cornetti freschi ogni mattina"
+      },
+      {
+        "en": "Coffee, juices, yoghurt and biscuits",
+        "es": "Café, zumos, yogur y galletas",
+        "fr": "Café, jus, yaourts et biscuits",
+        "it": "Caffè, succhi, yogurt e biscotti"
+      },
+      {
+        "en": "Served in your room on request",
+        "es": "Servicio en la habitación bajo petición",
+        "fr": "Servi en chambre sur demande",
+        "it": "Servizio in camera su richiesta"
+      },
+      {
+        "en": "Gluten-free option",
+        "es": "Opción sin gluten",
+        "fr": "Option sans gluten",
+        "it": "Opzione senza glutine"
+      }
+    ]
+  },
+  "checkin": {
+    "title": {
+      "en": "Arrival and departure",
+      "es": "Llegada y salida",
+      "fr": "Arrivée et départ",
+      "it": "Arrivo e partenza"
+    },
+    "text": {
+      "en": "Check-in from 14:00 to 21:00, check-out between 8:00 and 10:00. We are on Piazza Cerenza, inside the old town: if you arrive by car it is worth booking the partner car park in advance. On request we arrange the airport shuttle and car rental.",
+      "es": "Check-in de 14:00 a 21:00, salida entre las 8:00 y las 10:00. Estamos en Piazza Cerenza, dentro del centro histórico: si llegas en coche conviene reservar antes el aparcamiento concertado. Bajo petición organizamos el traslado desde el aeropuerto y el alquiler de coche.",
+      "fr": "Arrivée de 14h à 21h, départ entre 8h et 10h. Nous sommes Piazza Cerenza, dans le centre historique : en voiture, mieux vaut réserver à l'avance le parking partenaire. Sur demande, nous organisons la navette aéroport et la location de voiture.",
+      "it": "Check-in dalle 14:00 alle 21:00, check-out fra le 8:00 e le 10:00. Siamo in Piazza Cerenza, dentro il centro storico: se arrivi in auto conviene prenotare in anticipo il parcheggio convenzionato. Su richiesta organizziamo la navetta dall'aeroporto e il noleggio auto."
+    },
+    "steps": [
+      {
+        "en": "Message or call us with your estimated arrival time",
+        "es": "Escríbenos o llámanos con tu hora de llegada prevista",
+        "fr": "Écrivez-nous ou appelez-nous avec votre heure d'arrivée prévue",
+        "it": "Scrivici o chiamaci con l'orario di arrivo previsto"
+      },
+      {
+        "en": "Arriving by car? Book the partner car park",
+        "es": "Si llegas en coche, reserva el aparcamiento concertado",
+        "fr": "En voiture ? Réservez le parking partenaire",
+        "it": "Se arrivi in auto, prenota il parcheggio convenzionato"
+      },
+      {
+        "en": "Check in between 14:00 and 21:00 at Piazza Cerenza 14",
+        "es": "Check-in entre las 14:00 y las 21:00 en Piazza Cerenza 14",
+        "fr": "Arrivée entre 14h et 21h au 14 Piazza Cerenza",
+        "it": "Check-in fra le 14:00 e le 21:00 in Piazza Cerenza 14"
+      }
+    ],
+    "image": "/demo/bnb-old-salerno/foto-22.jpg"
+  },
+  "gallery": [
+    {
+      "alt": {
+        "en": "Room with exposed stone wall and worked headboard",
+        "it": "Camera con muro in pietra a vista e testiera lavorata"
+      },
+      "src": "/demo/bnb-old-salerno/foto-02.jpg"
+    },
+    {
+      "alt": {
+        "en": "The common room with wooden ceiling",
+        "it": "La sala comune con soffitto in legno"
+      },
+      "src": "/demo/bnb-old-salerno/foto-23.jpg"
+    },
+    {
+      "alt": {
+        "en": "Breakfast: pastries, coffee, juice and yoghurt",
+        "it": "La colazione: cornetti, caffè, succhi e yogurt"
+      },
+      "src": "/demo/bnb-old-salerno/foto-07.jpg"
+    },
+    {
+      "alt": {
+        "en": "Room with wrought-iron bed and terracotta floor",
+        "it": "Camera con letto in ferro battuto e pavimento in cotto"
+      },
+      "src": "/demo/bnb-old-salerno/foto-01.jpg"
+    },
+    {
+      "alt": {
+        "en": "Breakfast served on the wooden table",
+        "it": "Colazione servita sul tavolo in legno"
+      },
+      "src": "/demo/bnb-old-salerno/foto-21.jpg"
+    },
+    {
+      "alt": {
+        "en": "The corridor with wooden ceiling and stone wall",
+        "it": "Il corridoio con soffitto in legno e muro in pietra"
+      },
+      "src": "/demo/bnb-old-salerno/foto-22.jpg"
+    },
+    {
+      "alt": {
+        "en": "Private bathroom with brick walls",
+        "it": "Bagno privato rivestito in mattoni"
+      },
+      "src": "/demo/bnb-old-salerno/foto-20.jpg"
+    },
+    {
+      "alt": {
+        "en": "A glimpse of the white room",
+        "it": "Scorcio della camera bianca"
+      },
+      "src": "/demo/bnb-old-salerno/foto-05.jpg"
+    }
+  ],
+  "reviews": {
+    "rating": 8.1,
+    "count": 112,
+    "source": "Booking.com",
+    "items": [
+      {
+        "author": "Carlo",
+        "text": {
+          "en": "Everything perfect! A truly wonderful B&B, with an exceptional location right in the old town. Breakfast was great: really excellent pastries!",
+          "it": "Tutto perfetto! B&B davvero stupendo, con posizione eccezionale nel pieno centro storico. La colazione è stata super: brioche davvero eccezionali!"
+        }
+      },
+      {
+        "author": "Lucia",
+        "text": {
+          "en": "Very central location, a 10-minute walk from the station. Fantastic breakfast every morning: pastries, coffee, yoghurt, juices.",
+          "it": "Posizione centralissima, 10 minuti a piedi dalla stazione. Colazione fantastica ogni mattina, brioche caffè yogurt succhi."
+        }
+      },
+      {
+        "author": "Daniele",
+        "text": {
+          "en": "Exceptional in every way! I had a great stay. Extremely kind and helpful staff, cleanliness, care in everything.",
+          "it": "Eccezionale in tutto! Mi sono trovato ottimamente. Personale gentilissimo e disponibilissimo, pulizia, cura in tutto."
+        }
+      },
+      {
+        "author": "Santina",
+        "text": {
+          "en": "The location: fabulous. Very close to the centre and a 10-minute walk from the station. The owner is extremely kind.",
+          "it": "La posizione: favolosa. Vicinissima al centro e 10 minuti a piedi dalla stazione. Proprietaria gentilissima."
+        }
+      },
+      {
+        "author": "Alessia",
+        "text": {
+          "en": "Location steps from the centre, spacious room with air conditioning, good breakfast.",
+          "it": "Posizione a due passi dal centro, camera spaziosa con climatizzatore, buona la colazione."
+        }
+      },
+      {
+        "author": "Francesco Saverio",
+        "text": {
+          "en": "The B&B's location is excellent, right in the old town, good breakfast and friendly staff.",
+          "it": "La posizione del B&B è ottima, in pieno centro storico, la colazione buona e personale gentile."
+        }
+      }
+    ]
+  },
+  "offers": [
+    {
+      "active": true,
+      "badge": {
+        "en": "−15%",
+        "es": "−15%",
+        "fr": "−15%",
+        "it": "−15%"
+      },
+      "id": "halloween",
+      "text": {
+        "en": "Two nights between 30 October and 2 November with 15% off and breakfast served late: on the 31st the night runs long through the alleys, and the morning after nobody sets an alarm.",
+        "es": "Dos noches entre el 30 de octubre y el 2 de noviembre con un 15% de descuento y desayuno servido hasta tarde: el 31 la noche se alarga por los callejones y a la mañana siguiente no suena ningún despertador.",
+        "fr": "Deux nuits entre le 30 octobre et le 2 novembre avec 15% de réduction et petit-déjeuner servi tard : le 31, la nuit se prolonge dans les ruelles, et le lendemain matin aucun réveil ne sonne.",
+        "it": "Due notti fra il 30 ottobre e il 2 novembre con sconto del 15% e colazione servita fino a tardi: il 31 si fa notte in giro per i vicoli e la mattina dopo non suona nessuna sveglia."
+      },
+      "title": {
+        "en": "Halloween in the old town",
+        "es": "Halloween en el centro histórico",
+        "fr": "Halloween dans le centre historique",
+        "it": "Halloween nel centro storico"
+      }
+    },
+    {
+      "active": true,
+      "badge": {
+        "en": "Nov – Jan",
+        "es": "Nov – Ene",
+        "fr": "Nov – Jan",
+        "it": "Nov – Gen"
+      },
+      "id": "luci-artista",
+      "text": {
+        "en": "From November to January Salerno lights up for the Luci d'Artista, and the main installations are all within a ten-minute walk. Third night 30% off and no parking worries: we book it for you.",
+        "es": "De noviembre a enero Salerno se ilumina con las Luci d'Artista y las principales instalaciones están a diez minutos a pie. Tercera noche con un 30% de descuento y sin preocuparte por el aparcamiento: lo reservamos nosotros.",
+        "fr": "De novembre à janvier, Salerne s'illumine pour les Luci d'Artista et les principales installations sont à dix minutes à pied. Troisième nuit à −30% et aucun souci de stationnement : nous le réservons pour vous.",
+        "it": "Da novembre a gennaio Salerno si accende per le Luci d'Artista e le installazioni principali sono tutte nel raggio di dieci minuti a piedi. Terza notte scontata del 30% e nessun pensiero per il parcheggio: te lo prenotiamo noi."
+      },
+      "title": {
+        "en": "Luci d'Artista, a walk from here",
+        "es": "Luci d'Artista, a un paso de aquí",
+        "fr": "Luci d'Artista, à deux pas d'ici",
+        "it": "Luci d'Artista, a piedi da qui"
+      }
+    },
+    {
+      "active": true,
+      "badge": {
+        "en": "From 3 nights",
+        "es": "Desde 3 noches",
+        "fr": "Dès 3 nuits",
+        "it": "Da 3 notti"
+      },
+      "id": "costiera",
+      "text": {
+        "en": "From three nights up we book your ferry to Amalfi or Positano, return trip for two. The port is close by and you leave early, before it fills up.",
+        "es": "A partir de tres noches te reservamos el ferry a Amalfi o Positano, ida y vuelta para dos personas. El puerto está cerca y se sale temprano, antes de que se llene.",
+        "fr": "À partir de trois nuits, nous réservons votre ferry pour Amalfi ou Positano, aller-retour pour deux personnes. Le port est proche et le départ se fait tôt, avant l'affluence.",
+        "it": "Da tre notti in su ti prenotiamo noi il traghetto per Amalfi o Positano, andata e ritorno per due persone. Il porto è vicino e si parte la mattina presto, prima che si riempia."
+      },
+      "title": {
+        "en": "Three nights and the coast by ferry",
+        "es": "Tres noches y la Costa en ferry",
+        "fr": "Trois nuits et la côte en ferry",
+        "it": "Tre notti e la Costiera in traghetto"
+      }
+    },
+    {
+      "active": true,
+      "badge": {
+        "en": "From 4 nights",
+        "es": "Desde 4 noches",
+        "fr": "Dès 4 nuits",
+        "it": "Da 4 notti"
+      },
+      "id": "lunga-permanenza",
+      "text": {
+        "en": "Book four consecutive nights direct and the fourth is free. Valid January to March and October to December, holidays excluded.",
+        "es": "Reservando directamente cuatro noches consecutivas, la cuarta no se paga. Válido de enero a marzo y de octubre a diciembre, excepto festivos.",
+        "fr": "En réservant directement quatre nuits consécutives, la quatrième est offerte. Valable de janvier à mars et d'octobre à décembre, hors jours fériés.",
+        "it": "Prenotando direttamente quattro notti consecutive, la quarta non si paga. Valido da gennaio a marzo e da ottobre a dicembre, escluse le festività."
+      },
+      "title": {
+        "en": "Four nights, the fourth is on us",
+        "es": "Cuatro noches, la cuarta es nuestra",
+        "fr": "Quatre nuits, la quatrième est offerte",
+        "it": "Quattro notti, la quarta è nostra"
+      }
+    }
+  ],
+  "location": {
+    "intro": {
+      "en": "Piazza Cerenza sits inside Salerno's old town: the Provincial Archaeological Museum is less than fifty metres away, the cathedral and the Diocesan Museum are a few minutes on foot. The station is just over a kilometre away, Santa Teresa beach a ten-minute walk.",
+      "es": "Piazza Cerenza está dentro del centro histórico de Salerno: el Museo Arqueológico Provincial queda a menos de cincuenta metros, y la Catedral y el Museo Diocesano a pocos minutos a pie. La estación está a poco más de un kilómetro y la playa de Santa Teresa a diez minutos caminando.",
+      "fr": "La Piazza Cerenza se trouve dans le centre historique de Salerne : le Musée archéologique provincial est à moins de cinquante mètres, la cathédrale et le Musée diocésain à quelques minutes à pied. La gare est à un peu plus d'un kilomètre, la plage de Santa Teresa à dix minutes de marche.",
+      "it": "Piazza Cerenza è dentro il centro storico di Salerno: il Museo Archeologico Provinciale è a meno di cinquanta metri, il Duomo e il Museo Diocesano si raggiungono in pochi minuti a piedi. La stazione è a poco più di un chilometro, la spiaggia di Santa Teresa a dieci minuti a piedi."
+    },
+    "pois": [
+      {
+        "distance": "50 m",
+        "icon": "map",
+        "name": {
+          "en": "Provincial Archaeological Museum",
+          "es": "Museo Arqueológico Provincial",
+          "fr": "Musée archéologique provincial",
+          "it": "Museo Archeologico Provinciale"
+        }
+      },
+      {
+        "distance": "40 m",
+        "icon": "map",
+        "name": {
+          "en": "Castel Terracena",
+          "es": "Castel Terracena",
+          "fr": "Castel Terracena",
+          "it": "Castel Terracena"
+        }
+      },
+      {
+        "distance": "150 m",
+        "icon": "map",
+        "name": {
+          "en": "Provincial Picture Gallery",
+          "es": "Pinacoteca Provincial",
+          "fr": "Pinacothèque provinciale",
+          "it": "Pinacoteca Provinciale"
+        }
+      },
+      {
+        "distance": "150 m",
+        "icon": "map",
+        "name": {
+          "en": "Diocesan Museum",
+          "es": "Museo Diocesano",
+          "fr": "Musée diocésain",
+          "it": "Museo Diocesano"
+        }
+      },
+      {
+        "distance": "190 m",
+        "icon": "map",
+        "name": {
+          "en": "Salerno Cathedral",
+          "es": "Catedral de Salerno",
+          "fr": "Cathédrale de Salerne",
+          "it": "Duomo di Salerno"
+        }
+      },
+      {
+        "distance": "750 m",
+        "icon": "tree",
+        "name": {
+          "en": "Villa Comunale gardens",
+          "es": "Villa Comunale",
+          "fr": "Villa Comunale",
+          "it": "Villa Comunale"
+        }
+      },
+      {
+        "distance": "10 min a piedi",
+        "icon": "wave",
+        "name": {
+          "en": "Santa Teresa beach",
+          "es": "Playa de Santa Teresa",
+          "fr": "Plage de Santa Teresa",
+          "it": "Spiaggia di Santa Teresa"
+        }
+      },
+      {
+        "distance": "1,1 km",
+        "icon": "car",
+        "name": {
+          "en": "Salerno railway station",
+          "es": "Estación de Salerno",
+          "fr": "Gare de Salerne",
+          "it": "Stazione di Salerno"
+        }
+      },
+      {
+        "distance": "1,7 km",
+        "icon": "map",
+        "name": {
+          "en": "Arechi Castle",
+          "es": "Castillo de Arechi",
+          "fr": "Château d'Arechi",
+          "it": "Castello di Arechi"
+        }
+      },
+      {
+        "distance": "17 km",
+        "icon": "car",
+        "name": {
+          "en": "Salerno-Amalfi Coast Airport",
+          "es": "Aeropuerto Salerno-Costa de Amalfi",
+          "fr": "Aéroport Salerne-Côte amalfitaine",
+          "it": "Aeroporto Salerno-Costa d'Amalfi"
+        }
+      },
+      {
+        "distance": "46 km",
+        "icon": "car",
+        "name": {
+          "en": "Naples Capodichino Airport",
+          "es": "Aeropuerto de Nápoles Capodichino",
+          "fr": "Aéroport de Naples Capodichino",
+          "it": "Aeroporto di Napoli Capodichino"
+        }
+      }
+    ]
+  },
+  "booking": {
+    "mode": "link",
+    "provider": null,
+    "embed": {
+      "type": "html",
+      "html": "",
+      "url": "",
+      "scriptSrc": "",
+      "mountId": "booking-widget",
+      "height": 640,
+      "headExtra": ""
+    },
+    "link": {
+      "url": "https://www.booking.com/hotel/it/b-amp-b-old-salerno.it.html",
+      "channel": "booking",
+      "label": ""
+    },
+    "fallback": "internal",
+    "showDirectHint": true
+  },
+  "seo": {
+    "title": {
+      "en": "B&B Old Salerno · Bed & Breakfast in the old town of Salerno",
+      "es": "B&B Old Salerno · Bed & Breakfast en el centro histórico de Salerno",
+      "fr": "B&B Old Salerno · Bed & Breakfast dans le centre historique de Salerne",
+      "it": "B&B Old Salerno · Bed & Breakfast nel centro storico di Salerno"
+    },
+    "description": {
+      "en": "Bed & breakfast with three rooms on Piazza Cerenza, in Salerno's old town. Italian breakfast included, soundproofed air-conditioned rooms, the Archaeological Museum 50 m away and the cathedral a two-minute walk.",
+      "es": "Bed & breakfast con tres habitaciones en Piazza Cerenza, en el centro histórico de Salerno. Desayuno italiano incluido, habitaciones insonorizadas con aire acondicionado, Museo Arqueológico a 50 metros y Catedral a dos minutos a pie.",
+      "fr": "Bed & breakfast de trois chambres Piazza Cerenza, dans le centre historique de Salerne. Petit-déjeuner italien inclus, chambres insonorisées climatisées, Musée archéologique à 50 m et cathédrale à deux minutes à pied.",
+      "it": "Bed & breakfast con tre camere in Piazza Cerenza, nel centro storico di Salerno. Colazione italiana inclusa, camere insonorizzate con aria condizionata, Museo Archeologico a 50 metri e Duomo a due minuti a piedi."
+    },
+    "ogImage": "/demo/bnb-old-salerno/foto-02.jpg"
+  },
+  "plan": {
+    "booking_engine": true,
+    "direct_requests": true,
+    "multilanguage": true,
+    "media_upload": true,
+    "theme_switching": true,
+    "color_customization": true,
+    "gallery": true,
+    "reviews": true,
+    "map": true,
+    "offers": true,
+    "blog": true,
+    "seo_advanced": true,
+    "analytics": false,
+    "whatsapp": true,
+    "demo_showcase": false,
+    "extra_pages": false,
+    "guest_area": false
+  },
+  "settings": {
+    "section.rooms": true,
+    "section.amenities": true,
+    "section.story": true,
+    "section.gallery": true,
+    "section.reviews": true,
+    "section.map": true,
+    "section.offers": true,
+    "section.breakfast": true,
+    "section.checkin": true,
+    "booking.hero_bar": true,
+    "booking.sticky_bar": true,
+    "booking.show_prices": false,
+    "hero.video": false,
+    "contact.whatsapp_button": true,
+    "nav.gallery": false,
+    "section.blog": true,
+    "nav.blog": true
+  },
+  "vetrina": {
+    "luogo": "Salerno (SA) · centro storico",
+    "nota": "Cliente reale. Prima demo di vendita. Dati e foto da portali OTA che ripubblicano l'annuncio Booking. ATTENZIONE - contenuti fittizi da sostituire prima di andare live: email info@bboldsalerno.it e privacy@bboldsalerno.it (inventate), tutte e 4 le offerte (inventate). WhatsApp = stesso numero di telefono trovato. Da confermare: abbinamento foto/camere, prezzi, orario colazione, P.IVA, coordinate GPS.",
+    "creata": "2026-08-14",
+    "fonte": "https://www.booking.com/hotel/it/b-amp-b-old-salerno.it.html"
+  },
+  "posts": [
+    {
+      "id": "come-arrivare",
+      "tag": {
+        "it": "Come arrivare",
+        "en": "Getting here",
+        "es": "Cómo llegar",
+        "fr": "Comment venir"
+      },
+      "title": {
+        "it": "Come arrivare in Piazza Cerenza",
+        "en": "How to reach Piazza Cerenza",
+        "es": "Cómo llegar a Piazza Cerenza",
+        "fr": "Comment rejoindre la Piazza Cerenza"
+      },
+      "excerpt": {
+        "it": "Dalla stazione sono quindici minuti a piedi. In auto è più complicato: il centro storico è zona a traffico limitato.",
+        "en": "Fifteen minutes on foot from the station. By car it is trickier: the old town is a restricted traffic zone."
+      },
+      "body": {
+        "it": [
+          "In treno è la via più semplice. Dalla stazione di Salerno sono poco più di un chilometro, quindici minuti a piedi risalendo verso il centro storico: si passa per Corso Vittorio Emanuele e Via dei Mercanti, che è pedonale, e si arriva in Piazza Cerenza senza mai prendere un mezzo. Con le valigie pesanti, un taxi costa pochi euro.",
+          "In aereo, l’aeroporto di Salerno-Costa d’Amalfi è a diciassette chilometri. Da Napoli Capodichino, che ha molti più collegamenti, sono quarantasei chilometri: il modo più comodo è l’Alibus fino alla stazione centrale di Napoli e poi il treno per Salerno, quaranta minuti.",
+          "In auto: qui viene la parte da leggere prima di partire. Il centro storico è zona a traffico limitato e Piazza Cerenza è dentro. Non entrate a cercare parcheggio — si finisce in un vicolo senza uscita con una multa in arrivo. Scriveteci il giorno prima con l’orario e vi diciamo dove lasciare l’auto e come arrivare al portone.",
+          "Dal porto, se venite dalla Costiera in traghetto, sono dieci minuti a piedi in salita."
+        ],
+        "en": [
+          "By train is the simplest way. From Salerno station it is just over a kilometre — fifteen minutes on foot, walking up towards the old town along Corso Vittorio Emanuele and the pedestrian Via dei Mercanti, arriving at Piazza Cerenza without taking any transport. With heavy luggage, a taxi costs a few euros.",
+          "By air, Salerno-Costa d’Amalfi airport is seventeen kilometres away. From Naples Capodichino, which has far more connections, it is forty-six kilometres: the easiest way is the Alibus to Naples central station and then the train to Salerno, forty minutes.",
+          "By car: this is the part to read before setting off. The old town is a restricted traffic zone and Piazza Cerenza is inside it. Do not drive in looking for parking — you end up in a dead-end alley with a fine on its way. Message us the day before with your arrival time and we will tell you where to leave the car and how to reach the door.",
+          "From the port, if you arrive from the Amalfi Coast by ferry, it is a ten-minute walk uphill."
+        ]
+      },
+      "cover": "/demo/bnb-old-salerno/foto-23.jpg",
+      "active": true
+    },
+    {
+      "id": "centro-storico-a-piedi",
+      "tag": {
+        "it": "In zona",
+        "en": "Nearby",
+        "es": "En la zona",
+        "fr": "Aux alentours"
+      },
+      "title": {
+        "it": "Cinque cose a meno di dieci minuti a piedi",
+        "en": "Five things within a ten-minute walk",
+        "es": "Cinco cosas a menos de diez minutos a pie",
+        "fr": "Cinq choses à moins de dix minutes à pied"
+      },
+      "excerpt": {
+        "it": "Il museo archeologico è a cinquanta metri, il Duomo a centonovanta. Il resto della città vecchia sta tutto in un quarto d’ora.",
+        "en": "The archaeological museum is fifty metres away, the cathedral one hundred and ninety. The rest of the old town fits into a quarter of an hour."
+      },
+      "body": {
+        "it": [
+          "Il Museo Archeologico Provinciale è a cinquanta metri: si esce dal portone e ci si è. Vale la pena anche solo per il chiostro, e se piove è la prima cosa che consigliamo.",
+          "Castel Terracena, quel che ne resta, è a quaranta metri nell’altra direzione: erano le mura del palazzo normanno, e sono lì in mezzo alle case senza nessuno che le guardi.",
+          "Il Duomo di Salerno è a centonovanta metri. Andateci la mattina presto: la cripta è la parte che sorprende di più e con poca gente si vede meglio.",
+          "La Pinacoteca e il Museo Diocesano sono entrambi a centocinquanta metri, nella stessa passeggiata.",
+          "E poi c’è il mare: la Spiaggia di Santa Teresa è dieci minuti a piedi, tutti in discesa. Al ritorno è in salita, ma è breve."
+        ],
+        "en": [
+          "The Provincial Archaeological Museum is fifty metres away: you step out of the door and you are there. Worth it for the cloister alone, and the first thing we suggest when it rains.",
+          "Castel Terracena, or what remains of it, is forty metres in the other direction: the walls of the Norman palace, standing among the houses with nobody looking at them.",
+          "Salerno Cathedral is one hundred and ninety metres away. Go early in the morning: the crypt is the part that surprises people most, and it is better seen with few visitors.",
+          "The Pinacoteca and the Diocesan Museum are both one hundred and fifty metres away, on the same walk.",
+          "And then there is the sea: Santa Teresa beach is a ten-minute walk, all downhill. Uphill on the way back, but it is short."
+        ]
+      },
+      "cover": "/demo/bnb-old-salerno/foto-02.jpg",
+      "active": true
+    }
+  ],
+  "blog": {
+    "title": {
+      "it": "Salerno a piedi, dal nostro portone",
+      "en": "Salerno on foot, from our front door",
+      "es": "Salerno a pie, desde nuestra puerta",
+      "fr": "Salerne à pied, depuis notre porte"
+    },
+    "intro": {
+      "it": "Le cose che ci chiedono più spesso, scritte una volta per tutte.",
+      "en": "The things guests ask us most often, written down once and for all.",
+      "es": "Lo que más nos preguntan, escrito de una vez por todas.",
+      "fr": "Ce qu’on nous demande le plus souvent, écrit une bonne fois pour toutes."
+    }
+  }
+}

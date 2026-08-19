@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1200" width="1600" height="1200" role="img" aria-label="La casa">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#2E5D52"/>
+      <stop offset="55%" stop-color="#7FA894"/>
+      <stop offset="100%" stop-color="#EBD9BC"/>
+    </linearGradient>
+    <filter id="soft"><feGaussianBlur stdDeviation="26"/></filter>
+  </defs>
+  <rect width="1600" height="1200" fill="url(#g)"/>
+  <g filter="url(#soft)">
+    <path d="M300 720 L800 380 L1300 720 L1300 1050 L300 1050 Z" fill="#2E5D52" opacity=".5"/>
+    <rect x="620" y="820" width="180" height="230" fill="#EBD9BC" opacity=".6"/>
+    <rect x="900" y="810" width="150" height="150" fill="#EBD9BC" opacity=".45"/>
+    <path d="M0 1050 L1600 1050 L1600 1200 L0 1200 Z" fill="#7FA894" opacity=".45"/></g>
+  <rect width="1600" height="1200" fill="#000" opacity=".06"/>
+  <g opacity=".82" transform="translate(60 1140)">
+    <text font-family="Georgia, serif" font-size="34" fill="#fff" opacity=".9">La casa</text>
+    <text y="34" font-family="Helvetica, Arial, sans-serif" font-size="19" letter-spacing="3" fill="#fff" opacity=".6">SEGNAPOSTO — SOSTITUIRE CON FOTO REALE</text>
+  </g>
+</svg>

@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1200" width="1600" height="1200" role="img" aria-label="Camera Scirocco">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#7A5230"/>
+      <stop offset="55%" stop-color="#C3936A"/>
+      <stop offset="100%" stop-color="#F4E6D2"/>
+    </linearGradient>
+    <filter id="soft"><feGaussianBlur stdDeviation="26"/></filter>
+  </defs>
+  <rect width="1600" height="1200" fill="url(#g)"/>
+  <g filter="url(#soft)">
+    <rect x="240" y="620" width="1120" height="330" rx="24" fill="#7A5230" opacity=".5"/>
+    <rect x="300" y="500" width="260" height="150" rx="18" fill="#F4E6D2" opacity=".6"/>
+    <rect x="1040" y="500" width="260" height="150" rx="18" fill="#F4E6D2" opacity=".6"/>
+    <rect x="1140" y="180" width="320" height="300" rx="10" fill="#F4E6D2" opacity=".35"/>
+    <rect x="1140" y="180" width="320" height="300" rx="10" fill="none" stroke="#F4E6D2" stroke-width="8" opacity=".6"/></g>
+  <rect width="1600" height="1200" fill="#000" opacity=".06"/>
+  <g opacity=".82" transform="translate(60 1140)">
+    <text font-family="Georgia, serif" font-size="34" fill="#fff" opacity=".9">Camera Scirocco</text>
+    <text y="34" font-family="Helvetica, Arial, sans-serif" font-size="19" letter-spacing="3" fill="#fff" opacity=".6">SEGNAPOSTO — SOSTITUIRE CON FOTO REALE</text>
+  </g>
+</svg>

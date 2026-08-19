@@ -1,0 +1,140 @@
+@import '@fontsource-variable/inter';
+@import '@fontsource-variable/fraunces';
+@import '@fontsource-variable/plus-jakarta-sans';
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* ─────────────────────────────────────────────────────────────
+   Valori di partenza delle variabili di tema.
+   Vengono sovrascritti da applyTheme() al primo render: servono
+   solo a evitare un lampo di pagina non stilata.
+   ───────────────────────────────────────────────────────────── */
+:root {
+  --c-bg: 243 246 249;
+  --c-bg-alt: 233 239 244;
+  --c-bg-deep: 220 229 236;
+  --c-surface: 255 255 255;
+  --c-surface-raised: 255 255 255;
+  --c-ink: 15 23 37;
+  --c-ink-soft: 58 71 89;
+  --c-ink-muted: 104 117 138;
+  --c-line: 217 225 233;
+  --c-line-strong: 188 200 214;
+  --c-brand: 14 154 167;
+  --c-brand-soft: 92 198 207;
+  --c-brand-deep: 10 118 128;
+  --c-brand-ink: 255 255 255;
+  --c-accent: 245 162 93;
+  --c-accent-soft: 251 211 172;
+  --c-ok: 22 163 74;
+  --c-warn: 217 119 6;
+  --c-danger: 220 38 38;
+
+  --radius: 18px;
+  --radius-lg: 26px;
+  --radius-xl: 36px;
+  --blur: 22px;
+  --shadow-card: 0 10px 34px -18px rgba(15, 23, 37, 0.35);
+  --shadow-float: 0 28px 70px -30px rgba(15, 23, 37, 0.45);
+  --shadow-glow: 0 14px 44px -14px rgba(14, 154, 167, 0.55);
+  --font-display: 'Plus Jakarta Sans Variable', system-ui, sans-serif;
+  --font-sans: 'Inter Variable', system-ui, sans-serif;
+  --backdrop: none;
+}
+
+@layer base {
+  * {
+    @apply border-line;
+  }
+
+  html {
+    scroll-behavior: smooth;
+    -webkit-text-size-adjust: 100%;
+  }
+
+  body {
+    @apply bg-bg font-sans text-ink;
+    margin: 0;
+    text-rendering: optimizeLegibility;
+    -webkit-font-smoothing: antialiased;
+  }
+
+  /* Il tema Noir è scuro: i controlli nativi devono adeguarsi */
+  [data-theme='noir'] {
+    color-scheme: dark;
+  }
+
+  ::selection {
+    background: rgb(var(--c-brand) / 0.25);
+  }
+
+  /* Barra di scorrimento discreta, coerente col tema */
+  ::-webkit-scrollbar {
+    width: 11px;
+    height: 11px;
+  }
+  ::-webkit-scrollbar-track {
+    background: rgb(var(--c-bg-alt));
+  }
+  ::-webkit-scrollbar-thumb {
+    background: rgb(var(--c-line-strong));
+    border-radius: 999px;
+    border: 3px solid rgb(var(--c-bg-alt));
+  }
+  ::-webkit-scrollbar-thumb:hover {
+    background: rgb(var(--c-ink-muted));
+  }
+
+  /* Il focus si vede sempre: accessibilità da tastiera */
+  :focus-visible {
+    outline: 2px solid rgb(var(--c-brand));
+    outline-offset: 2px;
+  }
+
+  /* I campi data nativi devono seguire il tema anche su Chrome */
+  input[type='date']::-webkit-calendar-picker-indicator {
+    filter: var(--date-icon-filter, none);
+    cursor: pointer;
+  }
+  [data-theme='noir'] input[type='date']::-webkit-calendar-picker-indicator {
+    filter: invert(0.85);
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    html {
+      scroll-behavior: auto;
+    }
+    *,
+    *::before,
+    *::after {
+      animation-duration: 0.01ms !important;
+      animation-iteration-count: 1 !important;
+      transition-duration: 0.01ms !important;
+    }
+  }
+}
+
+@layer utilities {
+  /* Taglio del testo a N righe (usato nelle schede unità) */
+  .line-clamp-2,
+  .line-clamp-3 {
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+  }
+  .line-clamp-2 {
+    -webkit-line-clamp: 2;
+  }
+  .line-clamp-3 {
+    -webkit-line-clamp: 3;
+  }
+
+  .h-13 {
+    height: 3.25rem;
+  }
+  .w-13 {
+    width: 3.25rem;
+  }
+}

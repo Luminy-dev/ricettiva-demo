@@ -1,0 +1,36 @@
+<!doctype html>
+<html lang="it" data-theme="glass">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
+    <meta name="color-scheme" content="light dark" />
+
+    <!-- Sul portale i meta reali li scrive <Seo noindex /> quando si apre
+         una demo. Il noindex qui è la prima linea: vale anche per i
+         crawler che leggono l'HTML senza eseguire JavaScript. -->
+    <meta name="robots" content="noindex, nofollow" />
+    <title>Demo StayKit</title>
+    <meta name="description" content="Anteprime riservate. Non indicizzare." />
+
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <meta name="theme-color" content="#f7f8fa" media="(prefers-color-scheme: light)" />
+    <meta name="theme-color" content="#0b0c0f" media="(prefers-color-scheme: dark)" />
+
+    <!-- Anti-flash: applica tema e lingua prima del primo paint -->
+    <script>
+      (function () {
+        try {
+          var d = document.documentElement
+          var t = null
+          var l = localStorage.getItem('staykit:lang')
+          if (t) d.setAttribute('data-theme', t)
+          if (l) d.setAttribute('lang', l)
+        } catch (e) {}
+      })()
+    </script>
+  </head>
+  <body>
+    <div id="root"></div>
+    <script type="module" src="/src/main.jsx"></script>
+  </body>
+</html>
