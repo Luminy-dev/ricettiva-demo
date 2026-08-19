@@ -37,6 +37,7 @@ ancora i dati di nessuno e vuoi far vedere il prodotto.
 |---|---|
 | `npm run dev` | Sviluppo con ricarica automatica |
 | `npm run check` | Controlli + build. **Lancialo prima di pubblicare** |
+| `npm run pubblica` | Controlli, salva e manda online: GitHub + Vercel in un colpo |
 | `npm run foto` | Ridimensiona e converte le immagini in WebP |
 | `npm run allinea` | Mostra cosa è cambiato nel template del progetto principale |
 | `npm run allinea -- --scrivi` | Applica quelle modifiche |
@@ -269,10 +270,24 @@ Poi `npm run foto -- pannello` per convertirle.
 
 ## Pubblicare
 
-Progetto Vercel dalla repo, nessuna variabile d'ambiente da impostare: il
-portale non ha un backend e non tocca nessun database.
+La repo è `Luminy-dev/ricettiva-demo`, e Vercel ci sta attaccato sopra: ogni
+push sul ramo `main` fa ripartire la build da solo. Non c'è una seconda cosa da
+fare dopo, e non esiste il caso "l'ho messo su GitHub ma il sito è vecchio".
 
-Poi un sottodominio tuo, tipo `demo.tuodominio.it`.
+```bash
+npm run pubblica
+npm run pubblica -- "nuove foto Palazzo Fiorillo"
+```
+
+Il comando fa `npm run check` per primo: se i controlli o la build falliscono
+non spinge niente. Quando hai fretta e sai cosa stai facendo, `-- --veloce`
+salta la verifica.
+
+Il progetto Vercel non ha variabili d'ambiente da impostare: il portale non ha
+un backend e non tocca nessun database. Serve solo un sottodominio tuo, tipo
+`demo.tuodominio.it`.
+
+La prima volta, su un computer nuovo, va fatto il login a GitHub: `gh auth login`.
 
 ---
 
