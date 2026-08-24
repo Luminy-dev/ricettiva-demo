@@ -11,7 +11,7 @@ import UnitSpecs from './UnitSpecs'
 
 // Scheda completa dell'unità: galleria, specifiche, dotazioni,
 // invito a prenotare. Si apre dalla card e si chiude con Esc.
-export default function UnitModal({ unit, onClose }) {
+export default function UnitModal({ unit, startIndex = 0, onClose }) {
   const { ui, t, lang } = useI18n()
   const s = useStyles()
   const { preset, features } = useSite()
@@ -21,7 +21,7 @@ export default function UnitModal({ unit, onClose }) {
   const grouped = groupAmenities(unit?.amenities || [])
   const total = gallery.length
 
-  useEffect(() => setIndex(0), [unit?.id])
+  useEffect(() => setIndex(startIndex), [unit?.id, startIndex])
 
   useEffect(() => {
     if (!unit) return undefined

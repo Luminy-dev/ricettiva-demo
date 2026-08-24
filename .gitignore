@@ -7,3 +7,4 @@ export
 _to_delete
 .vercel
 *.log
+.claude

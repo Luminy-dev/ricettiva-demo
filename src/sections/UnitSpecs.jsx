@@ -6,7 +6,7 @@ import Icon from '@/components/Icon'
 
 // Riga di specifiche dell'unità, filtrata dai campi che hanno senso
 // per la tipologia di struttura (un B&B non mostra la cucina).
-export default function UnitSpecs({ unit, preset, compact = false }) {
+export default function UnitSpecs({ unit, preset, compact = false, className = '' }) {
   const { ui, t } = useI18n()
   const s = useStyles()
 
@@ -43,7 +43,7 @@ export default function UnitSpecs({ unit, preset, compact = false }) {
   }
 
   return (
-    <dl className="grid grid-cols-2 gap-4 sm:grid-cols-3">
+    <dl className={cn('grid gap-4', className || 'grid-cols-2 sm:grid-cols-3')}>
       {specs.map((x) => (
         <div key={x.field} className="flex items-start gap-2.5">
           <Icon name={x.icon} size={17} className="mt-0.5 shrink-0 text-brand" />
