@@ -150,7 +150,7 @@ function nuovaDemo(dati) {
 
     brand: { name: dati.nome, logoText: dati.nome, logo: '', tagline: {} },
     contact: { address: {}, coords: {} },
-    legal: { company: '', vat: '', cin: '', cir: '', credits: { label: 'Axas', url: '' }, privacy: {} },
+    legal: { company: '', vat: '', cin: '', cir: '', credits: { label: 'Luminy.dev', url: 'https://www.luminy.dev' }, privacy: {} },
     social: {},
 
     hero: { eyebrow: {}, title: {}, subtitle: {}, image: '', video: '', badges: [] },

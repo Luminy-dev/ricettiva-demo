@@ -30,7 +30,11 @@ export const EMPTY_SITE = {
   },
 
   legal: {
-    company: '', vat: '', cin: '', cir: '', privacyUrl: '', credits: {},
+    company: '', vat: '', cin: '', cir: '', privacyUrl: '',
+    // Unico campo non vuoto della struttura base: la firma di chi
+    // sviluppa il sito è la stessa su ogni struttura, non un contenuto
+    // che il cliente compila.
+    credits: { label: 'Luminy.dev', url: 'https://www.luminy.dev' },
     // Dati del titolare del trattamento: li compila il cliente, il resto
     // dell'informativa lo scrive il software. Vedi src/lib/privacy.js.
     privacy: {
