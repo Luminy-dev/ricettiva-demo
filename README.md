@@ -3,7 +3,7 @@
 Un sito dimostrativo per struttura, sullo stesso dominio:
 
 ```
-/                         pagina neutra: nessun elenco
+/                          pagina neutra: nessun elenco
 /come-funziona            cos'è il pannello, con le schermate
 /nomecliente              il sito dimostrativo di quella struttura
 /nomecliente/blog/<id>    un consiglio, alla sua pagina
