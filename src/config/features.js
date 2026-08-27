@@ -257,6 +257,7 @@ export const FEATURES = {
   },
   'nav.offers': { tier: 'client', group: 'nav', label: 'Offerte', hint: '', default: true, requires: 'section.offers' },
   'nav.reviews': { tier: 'client', group: 'nav', label: 'Recensioni', hint: '', default: true, requires: 'section.reviews' },
+  'nav.blog': { tier: 'client', group: 'nav', label: 'Consigli', hint: '', default: true, requires: 'section.blog' },
   'nav.map': { tier: 'client', group: 'nav', label: 'Dove siamo', hint: '', default: true, requires: 'section.map' },
   'nav.contact': { tier: 'client', group: 'nav', label: 'Contatti', hint: '', default: true },
 
@@ -292,8 +293,8 @@ export const FEATURES = {
     tier: 'client',
     group: 'core',
     label: 'Sfondo animato nell’intestazione',
-    hint: 'Particelle che si muovono piano dietro al titolo. Si spegne da sola se il visitatore ha chiesto di ridurre le animazioni.',
-    default: true,
+    hint: 'Particelle che si muovono piano dietro al titolo. Spento: con una buona fotografia in apertura non serve, e toglie attenzione. Utile quando le foto della struttura sono poche o brutte. Si spegne da sé se il visitatore ha chiesto di ridurre le animazioni.',
+    default: false,
   },
   'contact.whatsapp_button': {
     tier: 'client',

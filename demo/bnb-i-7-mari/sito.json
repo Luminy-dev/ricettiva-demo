@@ -776,9 +776,11 @@
     "booking.show_prices": false,
     "hero.video": false,
     "contact.whatsapp_button": true,
-    "nav.blog": true,
+    "nav.blog": false,
     "nav.gallery": false,
-    "section.blog": true
+    "section.blog": true,
+    "nav.offers": false,
+    "nav.story": false
   },
   "vetrina": {
     "luogo": "Salerno (SA) · centro storico",
