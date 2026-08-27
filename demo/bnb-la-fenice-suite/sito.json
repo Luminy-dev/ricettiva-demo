@@ -1,0 +1,920 @@
+{
+  "slug": "bnb-la-fenice-suite",
+  "preset": "bnb",
+  "theme": "noir",
+  "themeOverrides": {},
+  "languages": [
+    "it",
+    "en"
+  ],
+  "defaultLang": "it",
+  "brand": {
+    "name": "B&B La Fenice Suite",
+    "logoText": "La Fenice Suite",
+    "logo": "",
+    "tagline": {
+      "en": "Suites in the old town of Salerno",
+      "it": "Suite nel centro storico di Salerno"
+    }
+  },
+  "contact": {
+    "address": {
+      "city": "Salerno",
+      "country": "Italia",
+      "province": "SA",
+      "street": "Via Antonio Mazza 30",
+      "zip": "84121"
+    },
+    "coords": {
+      "lat": 40.6784769,
+      "lng": 14.7607235
+    },
+    "checkinTime": "13:00 – 18:00",
+    "checkoutTime": "entro le 10:00",
+    "email": "info@lafenicesuite.it",
+    "phone": "+39 351 223 1472",
+    "phoneRaw": "+393512231472",
+    "whatsapp": "+393512231472",
+    "whatsappMessage": {
+      "en": "Hello! I would like to check availability at La Fenice Suite.",
+      "it": "Ciao! Vorrei informazioni sulla disponibilità a La Fenice Suite."
+    }
+  },
+  "legal": {
+    "company": "",
+    "vat": "",
+    "cin": "IT065116B49ICY6TAD",
+    "cir": "15065116EXT0841",
+    "credits": {
+      "label": "Luminy.dev",
+      "url": "https://www.luminy.dev"
+    },
+    "privacy": {
+      "controller": "B&B La Fenice Suite",
+      "email": "privacy@lafenicesuite.it",
+      "retentionMonths": 24,
+      "updatedAt": "2026-08-27"
+    }
+  },
+  "social": {
+    "facebook": "https://www.facebook.com/LaFeniceSuiteSalerno/",
+    "tripadvisor": "https://www.tripadvisor.it/Hotel_Review-g187781-d21321458-Reviews-B_b_La_Fenice_Suite-Salerno_Amalfi_Coast_Province_of_Salerno_Campania.html"
+  },
+  "hero": {
+    "eyebrow": {
+      "en": "Salerno · old town, Via Antonio Mazza",
+      "it": "Salerno · centro storico, Via Antonio Mazza"
+    },
+    "title": {
+      "en": "The old town starts\nat your doorstep",
+      "it": "Il centro storico\ncomincia sul pianerottolo"
+    },
+    "subtitle": {
+      "en": "Three rooms in the heart of old Salerno, each with its own character: one with a spa bath, one with a private terrace. Step outside and you are among the bars and restaurants of the old town; the ferry pier for Amalfi and Positano is a ten-minute walk away.",
+      "it": "Tre camere nel cuore antico di Salerno, ciascuna con il suo carattere: una con la vasca idromassaggio, una con la terrazza privata. Fuori dal portone ci sono i bar e i ristoranti della città vecchia; il molo dei traghetti per Amalfi e Positano è a dieci minuti a piedi."
+    },
+    "image": "/demo/bnb-la-fenice-suite/foto-07.webp",
+    "video": "",
+    "badges": [
+      {
+        "icon": "map",
+        "label": {
+          "en": "In the old town, 100 m from the Pinacoteca",
+          "it": "Nel centro storico, 100 m dalla Pinacoteca"
+        }
+      },
+      {
+        "icon": "star",
+        "label": {
+          "en": "9.3 on Booking · 328 reviews",
+          "it": "9,3 su Booking · 328 recensioni"
+        }
+      },
+      {
+        "icon": "bath",
+        "label": {
+          "en": "One suite with a spa bath",
+          "it": "Una suite con vasca idromassaggio"
+        }
+      }
+    ]
+  },
+  "story": {
+    "title": {
+      "en": "Three rooms, three characters",
+      "it": "Tre stanze, tre caratteri"
+    },
+    "paragraphs": {
+      "en": [
+        "La Fenice Suite is on the first floor of a building on Via Antonio Mazza, the old-town lane where the café tables reach right up to the front door. A few steps up, past the small desk in the entrance, and the rooms begin.",
+        "No two of the three are alike. One has dark floral wallpaper and a black wrought-iron bed, with an armchair and a television in a corner of its own. One is light, with a white bed under botanical paper and a door opening onto the terracotta terrace. The third is the largest and has the spa bath in full view, inside a deep-blue painted alcove.",
+        "The bathrooms have all been redone: white marble, vessel basin, gilt mirror and a ladder for the towels. Breakfast is not served in the house but at the café downstairs — which in Salerno is the right way to start the day."
+      ],
+      "it": [
+        "La Fenice Suite sta al primo piano di un palazzo di Via Antonio Mazza, la stradina del centro vecchio dove i tavolini dei bar arrivano fino al portone. Si sale qualche gradino, si passa dal piccolo banco all'ingresso e da lì partono le camere.",
+        "Nessuna delle tre è uguale all'altra. Una ha la carta da parati scura a fiori e il letto in ferro battuto nero, con la poltrona e il televisore in un angolo tutto suo. Una è chiara, con il letto bianco sotto la carta botanica e la porta che dà sulla terrazza in cotto. La terza è la più grande e ha la vasca idromassaggio a vista, dentro una nicchia dipinta di blu.",
+        "I bagni sono tutti rifatti: marmo bianco, lavabo d'appoggio, specchio dorato e la scaletta portasciugamani. La colazione non si fa in casa, si fa al bar qui sotto — che a Salerno è il modo giusto di cominciare la giornata."
+      ]
+    },
+    "image": "/demo/bnb-la-fenice-suite/foto-15.webp",
+    "highlights": [
+      {
+        "k": {
+          "en": "Rooms",
+          "it": "Camere"
+        },
+        "v": "3"
+      },
+      {
+        "k": {
+          "en": "Booking score",
+          "it": "Punteggio Booking"
+        },
+        "v": "9,3"
+      },
+      {
+        "k": {
+          "en": "From the station",
+          "it": "Dalla stazione"
+        },
+        "v": "1,1 km"
+      },
+      {
+        "k": {
+          "en": "From the ferry pier",
+          "it": "Dal molo dei traghetti"
+        },
+        "v": "10 min"
+      }
+    ]
+  },
+  "units": [
+    {
+      "active": true,
+      "amenities": [
+        "wifi",
+        "ac",
+        "heating",
+        "privateBathroom",
+        "tv",
+        "fridge",
+        "safe",
+        "hairdryer",
+        "towels",
+        "linen",
+        "nonSmoking"
+      ],
+      "bathroom": 1,
+      "bedrooms": 1,
+      "beds": {
+        "en": "1 double bed",
+        "it": "1 letto matrimoniale"
+      },
+      "blurb": {
+        "en": "The most striking of the three: black-and-gold wallpaper, a wrought-iron double bed, and a sitting corner with an armchair and a wall-mounted television. It looks onto the inner courtyard, so it stays quiet even when the street is lively.",
+        "it": "La più scenografica delle tre: carta da parati nera e oro, letto matrimoniale in ferro battuto, e un angolo salotto con poltroncina e televisore su parete. Affaccio sulla corte interna, quindi silenziosa anche quando la strada è viva."
+      },
+      "cover": "/demo/bnb-la-fenice-suite/foto-07.webp",
+      "floor": {
+        "en": "First floor",
+        "it": "Primo piano"
+      },
+      "gallery": [
+        "/demo/bnb-la-fenice-suite/foto-07.webp",
+        "/demo/bnb-la-fenice-suite/foto-22.webp",
+        "/demo/bnb-la-fenice-suite/foto-21.webp",
+        "/demo/bnb-la-fenice-suite/foto-06.webp",
+        "/demo/bnb-la-fenice-suite/foto-08.webp",
+        "/demo/bnb-la-fenice-suite/foto-10.webp"
+      ],
+      "guests": 2,
+      "id": "deluxe",
+      "name": {
+        "en": "Deluxe Double Room",
+        "it": "Camera Deluxe"
+      },
+      "size": 22,
+      "view": {
+        "en": "Inner courtyard view",
+        "it": "Vista sulla corte interna"
+      }
+    },
+    {
+      "active": true,
+      "amenities": [
+        "wifi",
+        "ac",
+        "heating",
+        "privateBathroom",
+        "tv",
+        "terrace",
+        "outdoorFurniture",
+        "fridge",
+        "safe",
+        "hairdryer",
+        "towels",
+        "linen",
+        "nonSmoking"
+      ],
+      "bathroom": 1,
+      "bedrooms": 1,
+      "beds": {
+        "en": "1 double bed",
+        "it": "1 letto matrimoniale"
+      },
+      "blurb": {
+        "en": "Light and warm, with botanical wallpaper and a white iron bed. The door opens onto the private terracotta terrace, with a small table and two iron chairs: where the day ends after a trip along the coast.",
+        "it": "Chiara e calda, con la carta da parati botanica e il letto bianco in ferro. Dalla porta si esce sulla terrazza privata in cotto, con tavolino e due sedie in ferro: il posto dove finisce la giornata, dopo la Costiera."
+      },
+      "cover": "/demo/bnb-la-fenice-suite/foto-34.webp",
+      "floor": {
+        "en": "First floor",
+        "it": "Primo piano"
+      },
+      "gallery": [
+        "/demo/bnb-la-fenice-suite/foto-34.webp",
+        "/demo/bnb-la-fenice-suite/foto-33.webp",
+        "/demo/bnb-la-fenice-suite/foto-31.webp",
+        "/demo/bnb-la-fenice-suite/foto-35.webp",
+        "/demo/bnb-la-fenice-suite/foto-12.webp",
+        "/demo/bnb-la-fenice-suite/foto-26.webp",
+        "/demo/bnb-la-fenice-suite/foto-29.webp"
+      ],
+      "guests": 2,
+      "id": "terrazza",
+      "name": {
+        "en": "Double Room with Terrace",
+        "it": "Camera con Terrazza"
+      },
+      "size": 19,
+      "view": {
+        "en": "Private terrace, garden and courtyard view",
+        "it": "Terrazza privata, vista sul verde e sulla corte"
+      }
+    },
+    {
+      "active": true,
+      "amenities": [
+        "wifi",
+        "ac",
+        "heating",
+        "privateBathroom",
+        "tv",
+        "balcony",
+        "fridge",
+        "safe",
+        "hairdryer",
+        "towels",
+        "linen",
+        "nonSmoking"
+      ],
+      "bathroom": 1,
+      "bedrooms": 1,
+      "beds": {
+        "en": "1 king-size bed",
+        "it": "1 letto king size"
+      },
+      "blurb": {
+        "en": "Twenty-six square metres, the largest of the three. The spa bath sits in the room itself, inside a deep-blue alcove, with velvet armchairs in front of it. The shower room is separate, and there is a balcony over the greenery.",
+        "it": "Ventisei metri quadri, la più grande. La vasca idromassaggio sta in camera, dentro una nicchia dipinta di blu, con le poltroncine di velluto davanti. Il bagno con la doccia è separato, e c'è il balcone sul verde."
+      },
+      "cover": "/demo/bnb-la-fenice-suite/foto-05.webp",
+      "floor": {
+        "en": "First floor",
+        "it": "Primo piano"
+      },
+      "gallery": [
+        "/demo/bnb-la-fenice-suite/foto-05.webp",
+        "/demo/bnb-la-fenice-suite/foto-04.webp",
+        "/demo/bnb-la-fenice-suite/foto-03.webp",
+        "/demo/bnb-la-fenice-suite/foto-13.webp",
+        "/demo/bnb-la-fenice-suite/foto-16.webp",
+        "/demo/bnb-la-fenice-suite/foto-19.webp"
+      ],
+      "guests": 2,
+      "id": "king-spa",
+      "name": {
+        "en": "King Room with Spa Bath",
+        "it": "King Room con Vasca Idromassaggio"
+      },
+      "size": 26,
+      "view": {
+        "en": "Balcony, garden and courtyard view",
+        "it": "Balcone, vista sul verde e sulla corte"
+      }
+    }
+  ],
+  "amenities": [
+    "breakfast",
+    "wifi",
+    "ac",
+    "heating",
+    "privateBathroom",
+    "hotWater",
+    "tv",
+    "fridge",
+    "safe",
+    "hairdryer",
+    "linen",
+    "towels",
+    "cleaning",
+    "terrace",
+    "selfCheckin",
+    "lateCheckin",
+    "nonSmoking",
+    "luggageStorage"
+  ],
+  "amenitiesCustom": [
+    {
+      "icon": "bath",
+      "label": {
+        "en": "Spa bath in the King Room",
+        "it": "Vasca idromassaggio nella King Room"
+      }
+    },
+    {
+      "icon": "coffee",
+      "label": {
+        "en": "Italian breakfast at the café ten metres from the door",
+        "it": "Colazione italiana al bar a dieci metri dal portone"
+      }
+    },
+    {
+      "icon": "key",
+      "label": {
+        "en": "Private check-in, no reception desk, no waiting",
+        "it": "Check-in privato, senza reception e senza attese"
+      }
+    },
+    {
+      "icon": "wave",
+      "label": {
+        "en": "Ferries to Amalfi and Positano a ten-minute walk away",
+        "it": "Traghetti per Amalfi e Positano a dieci minuti a piedi"
+      }
+    },
+    {
+      "icon": "lock",
+      "label": {
+        "en": "In-room safe and monitored entrance",
+        "it": "Cassaforte in camera e ingresso sorvegliato"
+      }
+    }
+  ],
+  "breakfast": {
+    "title": {
+      "en": "Breakfast happens at the café, the Salerno way",
+      "it": "La colazione si fa al bar, come a Salerno"
+    },
+    "text": {
+      "en": "Italian breakfast at the partner café, ten metres from the front door: cappuccino and a freshly baked cornetto, sitting outside when the weather allows. It is how the city starts its morning, and guests prefer it to a breakfast room. One detail to note: the café is closed on Sundays, so breakfast is not served that day.",
+      "it": "Colazione italiana al bar convenzionato, a dieci metri dal portone: cappuccino e cornetto appena sfornato, seduti fuori se la giornata lo permette. È il modo in cui la città comincia la mattina, e agli ospiti piace più di una sala colazioni. Attenzione a un dettaglio: la domenica il bar è chiuso e la colazione non viene servita."
+    },
+    "hours": "",
+    "image": "/demo/bnb-la-fenice-suite/foto-02.webp",
+    "items": [
+      {
+        "en": "Cappuccino, coffee or tea",
+        "it": "Cappuccino, caffè o tè"
+      },
+      {
+        "en": "Cornetto or brioche of the day",
+        "it": "Cornetto o brioche del giorno"
+      },
+      {
+        "en": "At the café ten metres from the door",
+        "it": "Al bar a dieci metri dal portone"
+      },
+      {
+        "en": "The café is closed on Sundays",
+        "it": "La domenica il bar è chiuso"
+      }
+    ]
+  },
+  "checkin": {
+    "title": {
+      "en": "Getting here and getting in",
+      "it": "Arrivare e entrare"
+    },
+    "text": {
+      "en": "Check-in from 13:00 to 18:00, check-out by 10:00. Entry is private: no reception desk, no waiting: message us beforehand and you will find everything ready. Via Antonio Mazza is in the old town, so by car it is best to aim for a nearby car park and walk the last stretch. There are a few steps up from the street door: tell us if you are carrying heavy luggage.",
+      "it": "Check-in dalle 13:00 alle 18:00, check-out entro le 10:00. L'ingresso è privato: niente reception, niente attese: ci si scrive prima e si trova tutto pronto. Via Antonio Mazza è nel centro storico, quindi in auto conviene puntare a un parcheggio della zona e fare gli ultimi metri a piedi. Dal portone si sale qualche gradino: se avete bagagli pesanti, scrivetecelo."
+    },
+    "steps": [
+      {
+        "en": "Message us on WhatsApp the day before with your estimated time",
+        "it": "Scrivici su WhatsApp il giorno prima con l'orario stimato"
+      },
+      {
+        "en": "Come to Via Antonio Mazza 30, in the old town",
+        "it": "Arriva in Via Antonio Mazza 30, nel centro storico"
+      },
+      {
+        "en": "We meet you and hand over the keys to your room",
+        "it": "Ti accogliamo noi e ti diamo le chiavi della camera"
+      },
+      {
+        "en": "Arriving outside those hours? Let us know and we will arrange it",
+        "it": "Se arrivi fuori orario avvisaci: ci si organizza"
+      }
+    ],
+    "image": "/demo/bnb-la-fenice-suite/foto-14.webp"
+  },
+  "gallery": [
+    {
+      "alt": {
+        "en": "The entrance with the welcome desk",
+        "it": "L'ingresso con il banco di accoglienza"
+      },
+      "src": "/demo/bnb-la-fenice-suite/foto-15.webp"
+    },
+    {
+      "alt": {
+        "en": "White wrought-iron bed and damask wallpaper",
+        "it": "Letto in ferro battuto bianco e carta da parati damascata"
+      },
+      "src": "/demo/bnb-la-fenice-suite/foto-23.webp"
+    },
+    {
+      "alt": {
+        "en": "Room with white bed and iron bedside tables",
+        "it": "Camera con letto bianco e comodini in ferro"
+      },
+      "src": "/demo/bnb-la-fenice-suite/foto-24.webp"
+    },
+    {
+      "alt": {
+        "en": "White marble bathroom with shower and gilt mirror",
+        "it": "Bagno in marmo bianco con doccia e specchio dorato"
+      },
+      "src": "/demo/bnb-la-fenice-suite/foto-11.webp"
+    },
+    {
+      "alt": {
+        "en": "Vessel basin and oval gilt mirror",
+        "it": "Lavabo d'appoggio e specchio ovale dorato"
+      },
+      "src": "/demo/bnb-la-fenice-suite/foto-18.webp"
+    },
+    {
+      "alt": {
+        "en": "Marble shower",
+        "it": "Doccia in marmo"
+      },
+      "src": "/demo/bnb-la-fenice-suite/foto-20.webp"
+    },
+    {
+      "alt": {
+        "en": "The bathroom opening onto the spa bath room",
+        "it": "Il bagno che si apre sulla camera con la vasca"
+      },
+      "src": "/demo/bnb-la-fenice-suite/foto-17.webp"
+    },
+    {
+      "alt": {
+        "en": "The terracotta terrace with iron table and chairs",
+        "it": "La terrazza in cotto con tavolino e sedie in ferro"
+      },
+      "src": "/demo/bnb-la-fenice-suite/foto-12.webp"
+    },
+    {
+      "alt": {
+        "en": "The door opening onto the terrace",
+        "it": "La porta che dà sulla terrazza"
+      },
+      "src": "/demo/bnb-la-fenice-suite/foto-27.webp"
+    },
+    {
+      "alt": {
+        "en": "Wardrobe, television and French window in the light room",
+        "it": "Armadio, televisore e porta finestra nella camera chiara"
+      },
+      "src": "/demo/bnb-la-fenice-suite/foto-30.webp"
+    },
+    {
+      "alt": {
+        "en": "The copper pendant lamp above the bed",
+        "it": "La lampada in rame sopra il letto"
+      },
+      "src": "/demo/bnb-la-fenice-suite/foto-32.webp"
+    },
+    {
+      "alt": {
+        "en": "Via Antonio Mazza, the café tables downstairs",
+        "it": "Via Antonio Mazza, i tavolini del bar sotto casa"
+      },
+      "src": "/demo/bnb-la-fenice-suite/foto-02.webp"
+    }
+  ],
+  "reviews": {
+    "rating": 9.3,
+    "count": 328,
+    "source": "Booking.com",
+    "items": [
+      {
+        "author": "Galina",
+        "country": "GB",
+        "date": "2025-06",
+        "rating": 10,
+        "text": {
+          "en": "Perfect central location with exceptional hospitality. The location couldn't have been better — right in the heart of everything! We were surrounded by charming coffee shops, delicious restaurants, and plenty of shops. The marina was nearby, and transportation was a breeze with the bus stop and train station close by. The apartment itself was modern, clean, and very comfortable. What truly stood out was Marianna's hospitality. She was incredibly helpful, friendly, and kind, always responding quickly.",
+          "it": "Posizione centrale perfetta e un'ospitalità eccezionale. La posizione non poteva essere migliore: nel cuore di tutto, circondati da caffè, ristoranti e negozi. Il porto è vicino, la fermata dell'autobus e la stazione a due passi. L'appartamento è moderno, pulito e comodissimo. Ma quello che ha fatto davvero la differenza è l'accoglienza di Marianna: disponibile, gentile, sempre pronta a rispondere."
+        }
+      },
+      {
+        "author": "Tanya",
+        "country": "CA",
+        "date": "2025-05",
+        "rating": 10,
+        "text": {
+          "en": "Perfect stay. The apartment was quiet, comfortable, clean, and it felt very safe. I really enjoyed the terrace, it was nice to have a peaceful place to recharge. Fantastic location, close to shops, restaurants, grocery, trains, ferry, and local attractions. Marianna was very welcoming and helpful and checked in with me via WhatsApp during my stay. Delicious cappuccino and cornettos at the cafe.",
+          "it": "Soggiorno perfetto. Silenzioso, comodo, pulito, e mi sono sentita al sicuro. La terrazza mi è piaciuta molto: un posto tranquillo dove ricaricarsi. Posizione fantastica, vicino a negozi, ristoranti, treni, traghetto e alle attrazioni. Marianna è stata accogliente e mi ha scritto su WhatsApp durante il soggiorno. Cappuccino e cornetti ottimi al bar."
+        }
+      },
+      {
+        "author": "Mirzaei",
+        "country": "GB",
+        "date": "2026-04",
+        "rating": 10,
+        "text": {
+          "en": "If we end up in Salerno we will be back. This place is the best place for a chill weekend. The host was an absolute gem. She gave us suggestions to go and visit and stayed with us for a bit to make us feel more comfortable. The place was super clean and very close to everything in Salerno as well as the train station and the ferry to Amalfi. The room is massive, the balcony was cute. The jacuzzi looked nice and cozy and was very clean. They also have a safe inside which is very convenient.",
+          "it": "Se torniamo a Salerno torniamo qui. Il posto giusto per un fine settimana tranquillo. L'host è stata una perla: ci ha dato consigli su cosa vedere ed è rimasta un po' con noi per farci sentire a casa. Pulitissimo e vicino a tutto, stazione e traghetto per Amalfi compresi. La camera è enorme, il balcone è carino, la vasca idromassaggio bella e pulita. C'è anche la cassaforte, molto comoda."
+        }
+      },
+      {
+        "author": "Kelly",
+        "country": "AU",
+        "date": "2025-10",
+        "rating": 10,
+        "text": {
+          "en": "Lovely stay in Salerno Old Town. Amazing communication from Marianna, cute rooms, very comfortable beds and the location in the old town is great. We have done easy day trips to the Amalfi Coast from here by train and ferry. We loved it so much we decided to change plans and stay another night. Both the King suite with spa and the room with terrace are lovely.",
+          "it": "Bel soggiorno nel centro storico di Salerno. Comunicazione ottima con Marianna, camere carine, letti comodissimi e una posizione fantastica nella città vecchia. Da qui abbiamo fatto gite in giornata in Costiera, in treno e in traghetto. Ci è piaciuto così tanto che abbiamo cambiato programma per restare una notte in più. Sia la King con la vasca sia la camera con la terrazza sono belle."
+        }
+      },
+      {
+        "author": "Sergiu",
+        "country": "RO",
+        "date": "2026-08",
+        "rating": 10,
+        "text": {
+          "en": "Very good accommodation for a couple. Close to the ferry, restaurants and coffee bars, in the middle of the old town. Very clean. The owner supported us with everything that was needed.",
+          "it": "Ottima sistemazione per una coppia. Vicino al traghetto, ai ristoranti e ai bar, in mezzo alla città vecchia. Molto pulito. Il proprietario ci ha aiutato con tutto quello che serviva."
+        }
+      },
+      {
+        "author": "Ralitsa",
+        "country": "BG",
+        "date": "2024-12",
+        "rating": 10,
+        "text": {
+          "en": "Perfect location in the old town, close to everything. Easy to find. Very comfortable bed and pillows, very clean and quiet place. Marianna is very helpful and friendly. The breakfast was Italian style in a cafe nearby with very friendly staff. Our flight was cancelled and Marianna was ready to check us in again. Thank you, Marianna!",
+          "it": "Posizione perfetta nel centro storico, vicino a tutto e facile da trovare. Letto e cuscini comodissimi, tutto pulito e silenzioso. Marianna è gentile e disponibile. La colazione all'italiana al bar qui vicino, con personale simpatico. Il nostro volo è stato cancellato e Marianna era pronta a farci il check-in di nuovo. Grazie Marianna!"
+        }
+      }
+    ]
+  },
+  "offers": [
+    {
+      "active": true,
+      "badge": {
+        "en": "−10%",
+        "it": "−10%"
+      },
+      "id": "luci-artista",
+      "text": {
+        "en": "From mid-November to mid-January Salerno lights up for Luci d'Artista, and the installations reach right up to our street. Book three consecutive nights direct and the third is 30% off.",
+        "it": "Da metà novembre a metà gennaio Salerno si accende per Luci d'Artista, e le installazioni arrivano fin sotto casa. Prenotando qui tre notti consecutive, la terza è scontata del 30%."
+      },
+      "title": {
+        "en": "Luci d'Artista, three nights in the old town",
+        "it": "Luci d'Artista, tre notti in centro"
+      }
+    },
+    {
+      "active": true,
+      "badge": {
+        "en": "Late check-out",
+        "it": "Check-out tardi"
+      },
+      "id": "costiera-senza-auto",
+      "text": {
+        "en": "Four nights or more: we book your ferry tickets to Amalfi and Positano and let you keep the room until 12:00 on your departure day.",
+        "it": "Quattro notti o più: ti prenotiamo noi i biglietti del traghetto per Amalfi e Positano e ti lasciamo la camera fino alle 12:00 il giorno della partenza."
+      },
+      "title": {
+        "en": "The Amalfi Coast without a car",
+        "it": "La Costiera senza auto"
+      }
+    },
+    {
+      "active": true,
+      "badge": {
+        "en": "Upgrade",
+        "it": "Upgrade"
+      },
+      "id": "king-idromassaggio",
+      "text": {
+        "en": "Sunday to Thursday, two nights in the King Room with spa bath at the Deluxe rate. Subject to availability, to be requested when booking direct.",
+        "it": "Dalla domenica al giovedì, due notti nella King Room con vasca idromassaggio al prezzo della Deluxe. Soggetto a disponibilità, da richiedere in fase di prenotazione diretta."
+      },
+      "title": {
+        "en": "Two midweek nights in the King Room",
+        "it": "Due notti infrasettimanali nella King"
+      }
+    },
+    {
+      "active": true,
+      "badge": {
+        "en": "3 for 2",
+        "it": "3 per 2"
+      },
+      "id": "inverno-in-centro",
+      "text": {
+        "en": "From January to March, book three consecutive nights direct and the third is free. Public holidays and long weekends excluded.",
+        "it": "Da gennaio a marzo, prenotando direttamente tre notti consecutive la terza non si paga. Escluse le festività e i ponti."
+      },
+      "title": {
+        "en": "Winter in the old town, the third night is on us",
+        "it": "Inverno in centro, la terza notte è nostra"
+      }
+    }
+  ],
+  "location": {
+    "intro": {
+      "en": "We are on Via Antonio Mazza, in the old town of Salerno, a few steps from Piazza Portanova. You will not need a car: the Pinacoteca and the Archaeological Museum are about a hundred metres away, the seafront and Santa Teresa beach a quarter of an hour on foot, and the pier where the ferries leave for Amalfi and Positano is ten minutes away. The station is just over a kilometre.",
+      "it": "Siamo in Via Antonio Mazza, nel centro storico di Salerno, a pochi passi da Piazza Portanova. Da qui l'auto non serve: la Pinacoteca e il Museo Archeologico sono a un centinaio di metri, il lungomare e la spiaggia di Santa Teresa a un quarto d'ora a piedi, e il molo da cui partono i traghetti per Amalfi e Positano è a dieci minuti. La stazione è a poco più di un chilometro."
+    },
+    "pois": [
+      {
+        "distance": "10 m",
+        "icon": "coffee",
+        "name": {
+          "en": "Bars and restaurants on the street",
+          "it": "Bar e ristoranti sulla strada"
+        }
+      },
+      {
+        "distance": "100 m",
+        "icon": "image",
+        "name": {
+          "en": "Provincial Art Gallery",
+          "it": "Pinacoteca Provinciale"
+        }
+      },
+      {
+        "distance": "100 m",
+        "icon": "map",
+        "name": {
+          "en": "Castel Terracena",
+          "it": "Castel Terracena"
+        }
+      },
+      {
+        "distance": "200 m",
+        "icon": "map",
+        "name": {
+          "en": "Provincial Archaeological Museum",
+          "it": "Museo Archeologico Provinciale"
+        }
+      },
+      {
+        "distance": "400 m",
+        "icon": "map",
+        "name": {
+          "en": "Salerno Town Hall",
+          "it": "Municipio di Salerno"
+        }
+      },
+      {
+        "distance": "500 m",
+        "icon": "map",
+        "name": {
+          "en": "Medieval Aqueduct",
+          "it": "Acquedotto Medievale"
+        }
+      },
+      {
+        "distance": "750 m",
+        "icon": "leaf",
+        "name": {
+          "en": "Garden of Minerva",
+          "it": "Giardino della Minerva"
+        }
+      },
+      {
+        "distance": "750 m",
+        "icon": "tree",
+        "name": {
+          "en": "Villa Comunale park",
+          "it": "Villa Comunale"
+        }
+      },
+      {
+        "distance": "750 m",
+        "icon": "wave",
+        "name": {
+          "en": "Santa Teresa beach",
+          "it": "Spiaggia di Santa Teresa"
+        }
+      },
+      {
+        "distance": "1 km",
+        "icon": "wave",
+        "name": {
+          "en": "Ferry pier for the Amalfi Coast",
+          "it": "Molo dei traghetti per la Costiera"
+        }
+      },
+      {
+        "distance": "1,1 km",
+        "icon": "map",
+        "name": {
+          "en": "Salerno train station",
+          "it": "Stazione di Salerno"
+        }
+      },
+      {
+        "distance": "1,8 km",
+        "icon": "map",
+        "name": {
+          "en": "Arechi Castle",
+          "it": "Castello di Arechi"
+        }
+      }
+    ]
+  },
+  "booking": {
+    "mode": "link",
+    "provider": null,
+    "embed": {
+      "type": "html",
+      "html": "",
+      "url": "",
+      "scriptSrc": "",
+      "mountId": "booking-widget",
+      "height": 640,
+      "headExtra": ""
+    },
+    "link": {
+      "url": "https://www.booking.com/hotel/it/la-fenice-suite-salerno.it.html",
+      "channel": "booking",
+      "label": ""
+    },
+    "fallback": "internal",
+    "showDirectHint": true
+  },
+  "seo": {
+    "title": {
+      "en": "B&B La Fenice Suite · rooms in the old town of Salerno",
+      "it": "B&B La Fenice Suite · camere nel centro storico di Salerno"
+    },
+    "description": {
+      "en": "Three rooms in the old town of Salerno, on Via Antonio Mazza. One with a spa bath, one with a private terrace. Breakfast at the café downstairs, ferries to the Amalfi Coast a ten-minute walk away. Rated 9.3 on Booking.",
+      "it": "Tre camere nel centro storico di Salerno, in Via Antonio Mazza. Una con vasca idromassaggio, una con terrazza privata. Colazione al bar sotto casa, traghetti per la Costiera Amalfitana a dieci minuti a piedi. 9,3 su Booking."
+    },
+    "ogImage": "/demo/bnb-la-fenice-suite/foto-07.webp"
+  },
+  "plan": {
+    "booking_engine": true,
+    "direct_requests": true,
+    "multilanguage": true,
+    "media_upload": true,
+    "theme_switching": true,
+    "color_customization": true,
+    "gallery": true,
+    "reviews": true,
+    "map": true,
+    "offers": true,
+    "blog": true,
+    "seo_advanced": true,
+    "analytics": false,
+    "whatsapp": true,
+    "demo_showcase": false,
+    "extra_pages": false,
+    "guest_area": false
+  },
+  "settings": {
+    "section.rooms": true,
+    "section.amenities": true,
+    "section.story": true,
+    "section.gallery": true,
+    "section.reviews": true,
+    "section.map": true,
+    "section.offers": true,
+    "section.breakfast": true,
+    "section.checkin": true,
+    "booking.hero_bar": true,
+    "booking.sticky_bar": true,
+    "booking.show_prices": false,
+    "section.blog": true,
+    "nav.blog": true,
+    "nav.gallery": true,
+    "hero.video": false,
+    "contact.whatsapp_button": true
+  },
+  "vetrina": {
+    "luogo": "Salerno (SA)",
+    "nota": "Cliente reale. B&B La Fenice Suite, Via Antonio Mazza 30, 84121 Salerno (centro storico, a due passi da Piazza Portanova). Host: Marianna (ricorre in decine di recensioni; una cita anche un Giuseppe). 3 camere secondo Booking: Deluxe 22 mq vista corte, con Terrazza 19 mq, King 26 mq con vasca idromassaggio. Punteggio 9,3 su 328 recensioni. CIN IT065116B49ICY6TAD e CIR 15065116EXT0841 presi da TripAdvisor. Fonti: planetofhotels (foto in max1280x900, recensioni integrali, POI), hotels-in-it, amimir, tripadvisor, triptap. CONTENUTI FITTIZI da sostituire prima di andare live: email info@lafenicesuite.it e privacy@lafenicesuite.it (inventate), tutte e 4 le offerte (inventate), i 3 articoli della sezione consigli (scritti su fatti veri di Salerno ma nella voce dell'host). DA CONFERMARE COL CLIENTE: telefono +39 351 223 1472 (preso da TripTap/Google, non da Booking) usato anche come WhatsApp; ragione sociale e P.IVA (mancano del tutto); prezzi (fonti divergenti, TripAdvisor 74-129 dollari, show_prices spento); orario della colazione (si sa solo che e' al bar convenzionato a ~10 m e che la domenica il bar e' chiuso); ABBINAMENTO FOTO/CAMERE, il punto piu' incerto: le foto mostrano almeno 4 ambienti diversi (nera a fiori, chiara botanica, damascata grigia con cuscini blu, nicchia blu con idromassaggio) mentre Booking vende 3 tipologie, quindi la camera damascata grigia (foto-23, foto-24) e' finita in galleria e non e' assegnata; da verificare anche quale camera abbia davvero la terrazza in cotto. CONFLITTI TRA FONTI: numero recensioni 328 (planetofhotels) / 330 (hotels-in-it) / 326 (amimir), messo 328; pagamento solo contanti secondo planetofhotels ma pagamento cashless disponibile secondo hotels-in-it, non messo in nessun testo; distanze aeroporti incoerenti (Salerno-Costa d'Amalfi 9,3 km su TripAdvisor contro 17 km su planetofhotels, Napoli 28,5 km contro 56 km) quindi gli aeroporti sono stati esclusi dai POI. DIFETTI RICORRENTI NELLE RECENSIONI, utili al tavolo: il Wi-Fi non arriva bene in camera (segnalato almeno 4 volte, anche telefonia assente), pareti sottili, difficile parcheggiare vicino, qualche gradino ripido all'ingresso, colazione giudicata scarsa da alcuni (un cornetto e un cappuccino) e assente la domenica, un materasso cigolante segnalato nel 2024.",
+    "creata": "2026-08-27",
+    "fonte": "Google Maps (link fornito dal cliente) + Booking.com via portali che ripubblicano l'annuncio (planetofhotels, hotels-in-it, amimir, tripadvisor)"
+  },
+  "blog": {
+    "intro": {
+      "en": "What we tell our guests when they ask what to do, where to eat and how to get around.",
+      "it": "Quello che diciamo agli ospiti quando ci chiedono cosa fare, dove mangiare e come muoversi."
+    },
+    "title": {
+      "en": "Salerno seen from Via Antonio Mazza",
+      "it": "Salerno vista da Via Antonio Mazza"
+    }
+  },
+  "posts": [
+    {
+      "body": {
+        "en": [
+          "This is the whole point of sleeping in Salerno rather than on the coast: the pier where the ferries leave for Amalfi and Positano is a ten-minute walk from the front door, and half an hour later you are on the other side. By car, with the traffic on the Amalfi coast road, it takes at least twice as long — and then there is the parking.",
+          "Our advice is to take one of the early morning departures. You reach Amalfi before the coach groups arrive and you can see the cathedral in peace.",
+          "If you only have time for one stop, add Atrani to Amalfi: it is a ten-minute walk away and has a tenth of the crowds. If you have time for two, the ferry carries on to Positano.",
+          "In winter the ferries run less often and the train is the better bet: Vietri sul Mare is a few minutes from Salerno, and buses for the coast leave from there."
+        ],
+        "it": [
+          "Il vantaggio di dormire a Salerno invece che in Costiera è tutto qui: il molo da cui partono i traghetti per Amalfi e Positano è a dieci minuti a piedi dal portone, e in mezz'ora sei dall'altra parte. In auto, con il traffico della statale amalfitana, ce ne vogliono almeno il doppio, e poi c'è la questione del parcheggio.",
+          "Il consiglio è di prendere una delle prime corse del mattino. Ad Amalfi arrivi che i pullman dei gruppi non sono ancora scesi e il Duomo lo vedi con calma.",
+          "Se avete tempo per una sola tappa, ad Amalfi aggiungete Atrani: è a dieci minuti a piedi e ha un decimo delle persone. Se ne avete due, il traghetto prosegue per Positano.",
+          "In inverno i traghetti riducono le corse e conviene il treno: da Salerno si arriva a Vietri sul Mare in pochi minuti, e da lì partono gli autobus per la Costiera."
+        ]
+      },
+      "excerpt": {
+        "en": "The ferry pier is a ten-minute walk from here. By car, on the coast road, it takes twice as long — and then you have to park.",
+        "it": "Il molo dei traghetti è a dieci minuti a piedi da qui. In auto, sulla statale, ci metteresti il doppio e poi dovresti parcheggiare."
+      },
+      "id": "costiera-senza-auto",
+      "tag": {
+        "en": "Day trips",
+        "it": "Gite"
+      },
+      "title": {
+        "en": "The Amalfi Coast in a day, without a car",
+        "it": "La Costiera in giornata, senza l'auto"
+      }
+    },
+    {
+      "body": {
+        "en": [
+          "Via Antonio Mazza is one of those old-town streets where the tables come out in the evening and the street turns into a dining room. Downstairs there are a couple of places open for dinner and the café where breakfast is served, which also does coffee and aperitivi during the day.",
+          "Fifty metres away the Piazza Portanova area begins, and from there the whole pedestrian stretch of the centre opens up: pizzerias, trattorias, gelaterias and shops that stay open late.",
+          "One practical tip: on summer weekends the outdoor tables go early. If you have somewhere in mind, book in the afternoon.",
+          "If you want fish with a view, the Lungomare Trieste is a quarter of an hour on foot and has restaurants looking onto the marina."
+        ],
+        "it": [
+          "Via Antonio Mazza è una di quelle strade del centro vecchio dove la sera i tavolini escono e la strada diventa una sala. Sotto casa ci sono un paio di locali che aprono a cena e il bar dove facciamo la colazione, che di giorno serve anche caffè e aperitivi.",
+          "A cinquanta metri comincia la zona di Piazza Portanova, e da lì parte tutto il tratto pedonale del centro: pizzerie, trattorie, gelaterie e i negozi che restano aperti fino a tardi.",
+          "Un consiglio pratico: nei fine settimana d'estate i tavoli fuori si esauriscono presto. Se avete un posto in mente, prenotate nel pomeriggio.",
+          "Se volete mangiare pesce con vista, il lungomare Trieste è a un quarto d'ora a piedi e ha i locali affacciati sul porto turistico."
+        ]
+      },
+      "excerpt": {
+        "en": "On our street the tables reach right up to the front door. You do not need a car to eat well.",
+        "it": "Sulla nostra strada i tavolini dei locali arrivano fino al portone. Non serve prendere l'auto per cenare bene."
+      },
+      "id": "dove-si-mangia",
+      "tag": {
+        "en": "Eating",
+        "it": "Mangiare"
+      },
+      "title": {
+        "en": "Where to eat, without leaving the neighbourhood",
+        "it": "Dove si mangia, senza uscire dal quartiere"
+      }
+    },
+    {
+      "body": {
+        "en": [
+          "Luci d'Artista is the reason to come to Salerno in winter: from mid-November to mid-January the old town, the seafront and the Villa Comunale fill with light installations, and the whole city can be walked.",
+          "The advantage of staying here is that you step out of the door already inside the route: it is a quarter of an hour on foot from our street to the seafront, with lights the whole way.",
+          "It is also the best time to see the coast: Amalfi and Ravello without the queues, and the Garden of Minerva seven hundred and fifty metres from here, almost empty in winter.",
+          "On December weekends the city fills with day visitors: it is worth booking your room a few weeks ahead."
+        ],
+        "it": [
+          "Luci d'Artista è la ragione per cui vale la pena venire a Salerno d'inverno: da metà novembre a metà gennaio il centro storico, il lungomare e la Villa Comunale si riempiono di installazioni luminose, e la città si gira tutta a piedi.",
+          "Il vantaggio di stare qui è che si esce dal portone e si è già dentro il percorso: dalla nostra strada al lungomare sono un quarto d'ora di passeggiata, con le luci per tutto il tragitto.",
+          "È anche il periodo in cui la Costiera si vede meglio: Amalfi e Ravello senza le file, e il Giardino della Minerva a settecentocinquanta metri da qui, che d'inverno è quasi vuoto.",
+          "Nei fine settimana di dicembre la città si riempie di visitatori in giornata: conviene prenotare la camera con qualche settimana di anticipo."
+        ]
+      },
+      "excerpt": {
+        "en": "From November to January the city fills with light installations. It is when Salerno is at its best — and when rooms cost least.",
+        "it": "Da novembre a gennaio la città si riempie di installazioni luminose. È il periodo in cui Salerno è più bella e le camere costano meno."
+      },
+      "id": "salerno-inverno",
+      "tag": {
+        "en": "Seasons",
+        "it": "Stagioni"
+      },
+      "title": {
+        "en": "Salerno in winter: Luci d'Artista and an empty city",
+        "it": "Salerno d'inverno: Luci d'Artista e città vuota"
+      }
+    }
+  ]
+}

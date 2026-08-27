@@ -1,0 +1,709 @@
+{
+  "slug": "bnb-centrale",
+  "preset": "bnb",
+  "theme": "heritage",
+  "themeOverrides": {},
+  "languages": [
+    "it",
+    "en"
+  ],
+  "defaultLang": "it",
+  "brand": {
+    "name": "B&B Centrale",
+    "logoText": "B&B Centrale",
+    "logo": "",
+    "tagline": {
+      "en": "Bed & Breakfast on Via dei Mercanti, in the old town of Salerno",
+      "it": "Bed & Breakfast su Via dei Mercanti, nel centro storico di Salerno"
+    }
+  },
+  "contact": {
+    "address": {
+      "city": "Salerno",
+      "country": "Italia",
+      "province": "SA",
+      "street": "Via dei Mercanti 46",
+      "zip": "84121"
+    },
+    "coords": {
+      "lat": 40.6787,
+      "lng": 14.7611
+    },
+    "checkinTime": "15:00 – 20:30",
+    "checkoutTime": "07:00 – 10:00",
+    "email": "info@bbcentralesalerno.it",
+    "phone": "+39 089 236 380",
+    "phoneRaw": "+39089236380",
+    "whatsapp": "+39089236380",
+    "whatsappMessage": {
+      "en": "Hello! I would like to check your availability.",
+      "it": "Buongiorno! Vorrei sapere se avete disponibilità."
+    }
+  },
+  "legal": {
+    "company": "",
+    "vat": "",
+    "cin": "IT065116C1OK6D3M2V",
+    "cir": "15065116EXT0231",
+    "credits": {
+      "label": "Luminy.dev",
+      "url": "https://www.luminy.dev"
+    },
+    "privacy": {
+      "controller": "B&B Centrale — Salerno",
+      "email": "privacy@bbcentralesalerno.it",
+      "retentionMonths": 24,
+      "updatedAt": "2026-08-27"
+    }
+  },
+  "social": {},
+  "hero": {
+    "eyebrow": {
+      "en": "Salerno · Via dei Mercanti 46, old town",
+      "it": "Salerno · Via dei Mercanti 46, centro storico"
+    },
+    "title": {
+      "en": "A noble floor\non Via dei Mercanti",
+      "it": "Un piano nobile\nsu Via dei Mercanti"
+    },
+    "subtitle": {
+      "en": "High ceilings, chequered tiled floors and family walnut furniture, on the second floor of a palazzo in the old town. Step through the front door and Salerno is already there: the cathedral, the medieval aqueduct, the seafront.",
+      "it": "Soffitti alti, pavimenti a scacchi e mobili di noce di famiglia, al secondo piano di un palazzo del centro storico. Si scende dal portone e Salerno è già tutta lì: il Duomo, l'acquedotto medievale, il lungomare."
+    },
+    "image": "/demo/bnb-centrale/foto-22.webp",
+    "video": "",
+    "badges": [
+      {
+        "icon": "map",
+        "label": {
+          "en": "In the old town",
+          "it": "Nel centro storico"
+        }
+      },
+      {
+        "icon": "coffee",
+        "label": {
+          "en": "Breakfast included",
+          "it": "Colazione inclusa"
+        }
+      },
+      {
+        "icon": "car",
+        "label": {
+          "en": "Partner garage",
+          "it": "Garage convenzionato"
+        }
+      }
+    ]
+  },
+  "story": {
+    "title": {
+      "en": "A gentleman's house, open to guests",
+      "it": "Una casa signorile, aperta agli ospiti"
+    },
+    "paragraphs": {
+      "en": [
+        "The B&B occupies the second floor of a palazzo in the old town, at number 46 of Via dei Mercanti. Nothing inside has been rebuilt: the chequered floors, the mouldings, the mirrors, the chandeliers and the walnut furniture belong to the house, and the ceilings are so high that the rooms stay cool even in August.",
+        "The common areas are not a hotel lobby: they are the sitting room with its sofas, the room with the big table where breakfast is served, the hallway with its console and mirror. They are genuinely used, and they are why this house feels like no hotel at all.",
+        "Guests talk above all about the welcome: directions given before you even arrive, your number plate registered with the council so you can enter the restricted zone, advice on where to eat fish without falling into the seafront traps."
+      ],
+      "it": [
+        "Il B&B occupa il secondo piano di un palazzo del centro storico, all'altezza del 46 di Via dei Mercanti. Dentro non c'è niente di ricostruito: i pavimenti a scacchi, gli stucchi, gli specchi, i lampadari e i mobili di noce sono quelli della casa, e i soffitti sono così alti che le stanze restano fresche anche ad agosto.",
+        "Gli spazi comuni non sono una hall: sono il salotto con i divani, la sala del tavolo grande dove si fa colazione, l'ingresso con la consolle e lo specchio. Si usano davvero, e sono il motivo per cui questa casa non somiglia a nessun albergo.",
+        "Chi ci ha dormito racconta soprattutto dell'accoglienza: le indicazioni date prima ancora di arrivare, la targa segnalata al Comune per entrare in ZTL, i consigli su dove mangiare pesce senza finire nelle trappole del lungomare."
+      ]
+    },
+    "image": "/demo/bnb-centrale/foto-18.webp",
+    "highlights": [
+      {
+        "k": {
+          "en": "Floor",
+          "it": "Piano"
+        },
+        "v": {
+          "en": "Second",
+          "it": "Secondo"
+        }
+      },
+      {
+        "k": {
+          "en": "On Tripadvisor",
+          "it": "Su Tripadvisor"
+        },
+        "v": "4,6/5"
+      },
+      {
+        "k": {
+          "en": "Breakfast",
+          "it": "Colazione"
+        },
+        "v": {
+          "en": "included",
+          "it": "inclusa"
+        }
+      }
+    ]
+  },
+  "units": [
+    {
+      "active": true,
+      "amenities": [
+        "wifi",
+        "ac",
+        "privateBathroom",
+        "tv",
+        "hairdryer",
+        "wardrobe",
+        "nonSmoking"
+      ],
+      "bathroom": 1,
+      "bedrooms": 1,
+      "beds": {
+        "en": "1 double bed",
+        "it": "1 letto matrimoniale"
+      },
+      "blurb": {
+        "en": "Double bed with a cherrywood headboard and the large mirrored wardrobe that doubles the room. Period bedside tables, two lamps, air conditioning and TV.",
+        "it": "Letto matrimoniale con testiera in ciliegio e il grande armadio a specchi che raddoppia la stanza. Comodini d'epoca, due abat-jour, aria condizionata e TV."
+      },
+      "cover": "/demo/bnb-centrale/foto-07.webp",
+      "gallery": [
+        "/demo/bnb-centrale/foto-07.webp",
+        "/demo/bnb-centrale/foto-08.webp",
+        "/demo/bnb-centrale/foto-10.webp",
+        "/demo/bnb-centrale/foto-74.webp"
+      ],
+      "guests": 2,
+      "id": "classica",
+      "name": {
+        "en": "Classic Double Room",
+        "it": "Camera Matrimoniale Classica"
+      }
+    },
+    {
+      "active": true,
+      "amenities": [
+        "wifi",
+        "ac",
+        "privateBathroom",
+        "tv",
+        "hairdryer",
+        "nonSmoking"
+      ],
+      "bathroom": 1,
+      "bedrooms": 1,
+      "beds": {
+        "en": "1 double bed",
+        "it": "1 letto matrimoniale"
+      },
+      "blurb": {
+        "en": "The room with the carved walnut headboard and marble-topped bedside tables, pictures on the walls and a window onto the street. The room that best tells the age of the house.",
+        "it": "La camera con la testiera intagliata in noce e i comodini di marmo, quadri alle pareti e la finestra che dà sulla strada. È la stanza che racconta meglio l'età della casa."
+      },
+      "cover": "/demo/bnb-centrale/foto-11.webp",
+      "gallery": [
+        "/demo/bnb-centrale/foto-11.webp",
+        "/demo/bnb-centrale/foto-19.webp",
+        "/demo/bnb-centrale/foto-71.webp"
+      ],
+      "guests": 2,
+      "id": "epoca",
+      "name": {
+        "en": "Period Double Room",
+        "it": "Camera Matrimoniale d'Epoca"
+      }
+    },
+    {
+      "active": true,
+      "amenities": [
+        "wifi",
+        "ac",
+        "privateBathroom",
+        "tv",
+        "hairdryer",
+        "desk",
+        "nonSmoking"
+      ],
+      "bathroom": 1,
+      "bedrooms": 1,
+      "beds": {
+        "en": "1 double bed",
+        "it": "1 letto matrimoniale"
+      },
+      "blurb": {
+        "en": "Besides the bed there is a corner with an armchair, a small round table and a chair: room to stay in during the day too. Private bathroom, wall-mounted TV, fridge.",
+        "it": "Oltre al letto c'è l'angolo con la poltroncina, il tavolino tondo e la sedia: lo spazio per fermarsi anche di giorno. Bagno privato, TV a parete, frigo."
+      },
+      "cover": "/demo/bnb-centrale/foto-15.webp",
+      "gallery": [
+        "/demo/bnb-centrale/foto-15.webp",
+        "/demo/bnb-centrale/foto-13.webp",
+        "/demo/bnb-centrale/foto-16.webp",
+        "/demo/bnb-centrale/foto-64.webp"
+      ],
+      "guests": 2,
+      "id": "comfort",
+      "name": {
+        "en": "Comfort Room with Sitting Corner",
+        "it": "Camera Comfort con Salottino"
+      }
+    },
+    {
+      "active": true,
+      "amenities": [
+        "wifi",
+        "ac",
+        "privateBathroom",
+        "tv",
+        "hairdryer",
+        "nonSmoking"
+      ],
+      "bathroom": 1,
+      "bedrooms": 1,
+      "beds": {
+        "en": "2 single beds, can be joined",
+        "it": "2 letti singoli accostabili"
+      },
+      "blurb": {
+        "en": "The room done in a plainer key: cement-tile floor, two beds that can be joined, fridge and white bedside tables. For those who prefer clean lines to antiques.",
+        "it": "La stanza ristrutturata in chiave semplice: pavimento in cementine, due letti accostabili, frigo e comodini bianchi. Per chi preferisce le linee pulite all'antiquariato."
+      },
+      "cover": "/demo/bnb-centrale/foto-34.webp",
+      "gallery": [
+        "/demo/bnb-centrale/foto-34.webp",
+        "/demo/bnb-centrale/foto-12.webp",
+        "/demo/bnb-centrale/foto-75.webp"
+      ],
+      "guests": 2,
+      "id": "contemporanea",
+      "name": {
+        "en": "Contemporary Room",
+        "it": "Camera Contemporanea"
+      }
+    }
+  ],
+  "amenities": [
+    "breakfast",
+    "wifi",
+    "ac",
+    "heating",
+    "tv",
+    "commonRoom",
+    "cleaning",
+    "linen",
+    "towels",
+    "nonSmoking",
+    "luggageStorage",
+    "familyFriendly",
+    "petsAllowed"
+  ],
+  "amenitiesCustom": [
+    {
+      "icon": "car",
+      "label": {
+        "en": "Partner garage nearby",
+        "it": "Garage convenzionato in zona"
+      }
+    },
+    {
+      "icon": "coffee",
+      "label": {
+        "en": "Fridge and TV in every room",
+        "it": "Frigo e TV in ogni camera"
+      }
+    },
+    {
+      "icon": "luggage",
+      "label": {
+        "en": "Room service",
+        "it": "Servizio in camera"
+      }
+    },
+    {
+      "icon": "map",
+      "label": {
+        "en": "Number plate registered for the restricted zone",
+        "it": "Targa registrata per la ZTL"
+      }
+    }
+  ],
+  "breakfast": {
+    "title": {
+      "en": "Breakfast is served at the family table",
+      "it": "La colazione si fa al tavolo di casa"
+    },
+    "text": {
+      "en": "Breakfast is included and served every morning in the common room, on the big walnut table: espresso and cappuccino, pastries and cakes, tea, milk and juice. It is not a hotel buffet, it is a household breakfast — and the coffee corner stays available during the day too.",
+      "it": "Colazione inclusa nel prezzo e servita ogni mattina nella sala comune, sul tavolo grande di noce: caffè espresso e cappuccino, cornetti e dolci, tè, latte e succhi. Non è un buffet d'albergo, è la colazione di una casa — e l'angolo caffè resta a disposizione anche durante il giorno."
+    },
+    "hours": "",
+    "image": "/demo/bnb-centrale/foto-17.webp",
+    "items": [
+      {
+        "en": "Espresso and cappuccino",
+        "it": "Caffè espresso e cappuccino"
+      },
+      {
+        "en": "Croissants and pastries",
+        "it": "Cornetti e dolci da forno"
+      },
+      {
+        "en": "Tea, milk and fruit juice",
+        "it": "Tè, latte e succhi di frutta"
+      },
+      {
+        "en": "Coffee corner always available",
+        "it": "Angolo caffè sempre a disposizione"
+      }
+    ]
+  },
+  "checkin": {
+    "title": {
+      "en": "Getting to Via dei Mercanti",
+      "it": "Arrivare in Via dei Mercanti"
+    },
+    "text": {
+      "en": "Check-in from 15:00 to 20:30, check-out from 07:00 to 10:00. The building lies inside the old town's restricted traffic zone: if you come by car or motorbike, send your number plate in advance and it will be registered with the council. There is a partner garage nearby for the car. The B&B is on the second floor.",
+      "it": "Check-in dalle 15:00 alle 20:30, check-out dalle 07:00 alle 10:00. Il palazzo è dentro la ZTL del centro storico: chi arriva in auto o in moto comunica prima la targa, che viene segnalata al Comune. Per lasciare la macchina c'è un garage convenzionato in zona. Il B&B è al secondo piano."
+    },
+    "steps": [
+      {
+        "en": "Send us your arrival time and, if you come by car, your number plate",
+        "it": "Scrivici l'orario di arrivo e, se vieni in auto, il numero di targa"
+      },
+      {
+        "en": "Leave the car in the partner garage: Via dei Mercanti is not freely accessible",
+        "it": "Lascia l'auto nel garage convenzionato: in Via dei Mercanti non si entra liberamente"
+      },
+      {
+        "en": "The owner welcomes you and shows you to your room",
+        "it": "Ti accoglie il padrone di casa e ti accompagna in camera"
+      }
+    ],
+    "image": "/demo/bnb-centrale/foto-56.webp"
+  },
+  "gallery": [
+    {
+      "alt": {
+        "en": "The common living room, with its chequered floor",
+        "it": "Il salone comune, con il pavimento a scacchi"
+      },
+      "src": "/demo/bnb-centrale/foto-20.webp"
+    },
+    {
+      "alt": {
+        "en": "The sitting room with sofas and a window onto the street",
+        "it": "Il salotto con i divani e la finestra sulla strada"
+      },
+      "src": "/demo/bnb-centrale/foto-21.webp"
+    },
+    {
+      "alt": {
+        "en": "The room where breakfast is served",
+        "it": "La sala dove si fa colazione"
+      },
+      "src": "/demo/bnb-centrale/foto-23.webp"
+    },
+    {
+      "alt": {
+        "en": "The breakfast table",
+        "it": "Il tavolo della colazione"
+      },
+      "src": "/demo/bnb-centrale/foto-17.webp"
+    },
+    {
+      "alt": {
+        "en": "The coffee corner, available during the day",
+        "it": "L'angolo caffè, a disposizione durante il giorno"
+      },
+      "src": "/demo/bnb-centrale/foto-44.webp"
+    },
+    {
+      "alt": {
+        "en": "The hallway, with its console and mirror",
+        "it": "L'ingresso, con la consolle e lo specchio"
+      },
+      "src": "/demo/bnb-centrale/foto-56.webp"
+    },
+    {
+      "alt": {
+        "en": "One of the private bathrooms",
+        "it": "Uno dei bagni privati"
+      },
+      "src": "/demo/bnb-centrale/foto-71.webp"
+    },
+    {
+      "alt": {
+        "en": "The old town during the Luci d'Artista festival",
+        "it": "Il centro storico durante le Luci d'Artista"
+      },
+      "src": "/demo/bnb-centrale/foto-42.webp"
+    },
+    {
+      "alt": {
+        "en": "The bell tower seen from the alley",
+        "it": "Il campanile visto dal vicolo"
+      },
+      "src": "/demo/bnb-centrale/foto-25.webp"
+    },
+    {
+      "alt": {
+        "en": "Salerno's seafront, a ten-minute walk away",
+        "it": "Il lungomare di Salerno, dieci minuti a piedi"
+      },
+      "src": "/demo/bnb-centrale/foto-26.webp"
+    }
+  ],
+  "reviews": {
+    "rating": 9.2,
+    "count": 25,
+    "source": "Tripadvisor",
+    "items": [
+      {
+        "author": "Alessandro_Loredana",
+        "country": "IT",
+        "date": "2021-09",
+        "rating": 8,
+        "text": {
+          "en": "Very central B&B, on the second floor of a palazzo. The owner is courteous and helpful. The rooms have a fridge, TV and air conditioning, and very high ceilings.",
+          "it": "B&B centralissimo, al secondo piano di un palazzo. Il proprietario è molto garbato e disponibile. Le stanze hanno frigo, TV e aria condizionata, e soffitti altissimi."
+        }
+      },
+      {
+        "author": "cerveza82",
+        "country": "IT",
+        "date": "2017-11",
+        "rating": 10,
+        "text": {
+          "en": "Even before we arrived he gave us all the directions to make things easy. There is a family feeling here, the old-fashioned kind. Endlessly helpful, even with our eight-month-old daughter.",
+          "it": "Ancora prima di arrivare ci ha dato tutte le indicazioni per agevolarci. Si respira un'aria di famiglia, la famiglia di una volta. Massima disponibilità anche con la nostra bimba di otto mesi."
+        }
+      },
+      {
+        "author": "Luigi S",
+        "country": "IT",
+        "date": "2017-01",
+        "rating": 10,
+        "text": {
+          "en": "Right in the old town, a few steps from the cathedral and the sea. The apartment is beautiful and elegant, the rooms spacious and clean. Excellent value for money.",
+          "it": "In pieno centro storico, a pochi passi dal Duomo e dal mare. L'appartamento è bello ed elegante, le camere spaziose e pulite. Ottimo rapporto qualità-prezzo."
+        }
+      },
+      {
+        "author": "IMPERIA2016",
+        "country": "IT",
+        "date": "2018-02",
+        "rating": 10,
+        "text": {
+          "en": "We reached Salerno late in the evening and, walking among the Christmas lights, found this palazzo in the old town. The owner was extremely kind despite the hour, and the place was clean and warm.",
+          "it": "Arrivati a Salerno in tarda serata, camminando tra le luminarie abbiamo trovato questo palazzo nel centro storico. Il proprietario gentilissimo nonostante l'orario, il locale pulito e caldo."
+        }
+      }
+    ]
+  },
+  "offers": [
+    {
+      "active": true,
+      "badge": {
+        "en": "Nov – Jan",
+        "it": "Nov – Gen"
+      },
+      "id": "luci-artista",
+      "text": {
+        "en": "From November to January Salerno lights up, and the illuminations run right below the house. Book three nights direct and the third is free.",
+        "it": "Da novembre a gennaio Salerno si accende e le luminarie passano proprio sotto casa. Prenotando tre notti direttamente, la terza non si paga."
+      },
+      "title": {
+        "en": "Luci d'Artista: the third night is on us",
+        "it": "Luci d'Artista: la terza notte è in regalo"
+      }
+    },
+    {
+      "active": true,
+      "badge": {
+        "en": "From 3 nights",
+        "it": "Da 3 notti"
+      },
+      "id": "costiera",
+      "text": {
+        "en": "From three nights up we put together your itinerary for Amalfi, Positano and Ravello with ferry and bus times, plus an early breakfast for those leaving at dawn.",
+        "it": "Da tre notti in su prepariamo l'itinerario per Amalfi, Positano e Ravello con orari di traghetti e autobus, e la colazione anticipata per chi parte presto."
+      },
+      "title": {
+        "en": "Three nights and the Amalfi Coast is round the corner",
+        "it": "Tre notti e la Costiera è dietro l'angolo"
+      }
+    },
+    {
+      "active": true,
+      "badge": {
+        "en": "Low season",
+        "it": "Bassa stagione"
+      },
+      "id": "fuori-stagione",
+      "text": {
+        "en": "In the quiet months the second night is half price. Same city, far fewer people in front of the cathedral.",
+        "it": "Nei mesi tranquilli la seconda notte costa la metà. La città è la stessa, con molta meno gente davanti al Duomo."
+      },
+      "title": {
+        "en": "February and March: half price on the second night",
+        "it": "Febbraio e marzo: seconda notte a metà prezzo"
+      }
+    }
+  ],
+  "location": {
+    "intro": {
+      "en": "We are on Via dei Mercanti, the pedestrian street that runs through the whole of Salerno's old town. From here the cathedral, the medieval aqueduct and the seafront are all walkable, the station is just over a kilometre away, and the ferries to the Amalfi Coast leave from the port.",
+      "it": "Siamo su Via dei Mercanti, la strada pedonale che attraversa tutto il centro storico di Salerno. Da qui il Duomo, l'acquedotto medievale e il lungomare si fanno a piedi, la stazione è poco più di un chilometro e i traghetti per la Costiera partono dal porto."
+    },
+    "pois": [
+      {
+        "distance": "200 m",
+        "icon": "map",
+        "name": {
+          "en": "Church of San Giorgio",
+          "it": "Chiesa di San Giorgio"
+        }
+      },
+      {
+        "distance": "250 m",
+        "icon": "map",
+        "name": {
+          "en": "San Matteo Diocesan Museum",
+          "it": "Museo Diocesano San Matteo"
+        }
+      },
+      {
+        "distance": "300 m",
+        "icon": "map",
+        "name": {
+          "en": "Medieval Aqueduct",
+          "it": "Acquedotto Medievale"
+        }
+      },
+      {
+        "distance": "5 min a piedi",
+        "icon": "map",
+        "name": {
+          "en": "Church of San Pietro a Corte",
+          "it": "Chiesa di San Pietro a Corte"
+        }
+      },
+      {
+        "distance": "10 min a piedi",
+        "icon": "wave",
+        "name": {
+          "en": "Santa Teresa beach",
+          "it": "Spiaggia di Santa Teresa"
+        }
+      },
+      {
+        "distance": "1 km",
+        "icon": "tree",
+        "name": {
+          "en": "Giardino della Minerva",
+          "it": "Giardino della Minerva"
+        }
+      },
+      {
+        "distance": "1,1 km",
+        "icon": "car",
+        "name": {
+          "en": "Salerno railway station",
+          "it": "Stazione di Salerno"
+        }
+      },
+      {
+        "distance": "15 km",
+        "icon": "car",
+        "name": {
+          "en": "Salerno–Amalfi Coast airport",
+          "it": "Aeroporto Salerno–Costa d'Amalfi"
+        }
+      },
+      {
+        "distance": "46 km",
+        "icon": "car",
+        "name": {
+          "en": "Naples Capodichino airport",
+          "it": "Aeroporto di Napoli Capodichino"
+        }
+      }
+    ]
+  },
+  "booking": {
+    "mode": "internal",
+    "provider": null,
+    "embed": {
+      "type": "html",
+      "html": "",
+      "url": "",
+      "scriptSrc": "",
+      "mountId": "booking-widget",
+      "height": 640,
+      "headExtra": ""
+    },
+    "link": {
+      "url": "",
+      "channel": "booking",
+      "label": ""
+    },
+    "fallback": "internal",
+    "showDirectHint": true
+  },
+  "seo": {
+    "title": {
+      "en": "B&B Centrale · Bed & Breakfast on Via dei Mercanti, Salerno",
+      "it": "B&B Centrale · Bed & Breakfast su Via dei Mercanti, Salerno"
+    },
+    "description": {
+      "en": "Bed & breakfast in the old town of Salerno, on the second floor of a period palazzo at Via dei Mercanti 46. Rooms with air conditioning, TV and fridge, breakfast included, cathedral and seafront a few minutes' walk away.",
+      "it": "Bed & breakfast nel centro storico di Salerno, al secondo piano di un palazzo d'epoca su Via dei Mercanti 46. Camere con aria condizionata, TV e frigo, colazione inclusa, Duomo e lungomare a pochi minuti a piedi."
+    },
+    "ogImage": "/demo/bnb-centrale/foto-22.webp"
+  },
+  "plan": {
+    "booking_engine": true,
+    "direct_requests": true,
+    "multilanguage": true,
+    "media_upload": true,
+    "theme_switching": true,
+    "color_customization": true,
+    "gallery": true,
+    "reviews": true,
+    "map": true,
+    "offers": true,
+    "blog": false,
+    "seo_advanced": true,
+    "analytics": false,
+    "whatsapp": true,
+    "demo_showcase": false,
+    "extra_pages": false,
+    "guest_area": false
+  },
+  "settings": {
+    "section.rooms": true,
+    "section.amenities": true,
+    "section.story": true,
+    "section.gallery": true,
+    "section.reviews": true,
+    "section.map": true,
+    "section.offers": true,
+    "section.breakfast": true,
+    "section.checkin": true,
+    "booking.hero_bar": true,
+    "booking.sticky_bar": true,
+    "booking.show_prices": false,
+    "section.blog": false,
+    "nav.blog": false,
+    "nav.gallery": false,
+    "hero.video": false,
+    "contact.whatsapp_button": true
+  },
+  "vetrina": {
+    "luogo": "Salerno (SA)",
+    "nota": "Cliente reale. Via dei Mercanti 46, 84121 Salerno, secondo piano. Titolare: nelle recensioni ricorre il nome MASSIMO. Tel. +39 089 236 380 (da kayak, DA VERIFICARE). CIN IT065116C1OK6D3M2V e CIR 15065116EXT0231 presi dalle licenze pubblicate su hotels-in-it. Coordinate dal link Maps del cliente. ATTENZIONE — LA SCHEDA BOOKING È CHIUSA: la barra date apre il modulo di richiesta interno, non c'è collega_booking possibile. CONTENUTI FITTIZI da sostituire prima di andare live: email info@bbcentralesalerno.it e privacy@bbcentralesalerno.it (inventate), WhatsApp = stesso numero di telefono trovato, tutte e 3 le offerte (inventate, a tema Luci d'Artista / Costiera / bassa stagione). DA CONFERMARE COL CLIENTE: (1) NUMERO E NOMI DELLE CAMERE — le fonti dicono 3 sistemazioni, le foto ne mostrano almeno 6 configurazioni diverse (scattate in anni diversi); ne ho create 4 ricostruite dalle foto, con nomi descrittivi inventati e nessuna metratura; (2) ragione sociale e P.IVA; (3) prezzi — le fonti vanno da 52 a 264 EUR, show_prices è OFF; (4) orario e contenuto della colazione (descritta da foto-17: espresso, cornetti confezionati, microonde); (5) ascensore — i portali lo elencano ma una recensione parla del secondo piano senza citarlo; (6) parcheggio — i portali dicono 'parking on-site', le recensioni parlano di garage convenzionato: ho messo il garage; (7) animali ammessi (kayak dice sì con supplemento). CONFLITTI TRA FONTI: voto 9,2/228 (kayak) vs 9,1/369 (hotelscheck-in) vs 4,6/5 su 25 (Tripadvisor) — ho messo 9,2 con 25 recensioni fonte Tripadvisor, l'unica verificabile oggi; acquedotto medievale 250-300 m (hotels-in-it, Tripadvisor) vs '15 minuti a piedi' (hotels-in-campania), messo 300 m; aeroporto di Napoli 46 km (Tripadvisor) vs 58 km (hotels-in-campania), messo 46 km. DA DIRE AL TAVOLO: le recensioni Tripadvisor si fermano a settembre 2021 e la scheda Booking è chiusa — la struttura potrebbe essere ferma o aver cambiato canali, è la prima cosa da chiedergli. Sottopunteggi più bassi su Tripadvisor: pulizia 4,3 e servizio 4,3 (posizione 4,8, qualità/prezzo 4,8). Una recensione boccia esplicitamente la colazione ('bypasso la colazione perché non ci siamo proprio'), un'altra segnala che il B&B è dentro la ZTL e serve comunicare la targa. Blog spento: non c'è materiale vero. Le foto vengono da hotels-in-it in formato OriginalPhoto: le 1-27 più 34/42/44/56/64/67-75 sono 3840px, le altre sono vecchi caricamenti da 1024px.",
+    "creata": "2026-08-27",
+    "fonte": "Link Google Maps del cliente (place B&B Centrale, 40.6787/14.7611) → tripadvisor.it (voto, sottopunteggi, 25 recensioni con autore e data, POI, aeroporti), kayak.com (telefono, voto 9,2/228, servizi, orari), hotels-in-it.com (76 foto in OriginalPhoto, licenze CIN/CIR, orari, POI), hotels-in-campania.com (POI, servizi), hotelscheck-in.com (voto 9,1/369, descrizione). Booking.com NON utilizzabile: la scheda /hotel/it/centrale-salerno risulta CHIUSA (redirect con closed_msg)."
+  }
+}

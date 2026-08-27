@@ -80,7 +80,7 @@
       "fr": "Trois chambres sur la Piazza Cerenza, à deux pas du Musée archéologique provincial et de la cathédrale. Tout le centre se parcourt à pied, la plage de Santa Teresa est à dix minutes et le port des ferries pour la côte amalfitaine est tout proche.",
       "it": "Tre camere in Piazza Cerenza, a due passi dal Museo Archeologico Provinciale e dal Duomo. Il centro si gira tutto a piedi, la spiaggia di Santa Teresa è a dieci minuti e il porto dei traghetti per la Costiera è vicinissimo."
     },
-    "image": "/demo/bnb-old-salerno/foto-02.jpg",
+    "image": "/demo/bnb-old-salerno/foto-02.webp",
     "video": "",
     "badges": [
       {
@@ -141,7 +141,7 @@
         "La posizione fa il resto. Il Museo Archeologico Provinciale è a cinquanta metri, il Duomo a due minuti a piedi, la stazione a poco più di un chilometro e il porto da cui partono i traghetti per la Costiera Amalfitana è a breve distanza."
       ]
     },
-    "image": "/demo/bnb-old-salerno/foto-23.jpg",
+    "image": "/demo/bnb-old-salerno/foto-23.webp",
     "highlights": [
       {
         "k": {
@@ -200,13 +200,13 @@
         "fr": "Seize mètres carrés donnant sur la cour intérieure, avec fenêtres insonorisées : dans le centre historique, c'est la différence entre entendre la ville et y dormir. Lit en fer forgé travaillé et sol en terre cuite.",
         "it": "Sedici metri quadri affacciati sul cortile interno, con finestre insonorizzate: nel centro storico è la differenza fra sentire la città e dormirci dentro. Letto in ferro battuto lavorato e pavimento in cotto."
       },
-      "cover": "/demo/bnb-old-salerno/foto-01.jpg",
+      "cover": "/demo/bnb-old-salerno/foto-01.webp",
       "gallery": [
-        "/demo/bnb-old-salerno/foto-01.jpg",
-        "/demo/bnb-old-salerno/foto-05.jpg",
-        "/demo/bnb-old-salerno/foto-06.jpg",
-        "/demo/bnb-old-salerno/foto-08.jpg",
-        "/demo/bnb-old-salerno/foto-10.jpg"
+        "/demo/bnb-old-salerno/foto-01.webp",
+        "/demo/bnb-old-salerno/foto-05.webp",
+        "/demo/bnb-old-salerno/foto-06.webp",
+        "/demo/bnb-old-salerno/foto-08.webp",
+        "/demo/bnb-old-salerno/foto-10.webp"
       ],
       "guests": 2,
       "id": "matrimoniale-standard",
@@ -251,12 +251,12 @@
         "fr": "Vingt mètres carrés avec plateau thé et café dans la chambre, bureau et TV. Le même calme que la Standard, avec quelques mètres de plus.",
         "it": "Venti metri quadri con set per tè e caffè in camera, scrivania e TV. La stessa quiete della Standard, con qualche metro in più per muoversi."
       },
-      "cover": "/demo/bnb-old-salerno/foto-17.jpg",
+      "cover": "/demo/bnb-old-salerno/foto-17.webp",
       "gallery": [
-        "/demo/bnb-old-salerno/foto-17.jpg",
-        "/demo/bnb-old-salerno/foto-03.jpg",
-        "/demo/bnb-old-salerno/foto-18.jpg",
-        "/demo/bnb-old-salerno/foto-20.jpg"
+        "/demo/bnb-old-salerno/foto-17.webp",
+        "/demo/bnb-old-salerno/foto-03.webp",
+        "/demo/bnb-old-salerno/foto-18.webp",
+        "/demo/bnb-old-salerno/foto-20.webp"
       ],
       "guests": 2,
       "id": "matrimoniale",
@@ -301,12 +301,12 @@
         "fr": "La plus grande : vingt mètres carrés pour trois, avec le mur en pierre apparente derrière le lit. Jusqu'à deux enfants, et les moins de cinq ans ne paient pas dans le lit existant.",
         "it": "La più capiente: venti metri quadri per tre persone, con il muro in pietra a vista alle spalle del letto. Fino a due bambini, e sotto i cinque anni non si paga il letto esistente."
       },
-      "cover": "/demo/bnb-old-salerno/foto-13.jpg",
+      "cover": "/demo/bnb-old-salerno/foto-13.webp",
       "gallery": [
-        "/demo/bnb-old-salerno/foto-13.jpg",
-        "/demo/bnb-old-salerno/foto-02.jpg",
-        "/demo/bnb-old-salerno/foto-14.jpg",
-        "/demo/bnb-old-salerno/foto-16.jpg"
+        "/demo/bnb-old-salerno/foto-13.webp",
+        "/demo/bnb-old-salerno/foto-02.webp",
+        "/demo/bnb-old-salerno/foto-14.webp",
+        "/demo/bnb-old-salerno/foto-16.webp"
       ],
       "guests": 3,
       "id": "tripla-comfort",
@@ -391,7 +391,7 @@
       "it": "La colazione è italiana ed è compresa nel prezzo. Se preferisci, te la portiamo in camera. Per chi ha intolleranze c'è l'opzione senza glutine: basta dirlo al momento della prenotazione."
     },
     "hours": "",
-    "image": "/demo/bnb-old-salerno/foto-07.jpg",
+    "image": "/demo/bnb-old-salerno/foto-07.webp",
     "items": [
       {
         "en": "Fresh pastries and croissants every morning",
@@ -452,7 +452,7 @@
         "it": "Check-in fra le 14:00 e le 21:00 in Piazza Cerenza 14"
       }
     ],
-    "image": "/demo/bnb-old-salerno/foto-22.jpg"
+    "image": "/demo/bnb-old-salerno/foto-22.webp"
   },
   "gallery": [
     {
@@ -460,56 +460,56 @@
         "en": "Room with exposed stone wall and worked headboard",
         "it": "Camera con muro in pietra a vista e testiera lavorata"
       },
-      "src": "/demo/bnb-old-salerno/foto-02.jpg"
+      "src": "/demo/bnb-old-salerno/foto-02.webp"
     },
     {
       "alt": {
         "en": "The common room with wooden ceiling",
         "it": "La sala comune con soffitto in legno"
       },
-      "src": "/demo/bnb-old-salerno/foto-23.jpg"
+      "src": "/demo/bnb-old-salerno/foto-23.webp"
     },
     {
       "alt": {
         "en": "Breakfast: pastries, coffee, juice and yoghurt",
         "it": "La colazione: cornetti, caffè, succhi e yogurt"
       },
-      "src": "/demo/bnb-old-salerno/foto-07.jpg"
+      "src": "/demo/bnb-old-salerno/foto-07.webp"
     },
     {
       "alt": {
         "en": "Room with wrought-iron bed and terracotta floor",
         "it": "Camera con letto in ferro battuto e pavimento in cotto"
       },
-      "src": "/demo/bnb-old-salerno/foto-01.jpg"
+      "src": "/demo/bnb-old-salerno/foto-01.webp"
     },
     {
       "alt": {
         "en": "Breakfast served on the wooden table",
         "it": "Colazione servita sul tavolo in legno"
       },
-      "src": "/demo/bnb-old-salerno/foto-21.jpg"
+      "src": "/demo/bnb-old-salerno/foto-21.webp"
     },
     {
       "alt": {
         "en": "The corridor with wooden ceiling and stone wall",
         "it": "Il corridoio con soffitto in legno e muro in pietra"
       },
-      "src": "/demo/bnb-old-salerno/foto-22.jpg"
+      "src": "/demo/bnb-old-salerno/foto-22.webp"
     },
     {
       "alt": {
         "en": "Private bathroom with brick walls",
         "it": "Bagno privato rivestito in mattoni"
       },
-      "src": "/demo/bnb-old-salerno/foto-20.jpg"
+      "src": "/demo/bnb-old-salerno/foto-20.webp"
     },
     {
       "alt": {
         "en": "A glimpse of the white room",
         "it": "Scorcio della camera bianca"
       },
-      "src": "/demo/bnb-old-salerno/foto-05.jpg"
+      "src": "/demo/bnb-old-salerno/foto-05.webp"
     }
   ],
   "reviews": {
@@ -804,7 +804,7 @@
       "fr": "Bed & breakfast de trois chambres Piazza Cerenza, dans le centre historique de Salerne. Petit-déjeuner italien inclus, chambres insonorisées climatisées, Musée archéologique à 50 m et cathédrale à deux minutes à pied.",
       "it": "Bed & breakfast con tre camere in Piazza Cerenza, nel centro storico di Salerno. Colazione italiana inclusa, camere insonorizzate con aria condizionata, Museo Archeologico a 50 metri e Duomo a due minuti a piedi."
     },
-    "ogImage": "/demo/bnb-old-salerno/foto-02.jpg"
+    "ogImage": "/demo/bnb-old-salerno/foto-02.webp"
   },
   "plan": {
     "booking_engine": true,
@@ -883,7 +883,7 @@
           "From the port, if you arrive from the Amalfi Coast by ferry, it is a ten-minute walk uphill."
         ]
       },
-      "cover": "/demo/bnb-old-salerno/foto-23.jpg",
+      "cover": "/demo/bnb-old-salerno/foto-23.webp",
       "active": true
     },
     {
@@ -920,7 +920,7 @@
           "And then there is the sea: Santa Teresa beach is a ten-minute walk, all downhill. Uphill on the way back, but it is short."
         ]
       },
-      "cover": "/demo/bnb-old-salerno/foto-02.jpg",
+      "cover": "/demo/bnb-old-salerno/foto-02.webp",
       "active": true
     }
   ],

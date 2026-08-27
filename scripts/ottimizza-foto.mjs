@@ -115,5 +115,9 @@ function immagini(dir) {
   return out
 }
 
-const kb = (b) => `${Math.round(b / 1024)} KB`
-const sep = () => (process.platform === 'win32' ? '\\' : '/')
+function kb(b) {
+  return `${Math.round(b / 1024)} KB`
+}
+function sep() {
+  return process.platform === 'win32' ? '\\' : '/'
+}

@@ -77,7 +77,7 @@
       "es": "Un apartamento entero para ti, hasta cuatro personas, en el corazón del centro histórico — con la Costa Amalfitana pintada a mano en cada pared. La Catedral está a dos minutos a pie, el puerto de los ferris a diez, y el desayuno se toma en el bar de abajo.",
       "it": "Un appartamento intero per te, fino a quattro persone, nel cuore del centro storico — con la Costiera dipinta a mano su ogni parete. Il Duomo è a due minuti a piedi, il porto dei traghetti a dieci, e la colazione si fa al bar sotto il portone."
     },
-    "image": "/demo/bnb-i-7-mari/foto-04.jpg",
+    "image": "/demo/bnb-i-7-mari/foto-04.webp",
     "video": "",
     "badges": [
       {
@@ -129,7 +129,7 @@
         "La posizione fa il resto. La Pinacoteca Provinciale è a sessanta metri, il Museo Archeologico a centoquaranta, il Duomo a due minuti a piedi. Il porto da cui partono i traghetti per Amalfi e Positano è a dieci minuti, la stazione a un chilometro. E la colazione si fa al bar sotto il portone, con i cornetti appena sfornati."
       ]
     },
-    "image": "/demo/bnb-i-7-mari/foto-21.jpg",
+    "image": "/demo/bnb-i-7-mari/foto-21.webp",
     "highlights": [
       {
         "k": {
@@ -183,20 +183,20 @@
         "es": "El apartamento se alquila siempre entero: no se comparte la casa con nadie. Duermen hasta cuatro personas — dos en el dormitorio, en la cama king size, y dos en el salón en el sofá cama. El dormitorio tiene balcón sobre el callejón y doble acristalamiento: abajo pasa una de las calles más transitadas de Salerno y por la noche no se oye nada.\n\nLos dos baños están en el pasillo, como en cualquier casa: el más grande está revestido en mármol, con doble lavabo y bañera de hidromasaje. La cocina está completamente equipada y hay lavadora — se agradece después de tres días por la Costa.\n\nY luego están las paredes. El fiordo de Furore pintado frente a la cama, la costa vista desde arriba ocupando la pared entera del comedor, un limonero que sube hasta el techo en el pasillo.",
         "it": "L'appartamento si affitta sempre intero: non si divide la casa con nessuno. Dorme fino a quattro persone — due in camera da letto, nel letto king size, e due in soggiorno sul divano letto. La camera ha il balcone che dà sul vicolo e i doppi infissi: sotto passa una delle strade più percorse di Salerno e di notte non si sente niente.\n\nI due bagni sono sul corridoio, come in una casa normale: il più grande è rivestito in marmo, con doppio lavabo e vasca idromassaggio. La cucina è completa e la lavatrice c'è: dopo tre giorni in Costiera fa comodo.\n\nE poi ci sono i muri. Il fiordo di Furore dipinto di fronte al letto, la costiera vista dall'alto che occupa la parete intera della sala da pranzo, un albero di limoni che sale fino al soffitto nel corridoio."
       },
-      "cover": "/demo/bnb-i-7-mari/foto-21.jpg",
+      "cover": "/demo/bnb-i-7-mari/foto-21.webp",
       "gallery": [
-        "/demo/bnb-i-7-mari/foto-21.jpg",
-        "/demo/bnb-i-7-mari/foto-04.jpg",
-        "/demo/bnb-i-7-mari/foto-05.jpg",
-        "/demo/bnb-i-7-mari/foto-14.jpg",
-        "/demo/bnb-i-7-mari/foto-16.jpg",
-        "/demo/bnb-i-7-mari/foto-18.jpg",
-        "/demo/bnb-i-7-mari/foto-20.jpg",
-        "/demo/bnb-i-7-mari/foto-22.jpg",
-        "/demo/bnb-i-7-mari/foto-23.jpg",
-        "/demo/bnb-i-7-mari/foto-11.jpg",
-        "/demo/bnb-i-7-mari/foto-19.jpg",
-        "/demo/bnb-i-7-mari/foto-25.jpg"
+        "/demo/bnb-i-7-mari/foto-21.webp",
+        "/demo/bnb-i-7-mari/foto-04.webp",
+        "/demo/bnb-i-7-mari/foto-05.webp",
+        "/demo/bnb-i-7-mari/foto-14.webp",
+        "/demo/bnb-i-7-mari/foto-16.webp",
+        "/demo/bnb-i-7-mari/foto-18.webp",
+        "/demo/bnb-i-7-mari/foto-20.webp",
+        "/demo/bnb-i-7-mari/foto-22.webp",
+        "/demo/bnb-i-7-mari/foto-23.webp",
+        "/demo/bnb-i-7-mari/foto-11.webp",
+        "/demo/bnb-i-7-mari/foto-19.webp",
+        "/demo/bnb-i-7-mari/foto-25.webp"
       ],
       "guests": 4,
       "id": "appartamento-deluxe",
@@ -301,7 +301,7 @@
       "it": "La colazione è inclusa e si fa al bar convenzionato che sta al piano terra dello stesso palazzo: si scendono le scale e ci si è. Cornetti appena sfornati e cappuccino, come si fa a Salerno. Nelle recensioni è una delle cose che gli ospiti citano più spesso."
     },
     "hours": "",
-    "image": "/demo/bnb-i-7-mari/foto-26.jpg",
+    "image": "/demo/bnb-i-7-mari/foto-26.webp",
     "items": [
       {
         "en": "Freshly baked pastries every morning",
@@ -358,7 +358,7 @@
         "it": "Check-in fra le 14:00 e le 19:00 in Largo San Petrillo 3"
       }
     ],
-    "image": "/demo/bnb-i-7-mari/foto-24.jpg"
+    "image": "/demo/bnb-i-7-mari/foto-24.webp"
   },
   "gallery": [
     {
@@ -367,7 +367,7 @@
         "es": "Habitación doble con el fiordo de Furore pintado en la pared",
         "it": "Camera matrimoniale con il fiordo di Furore dipinto sulla parete"
       },
-      "src": "/demo/bnb-i-7-mari/foto-04.jpg"
+      "src": "/demo/bnb-i-7-mari/foto-04.webp"
     },
     {
       "alt": {
@@ -375,7 +375,7 @@
         "es": "Comedor con la Costa Amalfitana pintada en toda la pared",
         "it": "Sala da pranzo con la Costiera dipinta su tutta la parete"
       },
-      "src": "/demo/bnb-i-7-mari/foto-21.jpg"
+      "src": "/demo/bnb-i-7-mari/foto-21.webp"
     },
     {
       "alt": {
@@ -383,7 +383,7 @@
         "es": "Baño de mármol con bañera de hidromasaje y doble lavabo",
         "it": "Bagno in marmo con vasca idromassaggio e doppio lavabo"
       },
-      "src": "/demo/bnb-i-7-mari/foto-22.jpg"
+      "src": "/demo/bnb-i-7-mari/foto-22.webp"
     },
     {
       "alt": {
@@ -391,7 +391,7 @@
         "es": "El salón con sofá y TV",
         "it": "Il soggiorno con divano e TV"
       },
-      "src": "/demo/bnb-i-7-mari/foto-14.jpg"
+      "src": "/demo/bnb-i-7-mari/foto-14.webp"
     },
     {
       "alt": {
@@ -399,7 +399,7 @@
         "es": "El limonero pintado que sube hasta el techo",
         "it": "L'albero di limoni dipinto che sale fino al soffitto"
       },
-      "src": "/demo/bnb-i-7-mari/foto-19.jpg"
+      "src": "/demo/bnb-i-7-mari/foto-19.webp"
     },
     {
       "alt": {
@@ -407,7 +407,7 @@
         "es": "La cocina con baldosas hidráulicas decoradas",
         "it": "La cucina con le cementine decorate"
       },
-      "src": "/demo/bnb-i-7-mari/foto-18.jpg"
+      "src": "/demo/bnb-i-7-mari/foto-18.webp"
     },
     {
       "alt": {
@@ -415,7 +415,7 @@
         "es": "Toallas dobladas en forma de cisne sobre la cama",
         "it": "Asciugamani piegati a cigno sul letto"
       },
-      "src": "/demo/bnb-i-7-mari/foto-01.jpg"
+      "src": "/demo/bnb-i-7-mari/foto-01.webp"
     },
     {
       "alt": {
@@ -423,7 +423,7 @@
         "es": "El callejón del centro histórico visto desde el balcón",
         "it": "Il vicolo del centro storico visto dal balcone"
       },
-      "src": "/demo/bnb-i-7-mari/foto-26.jpg"
+      "src": "/demo/bnb-i-7-mari/foto-26.webp"
     },
     {
       "alt": {
@@ -431,7 +431,7 @@
         "es": "Baño privado con ducha de cristal",
         "it": "Bagno privato con doccia in cristallo"
       },
-      "src": "/demo/bnb-i-7-mari/foto-11.jpg"
+      "src": "/demo/bnb-i-7-mari/foto-11.webp"
     },
     {
       "alt": {
@@ -439,7 +439,7 @@
         "es": "Composición de toallas y rosas sobre la cama",
         "it": "Composizione di asciugamani e rose sul letto"
       },
-      "src": "/demo/bnb-i-7-mari/foto-06.jpg"
+      "src": "/demo/bnb-i-7-mari/foto-06.webp"
     }
   ],
   "reviews": {
@@ -740,7 +740,7 @@
       "es": "Apartamento entero en Largo San Petrillo, en el centro histórico de Salerno, con la Costa Amalfitana pintada a mano en las paredes. Hasta 4 personas, dormitorio con balcón y sofá cama en el salón, cocina equipada, dos baños con bañera de hidromasaje, desayuno en el bar de abajo. Catedral a 2 minutos, puerto a 10.",
       "it": "Appartamento intero in Largo San Petrillo, nel centro storico di Salerno, con la Costiera dipinta a mano sulle pareti. Fino a 4 persone, camera con balcone e divano letto in soggiorno, cucina attrezzata, due bagni con vasca idromassaggio, colazione al bar sotto casa. Duomo a 2 minuti, porto a 10."
     },
-    "ogImage": "/demo/bnb-i-7-mari/foto-04.jpg"
+    "ogImage": "/demo/bnb-i-7-mari/foto-04.webp"
   },
   "plan": {
     "booking_engine": true,
@@ -826,7 +826,7 @@
           "Dal porto, se arrivi dalla Costiera in traghetto, sono dieci minuti a piedi in salita."
         ]
       },
-      "cover": "/demo/bnb-i-7-mari/foto-24.jpg",
+      "cover": "/demo/bnb-i-7-mari/foto-24.webp",
       "excerpt": {
         "en": "The front door has no street number. Here is how to spot it, and what to do if you arrive by car inside the restricted zone.",
         "es": "El portal no tiene número. Aquí te explicamos cómo reconocerlo y qué hacer si llegas en coche dentro de la ZTL.",
@@ -869,7 +869,7 @@
           "Da tre notti in su il traghetto te lo prenotiamo noi, andata e ritorno per due persone."
         ]
       },
-      "cover": "/demo/bnb-i-7-mari/foto-20.jpg",
+      "cover": "/demo/bnb-i-7-mari/foto-20.webp",
       "excerpt": {
         "en": "A ten-minute walk to the port and you are in Amalfi in half an hour, without touching the car. How to plan the day.",
         "es": "Diez minutos a pie hasta el puerto y estás en Amalfi en media hora, sin tocar el coche. Cómo organizar el día.",

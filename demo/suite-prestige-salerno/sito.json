@@ -1,0 +1,777 @@
+{
+  "slug": "suite-prestige-salerno",
+  "preset": "bnb",
+  "theme": "heritage",
+  "themeOverrides": {},
+  "languages": [
+    "it",
+    "en"
+  ],
+  "defaultLang": "it",
+  "brand": {
+    "name": "Suite Prestige Salerno",
+    "logoText": "Suite Prestige",
+    "logo": "",
+    "tagline": {
+      "en": "Penthouse with a terrace over the gulf, in the old town of Salerno",
+      "it": "Attico con terrazza sul golfo, nel centro storico di Salerno"
+    }
+  },
+  "contact": {
+    "address": {
+      "city": "Salerno",
+      "country": "Italia",
+      "province": "SA",
+      "street": "Piazza Sant'Agostino 16",
+      "zip": "84121"
+    },
+    "coords": {
+      "lat": 40.678361,
+      "lng": 14.7601505
+    },
+    "checkinTime": "dalle 14:30",
+    "checkoutTime": "entro le 11:00",
+    "email": "info@suiteprestige.com",
+    "phone": "+39 331 165 7566",
+    "phoneRaw": "+393311657566",
+    "whatsapp": "+393311657566",
+    "whatsappMessage": {
+      "en": "Hello! I would like to check availability for the penthouse.",
+      "it": "Ciao! Vorrei informazioni sulla disponibilita dell'attico."
+    }
+  },
+  "legal": {
+    "company": "",
+    "vat": "",
+    "cin": "IT065116C1U8DOJZQD",
+    "cir": "15065116EXT0756",
+    "credits": {
+      "label": "Luminy.dev",
+      "url": "https://www.luminy.dev"
+    },
+    "privacy": {
+      "controller": "Suite Prestige Salerno",
+      "email": "privacy@suiteprestige.com",
+      "retentionMonths": 24,
+      "updatedAt": "2026-08-27"
+    }
+  },
+  "social": {
+    "facebook": "https://www.facebook.com/SuitePrestigeSalerno/"
+  },
+  "hero": {
+    "eyebrow": {
+      "en": "Salerno · Piazza Sant'Agostino, old town",
+      "it": "Salerno · Piazza Sant'Agostino, centro storico"
+    },
+    "title": {
+      "en": "A whole penthouse,\nwith the gulf in front",
+      "it": "Un attico intero,\ncon il golfo davanti"
+    },
+    "subtitle": {
+      "en": "Seventy square metres on the top floor, for up to four guests. Glass walls on two sides and, all around, a flowered terrace looking out over the port, the coast and Arechi Castle. The supermarket is fifty metres away, the breakfast bar on the corner.",
+      "it": "Settanta metri quadri all'ultimo piano, per quattro persone. Vetrate su due lati, e intorno una terrazza con i fiori da cui si vedono il porto, la costiera e il Castello di Arechi. Il supermercato e' a cinquanta metri, il bar della colazione all'angolo."
+    },
+    "image": "/demo/suite-prestige-salerno/foto-15.webp",
+    "video": "",
+    "badges": [
+      {
+        "icon": "wave",
+        "label": {
+          "en": "Terrace over the gulf",
+          "it": "Terrazza vista golfo"
+        }
+      },
+      {
+        "icon": "coffee",
+        "label": {
+          "en": "Breakfast at the bar on the corner",
+          "it": "Colazione al bar all'angolo"
+        }
+      },
+      {
+        "icon": "map",
+        "label": {
+          "en": "Ferries and station on foot",
+          "it": "Traghetti e stazione a piedi"
+        }
+      }
+    ]
+  },
+  "story": {
+    "title": {
+      "en": "The top floor, and then the sky",
+      "it": "L'ultimo piano, e poi il cielo"
+    },
+    "paragraphs": {
+      "en": [
+        "The apartment is on the eighth floor, the top one. What you remember afterwards, though, is the terrace: it wraps around the flat, the planters are full of roses and herbs, and it looks out over the port and the gulf on one side, the mountains and the floodlit Arechi Castle on the other. There is an outdoor shower too, and a hot tub in summer.",
+        "Inside there are seventy square metres for four guests: glass walls on two sides, terracotta floors, one double bedroom, a living room with sofa bed and dining table, a fitted kitchen with dishwasher and washing machine, and a bathroom whose window looks onto the sea.",
+        "Patrizia lives on the floor below and Roberto handles arrivals: keys handed over in person, and with the keys the advice on where to eat and which ferry to take. The flat is cleaned daily, even on short stays.",
+        "Piazza Sant'Agostino is inside the limited-traffic zone: no cars come in, which means quiet evenings. The supermarket is fifty metres away, Caffe Bar Rosa is on the corner, and the old town starts right there."
+      ],
+      "it": [
+        "L'appartamento sta all'ottavo piano, l'ultimo. Quello che si ricorda dopo, pero', e' la terrazza: gira intorno alla casa, ha le fioriere piene di rose e piante aromatiche, e da una parte guarda il porto e il golfo, dall'altra le montagne con il Castello di Arechi illuminato la sera. C'e' anche una doccia esterna, e d'estate la vasca idromassaggio.",
+        "Dentro sono settanta metri quadri per quattro persone: vetrate su due lati, pavimento in cotto, una camera matrimoniale, il soggiorno con divano letto e tavolo da pranzo, la cucina attrezzata con lavastoviglie e lavatrice, il bagno con la finestra che da' sul mare.",
+        "Patrizia abita al piano di sotto e Roberto segue gli arrivi: chiavi consegnate di persona, e con le chiavi i consigli su dove mangiare e a che ora prendere il traghetto. Le pulizie si fanno tutti i giorni, anche per soggiorni brevi.",
+        "Piazza Sant'Agostino e' dentro la ZTL: le auto non entrano, il che vuol dire silenzio la sera. Il supermercato e' a cinquanta metri, il Caffe Bar Rosa all'angolo, e da li' parte il centro storico."
+      ]
+    },
+    "image": "/demo/suite-prestige-salerno/foto-06.webp",
+    "highlights": [
+      {
+        "k": {
+          "en": "Size",
+          "it": "Superficie"
+        },
+        "v": "70 m²"
+      },
+      {
+        "k": {
+          "en": "Guests",
+          "it": "Ospiti"
+        },
+        "v": "4"
+      },
+      {
+        "k": {
+          "en": "Floor",
+          "it": "Piano"
+        },
+        "v": {
+          "en": "eighth, the top one",
+          "it": "ottavo, l'ultimo"
+        }
+      },
+      {
+        "k": {
+          "en": "Terrace",
+          "it": "Terrazza"
+        },
+        "v": {
+          "en": "gulf and mountain view",
+          "it": "vista golfo e monti"
+        }
+      }
+    ]
+  },
+  "units": [
+    {
+      "active": true,
+      "amenities": [
+        "wifi",
+        "ac",
+        "heating",
+        "privateBathroom",
+        "seaView",
+        "terrace",
+        "tv",
+        "familyFriendly"
+      ],
+      "bathroom": 1,
+      "bedrooms": 1,
+      "beds": {
+        "en": "1 double bed + 1 sofa bed in the living room",
+        "it": "1 letto matrimoniale + 1 divano letto in soggiorno"
+      },
+      "blurb": {
+        "en": "A single apartment, all yours: double bedroom, living room with sofa bed, kitchen and bathroom, plus the terrace all around. You step in straight into the bedroom, so it works better for people travelling together than for two couples on different schedules.",
+        "it": "Un solo appartamento, a uso esclusivo: camera matrimoniale, soggiorno con divano letto, cucina e bagno, piu' la terrazza tutta intorno. Si entra direttamente dalla camera, quindi funziona meglio per chi viaggia insieme che per due coppie con orari diversi."
+      },
+      "cover": "/demo/suite-prestige-salerno/foto-02.webp",
+      "floor": {
+        "en": "Eighth floor · lift to the seventh, then one flight of stairs",
+        "it": "Ottavo piano · ascensore fino al settimo, poi una rampa di scale"
+      },
+      "gallery": [
+        "/demo/suite-prestige-salerno/foto-02.webp",
+        "/demo/suite-prestige-salerno/foto-16.webp",
+        "/demo/suite-prestige-salerno/foto-10.webp",
+        "/demo/suite-prestige-salerno/foto-11.webp",
+        "/demo/suite-prestige-salerno/foto-09.webp",
+        "/demo/suite-prestige-salerno/foto-05.webp"
+      ],
+      "guests": 4,
+      "id": "attico",
+      "kitchen": {
+        "en": "Fitted kitchen: oven, hob, dishwasher, microwave, pod coffee machine. Washing machine and drying line on the terrace.",
+        "it": "Cucina attrezzata: forno, piano cottura, lavastoviglie, microonde, macchina del caffe a capsule. Lavatrice e stendibiancheria in terrazza."
+      },
+      "name": {
+        "en": "The penthouse",
+        "it": "L'attico"
+      },
+      "size": 70,
+      "view": {
+        "en": "Gulf of Salerno, port and mountains",
+        "it": "Golfo di Salerno, porto e montagne"
+      }
+    }
+  ],
+  "amenities": [
+    "breakfast",
+    "wifi",
+    "ac",
+    "heating",
+    "terrace",
+    "seaView",
+    "cleaning",
+    "linen",
+    "towels",
+    "tv",
+    "nonSmoking",
+    "familyFriendly",
+    "petsAllowed"
+  ],
+  "amenitiesCustom": [
+    {
+      "icon": "tree",
+      "label": {
+        "en": "Panoramic terrace with flowers and herbs",
+        "it": "Terrazza panoramica con fiori e piante aromatiche"
+      }
+    },
+    {
+      "icon": "wave",
+      "label": {
+        "en": "Hot tub on the terrace (seasonal)",
+        "it": "Vasca idromassaggio in terrazza (stagionale)"
+      }
+    },
+    {
+      "icon": "coffee",
+      "label": {
+        "en": "Breakfast voucher for Caffe Bar Rosa, on the corner",
+        "it": "Colazione con voucher al Caffe Bar Rosa, all'angolo"
+      }
+    },
+    {
+      "icon": "car",
+      "label": {
+        "en": "Partner private parking nearby, EUR 20 per day",
+        "it": "Parcheggio privato convenzionato a pochi passi, 20 EUR al giorno"
+      }
+    },
+    {
+      "icon": "luggage",
+      "label": {
+        "en": "Lift to the seventh floor, then one flight of stairs",
+        "it": "Ascensore fino al settimo piano, poi una rampa di scale"
+      }
+    },
+    {
+      "icon": "map",
+      "label": {
+        "en": "Supermarket 50 m away, inside the limited-traffic zone",
+        "it": "Supermercato a 50 metri, dentro la ZTL"
+      }
+    }
+  ],
+  "breakfast": {
+    "title": {
+      "en": "Breakfast happens at the bar on the corner",
+      "it": "La colazione si fa al bar all'angolo"
+    },
+    "text": {
+      "en": "Breakfast is included as a voucher for Caffe Bar Rosa, one minute away: a croissant or the pastry of the day and a coffee, sitting outside among the locals on their way to work. It is not a buffet served in the flat: it is the neighbourhood bar, and it is better to know that in advance.",
+      "it": "La colazione e' inclusa sotto forma di voucher per il Caffe Bar Rosa, a un minuto a piedi: cornetto o pasticceria del giorno e caffe, seduti fuori con i salernitani che vanno al lavoro. Non e' un buffet servito in casa: e' il bar del quartiere, ed e' meglio saperlo prima."
+    },
+    "hours": "",
+    "image": "/demo/suite-prestige-salerno/foto-14.webp",
+    "items": [
+      {
+        "en": "Croissant or pastry of the day",
+        "it": "Cornetto o pasticceria del giorno"
+      },
+      {
+        "en": "Coffee, cappuccino or hot drink",
+        "it": "Caffe, cappuccino o bevanda calda"
+      },
+      {
+        "en": "One voucher per guest, for each day of the stay",
+        "it": "Un voucher per ospite, per ogni giorno di soggiorno"
+      },
+      {
+        "en": "In the flat you will find a pod coffee machine and a kettle",
+        "it": "In casa trovi macchina del caffe a capsule e bollitore"
+      }
+    ]
+  },
+  "checkin": {
+    "title": {
+      "en": "Getting here",
+      "it": "Come si arriva"
+    },
+    "text": {
+      "en": "Check-in from 14:30, check-out by 11:00. Piazza Sant'Agostino is pedestrian and the front door is not obvious: if you arrive by taxi, ask to be dropped in front of Caffe Bar Rosa, not round the back. The lift reaches the seventh floor; the last flight is on foot.",
+      "it": "Check-in dalle 14:30, check-out entro le 11:00. Piazza Sant'Agostino e' pedonale e il portone non e' vistoso: se arrivi in taxi fatti lasciare davanti al Caffe Bar Rosa, non sul retro. L'ascensore arriva al settimo piano, l'ultima rampa si fa a piedi."
+    },
+    "steps": [
+      {
+        "en": "Message us the day before with your estimated arrival time",
+        "it": "Scrivici il giorno prima con l'orario stimato di arrivo"
+      },
+      {
+        "en": "By taxi: stop in front of Caffe Bar Rosa, on the square",
+        "it": "In taxi: fermata davanti al Caffe Bar Rosa, in piazza"
+      },
+      {
+        "en": "By car: partner car park nearby, the square is a limited-traffic zone",
+        "it": "In auto: parcheggio convenzionato a pochi passi, la piazza e' ZTL"
+      },
+      {
+        "en": "We welcome you in person and hand over the keys",
+        "it": "Ti accogliamo di persona e ti consegniamo le chiavi"
+      }
+    ],
+    "image": "/demo/suite-prestige-salerno/foto-23.webp"
+  },
+  "gallery": [
+    {
+      "alt": {
+        "en": "Sunset over the port from the terrace",
+        "it": "Il tramonto sul porto dalla terrazza"
+      },
+      "src": "/demo/suite-prestige-salerno/foto-12.webp"
+    },
+    {
+      "alt": {
+        "en": "The gulf seen through the flowers in the planters",
+        "it": "Il golfo visto fra i fiori delle fioriere"
+      },
+      "src": "/demo/suite-prestige-salerno/foto-06.webp"
+    },
+    {
+      "alt": {
+        "en": "The terrace wrapping around the apartment",
+        "it": "La terrazza che gira intorno all'appartamento"
+      },
+      "src": "/demo/suite-prestige-salerno/foto-05.webp"
+    },
+    {
+      "alt": {
+        "en": "The terrace in the evening, with the port lights",
+        "it": "La terrazza la sera, con le luci del porto"
+      },
+      "src": "/demo/suite-prestige-salerno/foto-07.webp"
+    },
+    {
+      "alt": {
+        "en": "The living room with glass walls on two sides",
+        "it": "Il soggiorno con le vetrate su due lati"
+      },
+      "src": "/demo/suite-prestige-salerno/foto-15.webp"
+    },
+    {
+      "alt": {
+        "en": "The living room sofa",
+        "it": "Il divano del soggiorno"
+      },
+      "src": "/demo/suite-prestige-salerno/foto-03.webp"
+    },
+    {
+      "alt": {
+        "en": "The double bed",
+        "it": "Il letto matrimoniale"
+      },
+      "src": "/demo/suite-prestige-salerno/foto-16.webp"
+    },
+    {
+      "alt": {
+        "en": "The bathroom, with its window onto the sea",
+        "it": "Il bagno, con la finestra sul mare"
+      },
+      "src": "/demo/suite-prestige-salerno/foto-09.webp"
+    },
+    {
+      "alt": {
+        "en": "The hot tub on the terrace",
+        "it": "La vasca idromassaggio in terrazza"
+      },
+      "src": "/demo/suite-prestige-salerno/foto-13.webp"
+    },
+    {
+      "alt": {
+        "en": "The fitted kitchen",
+        "it": "La cucina attrezzata"
+      },
+      "src": "/demo/suite-prestige-salerno/foto-11.webp"
+    },
+    {
+      "alt": {
+        "en": "The dining table in front of the glass walls",
+        "it": "Il tavolo da pranzo davanti alle vetrate"
+      },
+      "src": "/demo/suite-prestige-salerno/foto-14.webp"
+    },
+    {
+      "alt": {
+        "en": "The sun setting behind the coast",
+        "it": "Il sole che cala dietro la costiera"
+      },
+      "src": "/demo/suite-prestige-salerno/foto-25.webp"
+    }
+  ],
+  "reviews": {
+    "rating": 9.2,
+    "count": 141,
+    "source": "Booking.com",
+    "items": [
+      {
+        "author": "Anthony",
+        "country": "AU",
+        "date": "2026-06",
+        "rating": 10,
+        "text": {
+          "en": "The location in Salerno Old Town is superb but it was eclipsed by the views from the rooftop terrace across to the mountains in one direction and the Mediterranean Sea in the other. The apartment is spacious and comfortably accommodated two couples. The hosts, Patrizia and Roberto, were also a pleasure to deal with and gave us great advice on things to do and see in Salerno.",
+          "it": "La posizione nel centro storico e' ottima, ma viene messa in ombra dalla vista dalla terrazza sul tetto: da un lato le montagne, dall'altro il Mediterraneo. L'appartamento e' spazioso e ha ospitato comodamente due coppie. Patrizia e Roberto sono stati un piacere e ci hanno dato ottimi consigli su cosa vedere a Salerno."
+        }
+      },
+      {
+        "author": "Markham",
+        "country": "CY",
+        "date": "2026-05",
+        "rating": 10,
+        "text": {
+          "en": "The apartment is situated in a quiet area surrounded by very good local places to eat which are all great value. There is a supermarket 50 m away which has everything you need. The apartment has a great view of the coastline and the port. Patrizia is a great host, very responsive, and actually lives on the next floor down so any issues are dealt with. Highly recommended.",
+          "it": "L'appartamento e' in una zona tranquilla, circondata da buoni posti dove mangiare a prezzi onesti. C'e' un supermercato a cinquanta metri. Bella vista sulla costa e sul porto. Patrizia e' un'ottima padrona di casa, molto disponibile, e abita al piano di sotto, quindi qualsiasi problema si risolve subito."
+        }
+      },
+      {
+        "author": "Roberta",
+        "country": "HR",
+        "date": "2026-04",
+        "rating": 10,
+        "text": {
+          "en": "The apartment is even better looking and bigger than in the photos. Equipped with everything one could need, even the shower on the roof terrace. Beautiful garden with flowers and herbs on the terrace. Location is in the heart of the historic centre but the building is new, so dry and well built.",
+          "it": "L'appartamento e' anche piu' bello e piu' grande che nelle foto. Attrezzato con tutto il necessario, perfino la doccia in terrazza. Bel giardino con fiori e piante aromatiche sul terrazzo. La posizione e' nel cuore del centro storico ma il palazzo e' nuovo, quindi asciutto e ben costruito."
+        }
+      },
+      {
+        "author": "Kim",
+        "country": "IE",
+        "date": "2026-01",
+        "rating": 9,
+        "text": {
+          "en": "The sunset view from the balcony here is just amazing. The apartment is modern, bright and clean and even in winter the balcony was a great spot to hang out. Just to note that you enter the apartment straight into the main bedroom and then the lounge has the foldout, so this would best suit guests not coming and going at different times of night.",
+          "it": "La vista del tramonto dal balcone e' stupenda. L'appartamento e' moderno, luminoso e pulito, e anche d'inverno il balcone e' un bel posto dove stare. Da segnalare che si entra direttamente nella camera da letto e il divano letto e' nel soggiorno: va bene per chi viaggia insieme, meno per chi entra ed esce a orari diversi."
+        }
+      },
+      {
+        "author": "Brian",
+        "country": "AT",
+        "date": "2026-02",
+        "rating": 9,
+        "text": {
+          "en": "The host communication was excellent. The apartment was well equipped: ignore older reviews that say cooking is limited, it is not, you have everything to cook a full meal. The apartment has a great view, terrace, and is in a great old town location. It has very good heating for winter. The daily cleaning was a bonus.",
+          "it": "Comunicazione ottima con i proprietari. L'appartamento e' ben attrezzato: ignorate le recensioni vecchie che dicono che non si puo' cucinare, c'e' tutto per preparare un pasto completo. Bella vista, terrazza, ottima posizione nel centro storico e riscaldamento efficace d'inverno. La pulizia quotidiana e' un plus."
+        }
+      },
+      {
+        "author": "Melanie",
+        "country": "AU",
+        "date": "2025-05",
+        "rating": 10,
+        "text": {
+          "en": "I love light and I love views, and I got both of those here. It is a little pricey for Salerno but it is very much worth it to see the harbour, the surrounding hills and across the hilltops of the old town. Our train was delayed and Patrizia arranged for Roberto to meet us at the station. The bed was incredibly comfortable. The breakfast vouchers were a lovely touch - no other place we stayed at offered this.",
+          "it": "Amo la luce e amo le viste, e qui ho avuto entrambe. Un po' caro per Salerno, ma vale per il porto, le colline e i tetti della citta' vecchia. Il nostro treno era in ritardo e Patrizia ha organizzato Roberto per venirci a prendere in stazione. Il letto era comodissimo. I voucher per la colazione sono un bel gesto: nessun altro posto ce li ha offerti."
+        }
+      }
+    ]
+  },
+  "offers": [
+    {
+      "active": true,
+      "badge": {
+        "en": "Nov - Jan",
+        "it": "Nov - Gen"
+      },
+      "id": "luci-artista",
+      "text": {
+        "en": "From November to January Salerno lights up for Luci d'Artista. Book three nights direct and the third is free - and the terrace, with the lit-up city below, is the right place to watch it from.",
+        "it": "Da novembre a gennaio Salerno si accende per Luci d'Artista. Prenotando direttamente tre notti, la terza non si paga: e la terrazza, con la citta' illuminata sotto, e' il posto giusto da cui guardarla."
+      },
+      "title": {
+        "en": "Luci d'Artista: third night free",
+        "it": "Luci d'Artista: terza notte in regalo"
+      }
+    },
+    {
+      "active": true,
+      "badge": {
+        "en": "From 3 nights",
+        "it": "Da 3 notti"
+      },
+      "id": "costiera-senza-auto",
+      "text": {
+        "en": "From three nights up, return ferry tickets to Amalfi or Positano for two. The pier is a fifteen-minute walk away: the car stays where it is.",
+        "it": "Da tre notti in su, i biglietti del traghetto andata e ritorno per Amalfi o Positano per due persone. Il molo e' a un quarto d'ora a piedi: l'auto resta dov'e'."
+      },
+      "title": {
+        "en": "The coast without a car",
+        "it": "Costiera senza auto"
+      }
+    },
+    {
+      "active": true,
+      "badge": {
+        "en": "-14%",
+        "it": "-14%"
+      },
+      "id": "settimana-lunga",
+      "text": {
+        "en": "Book seven consecutive nights direct and the seventh is free. Valid from September to June, holidays excluded.",
+        "it": "Prenotando direttamente sette notti consecutive, la settima non si paga. Valido da settembre a giugno, escluse le festivita'."
+      },
+      "title": {
+        "en": "Seven nights, one on us",
+        "it": "Sette notti, una in regalo"
+      }
+    },
+    {
+      "active": true,
+      "badge": {
+        "en": "Jun - Sep",
+        "it": "Giu - Set"
+      },
+      "id": "idromassaggio-estate",
+      "text": {
+        "en": "From June to September the hot tub on the terrace is ready when you arrive, with a chilled bottle of local white wine. From two nights up.",
+        "it": "Da giugno a settembre la vasca idromassaggio in terrazza e' pronta all'arrivo, con una bottiglia di bianco della costiera in fresco. Da due notti in su."
+      },
+      "title": {
+        "en": "Summer on the terrace",
+        "it": "Estate in terrazza"
+      }
+    }
+  ],
+  "location": {
+    "intro": {
+      "en": "Piazza Sant'Agostino is in the old town, inside the limited-traffic zone, one block from the shopping streets and a few minutes from the seafront. The station and the ferry pier are a good fifteen-minute walk away: you do not need a car for the Amalfi Coast.",
+      "it": "Piazza Sant'Agostino e' nel centro storico, dentro la ZTL, a un isolato dalle strade dello shopping e a pochi minuti dal lungomare. Stazione e molo dei traghetti si raggiungono a piedi in un quarto d'ora abbondante: per la Costiera Amalfitana l'auto non serve."
+    },
+    "pois": [
+      {
+        "distance": "all'angolo",
+        "icon": "map",
+        "name": {
+          "en": "Caffe Bar Rosa · breakfast",
+          "it": "Caffe Bar Rosa · la colazione"
+        }
+      },
+      {
+        "distance": "50 m",
+        "icon": "map",
+        "name": {
+          "en": "Supermarket",
+          "it": "Supermercato"
+        }
+      },
+      {
+        "distance": "200 m",
+        "icon": "map",
+        "name": {
+          "en": "San Pietro a Corte church",
+          "it": "Chiesa di San Pietro a Corte"
+        }
+      },
+      {
+        "distance": "200 m",
+        "icon": "map",
+        "name": {
+          "en": "San Giorgio church",
+          "it": "Chiesa di San Giorgio"
+        }
+      },
+      {
+        "distance": "600 m",
+        "icon": "wave",
+        "name": {
+          "en": "Salerno seafront",
+          "it": "Lungomare di Salerno"
+        }
+      },
+      {
+        "distance": "15-20 min a piedi",
+        "icon": "wave",
+        "name": {
+          "en": "Molo Manfredi · ferries to Amalfi and Positano",
+          "it": "Molo Manfredi · traghetti per Amalfi e Positano"
+        }
+      },
+      {
+        "distance": "15-20 min a piedi",
+        "icon": "car",
+        "name": {
+          "en": "Salerno railway station",
+          "it": "Stazione di Salerno"
+        }
+      },
+      {
+        "distance": "15 km",
+        "icon": "car",
+        "name": {
+          "en": "Salerno-Amalfi Coast airport",
+          "it": "Aeroporto Salerno-Costa d'Amalfi"
+        }
+      },
+      {
+        "distance": "46 km",
+        "icon": "car",
+        "name": {
+          "en": "Naples Capodichino airport",
+          "it": "Aeroporto di Napoli Capodichino"
+        }
+      }
+    ]
+  },
+  "booking": {
+    "mode": "link",
+    "provider": null,
+    "embed": {
+      "type": "html",
+      "html": "",
+      "url": "",
+      "scriptSrc": "",
+      "mountId": "booking-widget",
+      "height": 640,
+      "headExtra": ""
+    },
+    "link": {
+      "url": "https://www.booking.com/hotel/it/suite-prestige-salerno.html",
+      "channel": "booking",
+      "label": ""
+    },
+    "fallback": "internal",
+    "showDirectHint": true
+  },
+  "seo": {
+    "title": {
+      "en": "Suite Prestige Salerno · penthouse with terrace in the old town",
+      "it": "Suite Prestige Salerno · attico con terrazza nel centro storico"
+    },
+    "description": {
+      "en": "A whole 70 sqm top-floor apartment for four in Piazza Sant'Agostino, Salerno. Panoramic terrace over the gulf and the mountains, hot tub, breakfast included at the bar on the corner, ferries to the Amalfi Coast on foot.",
+      "it": "Appartamento intero di 70 mq per quattro persone all'ultimo piano, in Piazza Sant'Agostino a Salerno. Terrazza panoramica sul golfo e sulle montagne, vasca idromassaggio, colazione inclusa al bar all'angolo, traghetti per la Costiera Amalfitana a piedi."
+    },
+    "ogImage": "/demo/suite-prestige-salerno/foto-15.webp"
+  },
+  "plan": {
+    "booking_engine": true,
+    "direct_requests": true,
+    "multilanguage": true,
+    "media_upload": true,
+    "theme_switching": true,
+    "color_customization": true,
+    "gallery": true,
+    "reviews": true,
+    "map": true,
+    "offers": true,
+    "blog": true,
+    "seo_advanced": true,
+    "analytics": false,
+    "whatsapp": true,
+    "demo_showcase": false,
+    "extra_pages": false,
+    "guest_area": false
+  },
+  "settings": {
+    "section.rooms": true,
+    "section.amenities": true,
+    "section.story": true,
+    "section.gallery": true,
+    "section.reviews": true,
+    "section.map": true,
+    "section.offers": true,
+    "section.breakfast": true,
+    "section.checkin": true,
+    "booking.hero_bar": true,
+    "booking.sticky_bar": true,
+    "booking.show_prices": false,
+    "section.blog": true,
+    "nav.blog": true,
+    "nav.gallery": true,
+    "hero.video": false,
+    "contact.whatsapp_button": true
+  },
+  "vetrina": {
+    "luogo": "Salerno (SA) · centro storico",
+    "nota": "Cliente reale. Piazza Sant'Agostino 16, 84121 Salerno. UNITA' UNICA: appartamento intero all'ottavo piano, 70 mq, max 4 persone (matrimoniale + divano letto), 1 bagno, terrazza panoramica su piu' lati. Host: Patrizia (proprietaria, abita al piano di sotto) e Roberto (accoglienza) - nomi ricorrenti nelle recensioni Booking, DA CONFERMARE. Telefono +39 331 165 7566 da PagineGialle/Virgilio, DA VERIFICARE. CIN IT065116C1U8DOJZQD e CIR 15065116EXT0756 da TripAdvisor. CONTENUTI FITTIZI da sostituire prima di andare live: email info@suiteprestige.com e privacy@suiteprestige.com (inventate sul dominio reale suiteprestige.com), tutte e 4 le offerte (inventate, a tema stagione/Luci d'Artista), i 2 articoli del blog (scritti su fatti verificati ma non forniti dal cliente). Prezzi non affidabili (hotels-in-it indica da 164 EUR), show_prices off. DA CONFERMARE: P.IVA e ragione sociale, email vera, orario colazione al Caffe Bar Rosa, se la vasca idromassaggio e' ancora attiva (una recensione dice 'no hot tub in winter'), numero recensioni (141 planetofhotels / 142 hotels-in-it), distanza reale dal Castello di Arechi (TripAdvisor dice 800 m: sembra sbagliato, omessa). FOTO 26-29 NON USATE: mostrano una camera diversa (pavimento chiaro, stile moderno) - o e' una seconda unita' (TripAdvisor dice '2 rooms') o e' la camera ristrutturata, chiedere al cliente.",
+    "creata": "2026-08-27",
+    "fonte": "Google Maps (link cliente), Booking suite-prestige-salerno, planetofhotels, hotels-in-it, TripAdvisor, PagineGialle/Virgilio"
+  },
+  "blog": {
+    "intro": {
+      "en": "What we tell our guests when we hand over the keys.",
+      "it": "Quello che diciamo agli ospiti quando consegniamo le chiavi."
+    },
+    "title": {
+      "en": "Salerno, explained by people who live here",
+      "it": "Salerno, spiegata da chi ci abita"
+    }
+  },
+  "posts": [
+    {
+      "active": true,
+      "body": {
+        "en": [
+          "Molo Manfredi is a fifteen-minute walk from Piazza Sant'Agostino, flat all the way along the seafront. From April to October, ferries to Amalfi and Positano leave several times a day and take just under half an hour. By car, with traffic on the coast road, it is at least sixty minutes - and then there is parking.",
+          "The tip is to take the first morning departure: you reach Amalfi before the coaches unload, and you can see the cathedral in peace.",
+          "If you only have one stop, Atrani is a ten-minute walk from Amalfi and has a tenth of the people. If you have two, the ferry carries on to Positano.",
+          "Tickets are sold at the pier. On August weekends it is worth booking the day before."
+        ],
+        "it": [
+          "Il molo Manfredi e' a un quarto d'ora a piedi da Piazza Sant'Agostino, tutto in piano lungo il lungomare. Da aprile a ottobre i traghetti per Amalfi e Positano partono piu' volte al giorno e ci mettono una mezz'ora scarsa. In auto, con il traffico della statale amalfitana, ce ne vogliono almeno sessanta minuti, e poi resta il problema di dove lasciarla.",
+          "Il consiglio e' prendere la prima corsa del mattino: ad Amalfi si arriva prima che scendano i pullman dei gruppi, e il Duomo si vede con calma.",
+          "Se avete tempo per una sola tappa, Atrani e' a dieci minuti a piedi da Amalfi e ha un decimo delle persone. Se ne avete due, il traghetto prosegue per Positano.",
+          "I biglietti si comprano al molo. Nei fine settimana di agosto conviene prenotarli il giorno prima."
+        ]
+      },
+      "cover": "/demo/suite-prestige-salerno/foto-25.webp",
+      "excerpt": {
+        "en": "From the front door to Molo Manfredi is a fifteen-minute walk. From there the ferry reaches Amalfi in half an hour: by car it would take twice as long, plus parking.",
+        "it": "Dal portone al molo Manfredi ci sono un quarto d'ora di passeggiata. Da li' il traghetto arriva ad Amalfi in mezz'ora: in auto ce ne vorrebbe il doppio, piu' il parcheggio."
+      },
+      "id": "costiera-in-giornata",
+      "tag": {
+        "en": "Day trips",
+        "it": "Gite"
+      },
+      "title": {
+        "en": "The Amalfi Coast in a day, leaving on foot",
+        "it": "La Costiera in giornata, partendo a piedi"
+      }
+    },
+    {
+      "active": true,
+      "body": {
+        "en": [
+          "The square is inside the limited-traffic zone: no cars come in, and you notice it in the evening. The supermarket is fifty metres away, handy for water and day-two breakfast; Caffe Bar Rosa is on the corner, and that is where the breakfast vouchers are spent.",
+          "The old town starts right here: a few minutes on foot and you are among the shops and restaurants. The rule we give everyone is to walk two streets away from the seafront: places with photos of the dishes in the window live off passing trade, and it shows.",
+          "The seafront is six hundred metres away, the station and the ferry pier just under fifteen minutes on foot. For Pompeii and Naples, the train is the simplest choice.",
+          "From the terrace, in the evening, you can see Arechi Castle lit up on the hill. You get there by bus or taxi: on foot it is a long climb."
+        ],
+        "it": [
+          "La piazza e' dentro la ZTL: le auto non entrano e la sera si sente. Il supermercato e' a cinquanta metri, comodo per l'acqua e la colazione del secondo giorno; il Caffe Bar Rosa e' all'angolo ed e' dove si spendono i voucher della colazione.",
+          "Da qui il centro storico comincia subito: pochi minuti a piedi e si e' nelle strade dei negozi e dei ristoranti. La regola che diamo a tutti e' di allontanarsi di due strade dal lungomare: i locali con le foto dei piatti in vetrina vivono di passaggio, e si vede.",
+          "Il lungomare e' a seicento metri, la stazione e il molo dei traghetti a un quarto d'ora scarso a piedi. Per Pompei e Napoli il treno e' la scelta piu' semplice.",
+          "Dalla terrazza, la sera, si vede il Castello di Arechi illuminato sulla collina. Ci si arriva in autobus o in taxi: a piedi la salita e' lunga."
+        ]
+      },
+      "cover": "/demo/suite-prestige-salerno/foto-07.webp",
+      "excerpt": {
+        "en": "Supermarket fifty metres away, bar on the corner, old town starting round the corner. You do not need to take anything to get about.",
+        "it": "Supermercato a cinquanta metri, bar all'angolo, centro storico che comincia dietro l'angolo. Non serve prendere niente per muoversi."
+      },
+      "id": "intorno-alla-piazza",
+      "tag": {
+        "en": "The neighbourhood",
+        "it": "Quartiere"
+      },
+      "title": {
+        "en": "What is around Piazza Sant'Agostino",
+        "it": "Cosa c'e' intorno a Piazza Sant'Agostino"
+      }
+    }
+  ]
+}
