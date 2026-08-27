@@ -5,6 +5,7 @@ import { cn, safeMediaUrl } from '@/lib/utils'
 import Icon from '@/components/Icon'
 import SmartImage from '@/components/SmartImage'
 import HeroBooking from '@/components/booking/HeroBooking'
+import Particelle from './Particelle'
 
 // ─────────────────────────────────────────────────────────────
 //  Apertura · tema HERITAGE
@@ -48,6 +49,7 @@ export default function HeroHeritage() {
           />
         )}
         <div className="absolute inset-0 bg-bg/85" />
+        {features['hero.particles'] && <Particelle />}
       </div>
 
 

@@ -288,6 +288,13 @@ export const FEATURES = {
     hint: 'Usa un video di sfondo al posto della foto principale.',
     default: false,
   },
+  'hero.particles': {
+    tier: 'client',
+    group: 'core',
+    label: 'Sfondo animato nell’intestazione',
+    hint: 'Particelle che si muovono piano dietro al titolo. Si spegne da sola se il visitatore ha chiesto di ridurre le animazioni.',
+    default: true,
+  },
   'contact.whatsapp_button': {
     tier: 'client',
     group: 'booking',

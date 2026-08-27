@@ -5,6 +5,7 @@ import { cn, safeMediaUrl } from '@/lib/utils'
 import Icon from '@/components/Icon'
 import SmartImage from '@/components/SmartImage'
 import HeroBooking from '@/components/booking/HeroBooking'
+import Particelle from './Particelle'
 
 // ─────────────────────────────────────────────────────────────
 //  Apertura · tema VETRO
@@ -46,6 +47,7 @@ export default function HeroGlass() {
         )}
         <div className="absolute inset-0 bg-bg/75 backdrop-blur-[2px]" />
         <div className="absolute inset-0" style={{ backgroundImage: 'var(--backdrop)', opacity: 0.75 }} />
+        {features['hero.particles'] && <Particelle />}
       </div>
 
       <div className={cn(s.container, 'relative')}>

@@ -107,7 +107,13 @@ export default function DateRangePicker({ value, onChange, minNotti = 1, classNa
         <div
           className={cn(
             s.panel,
-            'absolute left-0 right-0 z-50 mt-2 p-4 sm:right-auto sm:min-w-[34rem]',
+            // `!bg-surface`: il pannello dei temi e' semitrasparente e
+            // sotto il calendario ci finisce il testo della pagina.
+            // Qui serve un fondo pieno per leggere i giorni. L'! non e'
+            // pigrizia: `cn` concatena e basta, senza tailwind-merge, e
+            // fra `bg-surface` e `bg-surface/60` vincerebbe l'ordine del
+            // CSS generato, che non e' garantito.
+            'absolute left-0 right-0 z-50 mt-2 p-4 !bg-surface sm:right-auto sm:min-w-[34rem]',
             'max-h-[70svh] overflow-y-auto'
           )}
           role="dialog"

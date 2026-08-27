@@ -5,6 +5,7 @@ import { cn, prefersReducedMotion, safeMediaUrl } from '@/lib/utils'
 import Icon from '@/components/Icon'
 import SmartImage from '@/components/SmartImage'
 import HeroBooking from '@/components/booking/HeroBooking'
+import Particelle from './Particelle'
 
 // ─────────────────────────────────────────────────────────────
 //  Apertura · tema NOIR
@@ -53,6 +54,7 @@ export default function HeroNoir() {
         <div className="absolute inset-0 bg-bg/55" />
         <div className="absolute inset-0 bg-gradient-to-b from-bg via-bg/25 to-bg" />
         <div className="absolute inset-0" style={{ backgroundImage: 'var(--backdrop)' }} />
+        {features['hero.particles'] && <Particelle />}
       </div>
 
       <div className={cn(s.container, 'text-center')}>
