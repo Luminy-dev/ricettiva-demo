@@ -34,9 +34,9 @@
     "checkinTime": "14:00 – 19:00",
     "checkoutTime": "10:00 – 11:00",
     "email": "info@i7mari.it",
-    "phone": "",
-    "phoneRaw": "",
-    "whatsapp": "",
+    "phone": "+39 324 083 4217",
+    "phoneRaw": "+393240834217",
+    "whatsapp": "+39 324 083 4217",
     "whatsappMessage": {
       "en": "Hello! I would like to check availability at B&B I 7 Mari.",
       "es": "¡Hola! Quisiera información sobre la disponibilidad en B&B I 7 Mari.",
@@ -755,7 +755,7 @@
     "offers": true,
     "blog": true,
     "seo_advanced": true,
-    "analytics": false,
+    "analytics": true,
     "whatsapp": true,
     "demo_showcase": false,
     "extra_pages": false,
@@ -775,14 +775,14 @@
     "booking.sticky_bar": true,
     "booking.show_prices": false,
     "hero.video": false,
-    "contact.whatsapp_button": false,
+    "contact.whatsapp_button": true,
     "nav.blog": true,
     "nav.gallery": false,
     "section.blog": true
   },
   "vetrina": {
     "luogo": "Salerno (SA) · centro storico",
-    "nota": "Cliente reale. Largo San Petrillo 3, 84121 Salerno. UNITA' UNICA: un solo appartamento a uso esclusivo, max 4 persone (2 nel letto king in camera + 2 sul divano letto in soggiorno), 2 bagni sul corridoio, cucina attrezzata, lavatrice, vasca idromassaggio. Confermato dal cliente: il bagno esterno alla camera e' normale, e' un appartamento, non un B&B a camere. Dati e foto da portali OTA che ripubblicano l'annuncio Booking (planetofhotels, hotels-in-it, bedandbreakfast.eu, hotelvicino, hotelcentro, goibibo, tripadvisor). BLOCCANTE: nessuna fonte espone il TELEFONO - campo vuoto e pulsante WhatsApp disattivato, serve il numero dal cliente. CONTENUTI FITTIZI da sostituire prima di andare live: email info@i7mari.it e privacy@i7mari.it (inventate), tutte e 4 le offerte (inventate). DA CONFERMARE: P.IVA, prezzi (fonti divergenti 141-187 EUR, show_prices off), metratura totale dell'appartamento (18 mq e' solo la camera, da goibibo), distanza dal Duomo (50 m secondo hotelvicino, 157 m secondo hotelcentro: messo 150 m), punteggio (9,4/133 su planetofhotels, 9,5/134 su hotels-in-it, 9,2/130 su amimir: messo 9,4/133), nome dell'host (nelle recensioni ricorre Marco, una cita Antonio).",
+    "nota": "Cliente reale. Largo San Petrillo 3, 84121 Salerno. UNITA' UNICA: un solo appartamento a uso esclusivo, max 4 persone (2 nel letto king in camera + 2 sul divano letto in soggiorno), 2 bagni sul corridoio, cucina attrezzata, lavatrice, vasca idromassaggio. Confermato dal cliente: il bagno esterno alla camera e' normale, e' un appartamento, non un B&B a camere. Telefono e WhatsApp REALI, forniti dal cliente: +39 324 083 4217. Dati e foto da portali OTA che ripubblicano l'annuncio Booking (planetofhotels, hotels-in-it, bedandbreakfast.eu, hotelvicino, hotelcentro, goibibo, tripadvisor). CONTENUTI FITTIZI da sostituire prima di andare live: email info@i7mari.it e privacy@i7mari.it (inventate), tutte e 4 le offerte (inventate). DA CONFERMARE: P.IVA, prezzi (fonti divergenti 141-187 EUR, show_prices off), metratura totale dell'appartamento (18 mq e' solo la camera, da goibibo), distanza dal Duomo (50 m secondo hotelvicino, 157 m secondo hotelcentro: messo 150 m), punteggio (9,4/133 su planetofhotels, 9,5/134 su hotels-in-it, 9,2/130 su amimir: messo 9,4/133), nome dell'host (nelle recensioni ricorre Marco, una cita Antonio), orario e contenuto della colazione al bar convenzionato.",
     "creata": "2026-08-14",
     "fonte": "https://www.booking.com/hotel/it/i-7-mari.it.html"
   },

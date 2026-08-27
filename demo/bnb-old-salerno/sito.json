@@ -819,7 +819,7 @@
     "offers": true,
     "blog": true,
     "seo_advanced": true,
-    "analytics": false,
+    "analytics": true,
     "whatsapp": true,
     "demo_showcase": false,
     "extra_pages": false,

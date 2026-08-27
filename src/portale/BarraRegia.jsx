@@ -44,7 +44,10 @@ function siRegia() {
 export default function BarraRegia({ slug, preset, onPreset }) {
   const { themeId, setTheme } = useSite()
   const { lang, setLang, available } = useI18n()
-  const [aperta, setAperta] = useState(true)
+  // Chiusa di default: aperta occupa mezzo schermo da telefono e il
+  // cliente vede i nostri comandi prima del suo sito. Si apre col
+  // pulsante «Comandi» in basso a sinistra.
+  const [aperta, setAperta] = useState(false)
   const [pannello, setPannello] = useState(false)
   const [regia] = useState(siRegia)
 
@@ -137,10 +140,11 @@ export default function BarraRegia({ slug, preset, onPreset }) {
               <button
                 type="button"
                 onClick={() => setAperta(false)}
-                className="rounded-lg p-2 text-white/50 transition hover:bg-white/10 hover:text-white"
+                className="flex h-9 w-9 shrink-0 items-center justify-center rounded-lg border border-white/25 bg-white/10 text-white transition hover:border-white/40 hover:bg-white/20"
                 aria-label="Nascondi i comandi"
+                title="Nascondi i comandi"
               >
-                <Icon name="close" size={16} />
+                <Icon name="close" size={18} />
               </button>
             </div>
           </div>
@@ -152,21 +156,16 @@ export default function BarraRegia({ slug, preset, onPreset }) {
               <span className="font-semibold text-white">{PRESETS[preset]?.label}:</span>{' '}
               <span className="text-slate-400">{differenze(preset)}</span>
             </p>
-            <p className="mt-0.5 flex flex-wrap items-center gap-x-2 text-[0.68rem] text-slate-500">
-              <span>Anteprima riservata</span>
-              <span aria-hidden>·</span>
-              <span>i moduli non inviano richieste</span>
-              <span aria-hidden>·</span>
-              <span>non indicizzata</span>
-              {regia && (
-                <>
-                  <span aria-hidden>·</span>
-                  <a href="/" className="underline underline-offset-2 transition hover:text-slate-300">
-                    elenco demo
-                  </a>
-                </>
-              )}
-            </p>
+            {/* Niente avvisi qui sotto: al cliente non servono e da
+                telefono rubavano una riga alla barra. Resta il rientro
+                all'elenco, che vedi solo tu (localhost o ?regia). */}
+            {regia && (
+              <p className="mt-0.5 text-[0.68rem] text-slate-500">
+                <a href="/" className="underline underline-offset-2 transition hover:text-slate-300">
+                  elenco demo
+                </a>
+              </p>
+            )}
           </div>
         </div>
       </div>

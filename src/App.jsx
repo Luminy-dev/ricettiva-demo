@@ -10,6 +10,7 @@ import Hero from '@/components/hero'
 import Seo from '@/components/Seo'
 import WhatsAppButton from '@/components/WhatsAppButton'
 import StickyBookingBar from '@/components/booking/StickyBookingBar'
+import CookieBar from '@/components/CookieBar'
 
 import Story from '@/sections/Story'
 import Units from '@/sections/Units'
@@ -164,6 +165,12 @@ function Guscio({ rotta, preset, onPreset }) {
       ) : (
         <Pagina />
       )}
+      {/* Banner cookie. Nel template sta nel guscio dell'app; qui va
+          alzato, altrimenti finisce sotto la barra di regia della demo
+          (stesso angolo, z-index piu' alto). */}
+      <div className="[&>div]:!bottom-28 lg:[&>div]:!bottom-20">
+        <CookieBar />
+      </div>
       <BarraRegia slug={rotta.slug} preset={preset} onPreset={onPreset} />
     </I18nProvider>
   )

@@ -97,7 +97,14 @@ export default function BookingBar() {
 
   return (
     <>
-      <form onSubmit={verifica} className={cn(s.panel, 'p-2.5 sm:p-3')}>
+      {/* `relative z-30` non e' decorativo: il pannello del calendario e'
+          `absolute z-50`, ma `s.panel` ha un backdrop-blur e crea un
+          contesto di impilamento, quindi quello z-50 vale solo qui
+          dentro. Senza uno z esplicito sulla barra, i chip dell'hero —
+          che vengono dopo nel DOM e hanno anch'essi un backdrop-blur —
+          finiscono sopra il calendario aperto. Si vede da mobile, dove
+          il calendario e' largo quanto la barra. */}
+      <form onSubmit={verifica} className={cn(s.panel, 'relative z-30 p-2.5 sm:p-3')}>
         {/* Una riga sola: date, ospiti, azione. Le colonne "auto" tengono
             il bottone stretto quanto la sua etichetta e lasciano tutto
             lo spazio residuo al calendario. */}
