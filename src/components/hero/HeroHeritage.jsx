@@ -25,7 +25,13 @@ export default function HeroHeritage() {
   const useVideo = features['hero.video'] && hero.video
 
   return (
-    <section id="home" className="relative flex min-h-[100svh] items-center overflow-hidden pb-20 pt-28 sm:pt-32">
+    <section id="home" className="relative isolate flex min-h-[100svh] items-center overflow-hidden pb-20 pt-28 sm:pt-32">
+      {/* `isolate` non e' cosmetico: lo sfondo qui sotto e' `-z-10` e la
+          sezione, da sola, non apre un contesto di impilamento. Senza,
+          quel livello finisce dietro al fondo opaco di <body> e di
+          `s.page`, e sparisce tutto — fotografia compresa. Con
+          `isolate` il -z-10 resta dentro la sezione: sotto ai contenuti,
+          sopra al fondo pagina. */}
       {/* Sfondo */}
       <div className="absolute inset-0 -z-10">
         {useVideo ? (
